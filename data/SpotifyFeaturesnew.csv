@@ -1,0 +1,1229 @@
+genre,artist_name,track_name,track_id,popularity,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence
+Opera,Giuseppe Verdi,"Stiffelio, Act III: Ei fugge! … Lina, pensai che un angelo … Oh gioia inesprimbile",7EsKYeHtTc4H4xWiTqSVZA,21,0.986,0.313,490867,0.231,0.000431,C#,0.0964,-14.287,Major,0.0547,86.001,4-Apr,0.0886
+Opera,Giacomo Puccini,Madama Butterfly / Act 1: ... E soffitto e pareti,7MfmRBvqaW0I6UTxXnad8p,18,0.972,0.36,176797,0.201,0.028,D#,0.133,-19.794,Major,0.0581,131.798,4-Apr,0.369
+Opera,Giacomo Puccini,"Turandot / Act 2: Gloria, gloria, o vincitore",7pBo1GDhIysyUMFXiDVoON,10,0.935,0.168,266184,0.47,0.0204,C,0.363,-8.415,Major,0.0383,75.126,4-Mar,0.0696
+Opera,Giuseppe Verdi,"Rigoletto, Act IV: Venti scudi hai tu detto?",02mvYZX5aKNzdqEo6jF20m,17,0.961,0.25,288573,0.00605,0,D,0.12,-33.44,Major,0.048,76.493,4-Apr,0.038
+Opera,Giuseppe Verdi,"Don Carlo / Act 4: ""Ella giammai m'amò!""",03TW0jwGMGhUabAjOpB1T9,19,0.985,0.142,629760,0.058,0.146,D,0.0969,-23.625,Major,0.0493,172.935,4-Apr,0.0382
+Opera,Giuseppe Verdi,D'amor sull'ali rosee,0G75cCcf6vBSnMFFkVW9pq,20,0.99,0.211,334720,0.064,0.0196,G#,0.073,-20.666,Major,0.0534,81.403,4-Mar,0.04
+Opera,Georges Bizet,Waxman : Carmen Fantasie,10gPtjlpTS9Uq6EUQuGljt,13,0.98,0.341,646813,0.16,0.0146,D,0.113,-19.753,Major,0.0575,171.444,4-Jan,0.3
+Opera,Giuseppe Verdi,4 Pezzi sacri: No. 4. Te Deum,1iayQ9XmNJL2F0S0zjdNST,19,0.975,0.109,963440,0.018,0.791,F#,0.0712,-26.778,Major,0.0399,82.178,4-Apr,0.0359
+Opera,Vincenzo Bellini,I puritani: Ah! per sempre io ti perdei - Bel sogno beato (Live),297JkKwa74ayxAz38hXMeb,20,0.951,0.169,417987,0.178,0.185,C,0.665,-21.589,Minor,0.054,65.995,4-Apr,0.112
+Opera,Léo Delibes,"Lakmé, Act I, No. 2: Viens, Mallika... Sous le dôme épais (""Flower Duet"")",3Eu8Qqq7vv0UsNWf0mWTmZ,16,0.968,0.25,373480,0.12,4.92E-05,B,0.0865,-21.205,Major,0.0654,73.433,4-Apr,0.0384
+Opera,Richard Wagner,"Tristan und Isolde, WWV. 90, Act III: Mild und leise (Liebestod)",3QwZLLBxuUlDgRhNqEQW9z,20,0.978,0.18,521640,0.167,0.235,B,0.105,-19.212,Major,0.043,81.348,4-Apr,0.032
+Opera,Georges Bizet,Carmen: Act I: 'Carmen! sur tes pas nous nous pressons tous!,3W2KxQd1u8v1UOCsWn1qyV,17,0.987,0.154,103827,0.0948,0.505,A,0.0701,-19.569,Minor,0.0417,65.363,4-Mar,0.0392
+Opera,Giuseppe Verdi,"Falstaff, Act I Scene 2: ""Alice. Meg. Nannetta""",3ZuEvBlO6F8iArGPdnkD8x,12,0.968,0.518,74107,0.0834,0,C,0.244,-28.472,Major,0.0724,110.867,4-Apr,0.618
+Opera,Giacomo Puccini,Turandot / Act 1: Perché tarda la luna? (Coro),46GsTkeUgN1nYhv4NPBx6F,19,0.953,0.0685,247757,0.0864,0.877,A,0.247,-20.449,Major,0.0381,75.841,4-Jan,0.0388
+Opera,Giuseppe Verdi,"""O terra, addio; addio valle di pianti""",4Fx2s0qn4s4KEPiNTDXKRL,15,0.973,0.16,300685,0.121,1.22E-05,C#,0.113,-19.373,Major,0.0458,173.651,4-Apr,0.0613
+Opera,Georges Bizet,Bizet: Carmen: Non! Tu ne m'aimes pas! - Act Two,4Mb2XoVuyQK6yAbcbUKOk0,16,0.991,0.234,257040,0.236,0.657,C,0.127,-19.226,Major,0.0532,83.559,4-Mar,0.115
+Opera,Richard Wagner,"Lohengrin, WWV 75: Prelude to Act I",4mOuVk8A69BS1D8FBLOyt8,17,0.974,0.0891,653000,0.0486,0.92,A,0.0763,-25.831,Major,0.0403,85.885,4-Apr,0.029
+Opera,Georges Bizet,Bizet: Carmen: Hola! Carmen! Hola! Hola! - Act Two,4v4nQkmWVvHdJCOltOET4T,16,0.99,0.321,339933,0.336,0.286,G,0.359,-17.688,Major,0.0677,109.962,4-Apr,0.308
+Opera,Giacomo Puccini,"Madama Butterfly, Act II: Un bel di vedremo",5ngGqPApX9w5vTNIOZmHEZ,18,0.988,0.176,270693,0.123,7.78E-05,C#,0.0823,-16.237,Major,0.0459,82.558,4-Apr,0.0674
+Opera,Giacomo Puccini,"Puccini : La rondine : Act 3 ""Dimmi che vuoi seguirmi"" [Ruggero]",5q5bTF4FwndETJuaprz8GE,14,0.961,0.147,211880,0.0333,0.0112,E,0.14,-23.409,Major,0.045,85.291,4-Mar,0.0593
+Opera,Giuseppe Verdi,"Requiem: XVI. Libera Me, Dies Irae, Requiem Aeternam",6ExvIqyqDDtxtCsXbRpr7i,17,0.929,0.181,444907,0.0375,0.000423,A#,0.111,-24.623,Minor,0.0548,81.396,4-Apr,0.0386
+Opera,Georges Bizet,"Carmen, Act I: No.3 bis Récit: C'est bien là, n'est-ce pas? (Zuniga/Don José)",6V6ZwnhvlFPRkTzmuPWkcu,18,0.976,0.518,81773,0.143,0,G,0.405,-21.551,Major,0.172,83.512,4-Apr,0.391
+Opera,Richard Wagner,"Tristan und Isolde, WWV 90 / Act 3: ""Mild und leise wie er lächelt"" (Isoldes Liebestod)",6aeoyoYjAptLrWzJkJpCgi,15,0.926,0.223,438267,0.172,0.142,B,0.149,-18.235,Major,0.0419,90.402,4-Apr,0.0348
+Opera,Richard Wagner,"Das Rheingold, WWV 86A, Scene 1: ""Weia! Waga! Woge, du Welle""",75XnflzyreWomyyY7xTTvZ,16,0.966,0.279,85120,0.0549,0.00113,D#,0.393,-25.069,Major,0.0371,136.904,4-Apr,0.0837
+Opera,Giacomo Puccini,Madama Butterfly / Act 1: Ecco. Son giunte al sommo del pendio,7Eq2Jr9SNLoGHxwoouJ2rp,17,0.959,0.216,222029,0.079,0.0265,C#,0.154,-25.789,Major,0.0393,84.51,4-Apr,0.0374
+Opera,Georges Bizet,"Bizet: Carmen: Ecoute, ecoute, compagnon, ecoute! - Act Three",7sXR2q4FuSKOAPYvmmBjh3,16,0.987,0.293,410000,0.151,0.0398,C,0.219,-24.395,Major,0.0652,91.085,4-Apr,0.152
+Opera,Tomaso Albinoni,"Oboe Concerto in B-Flat Major, Op. 9, No. 11: II. Adagio",3OVRK6RqHozP7g0lKf2zYk,21,0.945,0.153,206107,0.131,0.892,G,0.316,-21.035,Minor,0.0396,142.93,4-Apr,0.095
+Opera,Tomaso Albinoni,"Sonata A Violino Solo Di Me Tomaso Albinoni Coposta Per Il Signor Pisendel In Bb, S. 32: Allegro",5cWDNT7ErG3Bf7QkdAsiO5,13,0.842,0.443,190080,0.314,2.02E-06,A#,0.072,-15.755,Major,0.0459,98.964,4-Apr,0.916
+Opera,Teresa Berganza,El majo discreto,0oJqy24a8mylnrvMLH6a3h,14,0.99,0.452,88067,0.0148,0,G,0.0919,-27.107,Major,0.037,88.035,4-Jan,0.709
+Opera,Jean-Baptiste Lully,Idylle sur la paix: Air pour Madame la Dauphine,3X9bhmsGK5FmDbjl4Reylz,22,0.796,0.553,126667,0.33,0.968,G#,0.136,-15.236,Minor,0.0298,138.935,4-Apr,0.486
+Opera,Jean-Baptiste Lully,Flore: Entree pour les Jardiniers et quatre Galants,238W4SRnP0hKcNv80X3gOl,12,0.726,0.383,51800,0.183,0.156,C,0.402,-19.151,Major,0.0373,83.148,4-Apr,0.923
+Opera,Jean-Philippe Rameau,Les Indes galantes: Air des Sauvages,2qE1t7sWiTDmLvGNQe57xc,21,0.937,0.47,118400,0.185,0.00659,F#,0.13,-19.131,Minor,0.0418,85.095,4-Apr,0.812
+Opera,Jean-Philippe Rameau,Zaïs : Overture,4FsQwrARZW4QFj3wwxRdWb,15,0.872,0.367,347000,0.349,0.74,C#,0.1,-15.256,Major,0.0532,127.044,4-Mar,0.244
+Opera,Jean-Baptiste Lully,"Le Bourgeois Gentilhomme, LWV 43: Ouverture (1670)",6jnm0rXkGlaDTR7T6wNPZi,21,0.882,0.398,179573,0.247,0.53,F,0.0929,-16.073,Minor,0.0374,116.834,4-Apr,0.399
+Opera,Anne Sofie von Otter,I Want To Vanish,7MXD7LWhcgXXLgZXxmwzVO,20,0.972,0.377,160467,0.159,8.25E-05,C,0.111,-14.26,Major,0.0514,84.973,4-Mar,0.22
+Opera,Tomaso Albinoni,"Sonata In G Minor For Violin And Continuo, So 33: Corrente: Allegro",3HriuKEnu0tBnmdxGcd3e4,13,0.852,0.304,187120,0.262,0,G,0.243,-16.491,Minor,0.0558,174.419,4-Mar,0.864
+Opera,Pietro Mascagni,Cavalleria Rusticana: Intermezzo - Instrumental,3hdaiDeFLgdGFoWnBtpbpm,17,0.905,0.13,192933,0.158,0.854,F,0.143,-20.086,Major,0.0408,89.574,4-Mar,0.0394
+Opera,Jean-Baptiste Lully,Exaudiat te Dominus (Psalm 19): Domine salvum,7aU88CeEVXqVmzz2XpnCzB,16,0.98,0.162,190533,0.0683,0.0154,A#,0.144,-20.84,Minor,0.0495,170.663,4-Mar,0.0759
+Opera,Tomaso Albinoni,"Sonata In G Minor For Violin And Continuo, So 33: Gavotta: Allegro",1EucK98ZgRz5VJ1n2L1DFP,14,0.835,0.452,98867,0.0937,0,G,0.239,-19.132,Minor,0.0336,94.786,4-Apr,0.735
+Opera,Christina Pluhar,"Pluhar: Orfeo Chamán, Act 4: ""Esta barca"" (Nahual, Orfeo)",1RSUMUdAQCi0pKm0isjoGz,22,0.946,0.271,481427,0.119,0.000301,D,0.104,-18.565,Minor,0.0362,106.52,4-Apr,0.105
+Opera,Jean-Philippe Rameau,La naissance d'Osiris: Overture,3tJq9Wg5Uf76lN8b4gEfVs,14,0.917,0.397,366227,0.106,0.648,B,0.102,-18.175,Major,0.0418,113.442,4-Mar,0.178
+Opera,Alessandro Scarlatti,Sento nel core,6w8eTjCWYbXODykmI3SM2t,12,0.994,0.357,203667,0.0195,0.00122,D,0.0998,-24.396,Minor,0.0399,87.467,4-Mar,0.185
+Opera,Alessandro Scarlatti,Le violette,1mprqOk9miI3Ohznbk6S3W,14,0.94,0.521,129027,0.0552,1.84E-06,A#,0.0525,-25.604,Major,0.0602,107.851,4-Apr,0.502
+Opera,Christina Pluhar,"Pluhar: Orfeo Chamán, Act 4: ""Sigue bbiendo"" (Nahual, Orfeo)",7yrUqkN8xPb7VfFG9sq7vu,22,0.927,0.396,126920,0.175,9.11E-05,D,0.114,-17.765,Minor,0.0306,105.824,4-Apr,0.302
+Opera,Geminiano Giacomelli,"Merope: Sposa, non mi conosci",3En11E0NJfavi6IBRq38Ge,8,0.966,0.358,601133,0.0428,0.000268,E,0.0831,-22.055,Minor,0.0499,111.143,4-Apr,0.04
+Opera,Adolphe Adam,Giselle: Act I: Pesante,10GQtz5SUrRc25bBH8OKFU,12,0.728,0.495,43800,0.144,0.987,A,0.124,-21.167,Major,0.0722,145.9,4-Apr,0.739
+Opera,Engelbert Humperdinck,Humperdinck: Hänsel und Gretel / Act 2 - Pantomime,3Y2wSrPtJFmJU7bU7nCq3k,8,0.917,0.143,553840,0.086,0.889,F,0.0877,-20.13,Major,0.0359,140.013,4-Apr,0.0386
+Opera,Engelbert Humperdinck,Hänsel und Gretel: Children's Prayer - Instrumental,06F0br63zWGYgjGw7QS9uU,12,0.885,0.0741,187667,0.0783,0.969,D,0.138,-24.206,Major,0.042,80.56,4-Apr,0.0353
+Opera,Daniel Auber,Grand Pas Classique: Variation for the Male Dancer,48D8POUWuZIwOpMYyEg4gd,14,0.906,0.498,67360,0.457,0.792,F,0.036,-15.277,Major,0.0781,87.832,4-Apr,0.289
+Opera,Engelbert Humperdinck,"Humperdinck : Hänsel und Gretel : Act 2 ""Abends will ich schlafen gehn"" [Hänsel, Gretel]",0MzOsRk9B77RRb203yBzYD,16,0.967,0.0901,187227,0.00763,0.00495,G,0.0917,-34.765,Major,0.0461,86.148,4-Apr,0.0327
+Opera,Antonio Sartorio,"Sartorio: L'Orfeo, Act 3: ""Orfeo tu dormi?"" (Euridice)",1t4kOWyKAoUZuKPbLp0P0O,13,0.982,0.306,134733,0.127,0.0415,B,0.081,-16.609,Major,0.0493,84.199,4-Apr,0.136
+Opera,Engelbert Humperdinck,Act 2: Evening Prayer,7a6a1FfFxTiKfzkQYPRJzZ,10,0.98,0.141,148947,0.0608,0.797,D,0.633,-27.6,Major,0.0481,67.228,4-Mar,0.0343
+Opera,Georges Bizet,Prélude from Carmen - Vocal,6WcNPGsSMfVwPqzm4i32dY,13,0.595,0.328,151960,0.429,0.0525,D,0.341,-12.036,Major,0.032,112.568,4-Apr,0.617
+Opera,Giacomo Puccini,"Wagner: Turandot, SC 91: Act I: Gira la cote",2Ou7jLB1FHMuGHtSMWa1Up,14,0.955,0.386,163907,0.534,4.75E-05,B,0.639,-10.005,Minor,0.049,130.384,4-Apr,0.233
+Opera,Alfredo Catalani,Catalani: La Wally: Ebben?... Ne andro lontana - Act One,1AwcD5nGN44qqQmXfDC9mB,17,0.989,0.202,301107,0.159,0.467,E,0.164,-20.008,Minor,0.0572,80.67,4-Apr,0.0599
+Opera,Anna Netrebko,"Die Csárdásfürstin / Act 1: ""Heia, heia, in den Bergen ist mein Heimatland""",1NIO3xww2fsF6T5Ml3JIhz,20,0.933,0.318,206267,0.382,0.000328,C#,0.0937,-14.781,Major,0.0737,141.931,4-Apr,0.372
+Opera,Francesco Cavalli,Cavalli / Arr Pluhar: L'Ormindo: L'Armonia (Prologo),2npBG4tlLGWjeIIh50QU9b,20,0.955,0.247,467320,0.105,0.000138,G,0.116,-15.079,Minor,0.0446,78.684,4-Mar,0.134
+Opera,Alfredo Kraus,Lejos de Ti,4kWZ4m2sIzSrimuXXnkk9i,22,0.988,0.286,173973,0.207,4.34E-06,G,0.102,-11.775,Major,0.0344,89.743,4-Apr,0.181
+Opera,Adolphe Adam,No. 8 Pas de Deux (Giselle & Albrecht),4nQRAJHyYp24ET8aLPFnto,15,0.979,0.431,125706,0.00585,0.0123,G#,0.0969,-28.477,Major,0.0372,129.751,4-Apr,0.196
+Opera,Gaetano Donizetti,"L'elisir d'amore / Act 1: ""Bel conforto""",6fPhE9XKt59OfqitvMRh6Z,10,0.934,0.423,119760,0.227,0.0113,F,0.121,-18.352,Major,0.0421,58.836,4-Apr,0.318
+Opera,Lesley Garrett,O Mio Babbino Caro,0cxXdpPflXI6XpU3wwX0yZ,8,0.943,0.267,144080,0.286,0.00067,G#,0.116,-12.064,Major,0.0404,69.04,4-May,0.0586
+Opera,Arrigo Boito,Mefistofele: L'altra notte in fondo al mare,219DfTJcYnSEmDt2Trb1bo,20,0.987,0.257,415160,0.0509,0.00512,D,0.0989,-22.473,Minor,0.0469,89.542,4-Apr,0.0347
+Opera,Adolphe Adam,Giselle: Act I - Overture,3QKJkzoRJ46tEZY8Rx2prq,15,0.848,0.219,140360,0.0116,0.846,D#,0.197,-21.376,Major,0.0347,83.247,4-Apr,0.106
+Opera,Adolphe Adam,Giselle: Act I: La chasse (The Hunt),45otluXIST1gEUGyc0UFvb,12,0.901,0.287,526000,0.019,0.495,D,0.0697,-28.636,Major,0.0417,104.05,4-Apr,0.0902
+Opera,Gaetano Donizetti,Lucrezia Borgia / Act 2: Era desso il figlio mio,5jGJVJJXu7Z32Y1y5bdGYZ,17,0.961,0.368,323333,0.113,0.00538,D#,0.0844,-18.277,Minor,0.0641,109.342,4-Mar,0.113
+Opera,Alfredo Catalani,"Catalani: La Wally, Act 1: ""Ebben? ... Ne andrò lontana"" (La Wally)",6QClFHodi0bn270djdVbLk,20,0.978,0.247,265760,0.153,0.0166,E,0.112,-19.111,Major,0.0453,85.653,4-Apr,0.0366
+Opera,Philharmonia Orchestra,The Big Muddy,0E5uVSHoTaS58tO687lEbg,7,0.911,0.135,182560,0.0332,0.872,C,0.108,-29.62,Major,0.0467,66.043,4-Apr,0.1
+Opera,Gaetano Donizetti,"Don Pasquale / Act 1: ""Bella siccome un angelo""",5ChWvnR6dzHKgFP7R4yxuI,10,0.986,0.267,176000,0.26,0.108,C#,0.104,-18.137,Major,0.0796,66.384,4-May,0.189
+Opera,Adolphe Adam,Giselle: No. 3 - Allegro non troppo,5z0Coo00PbJ1u8iWuleUCS,13,0.91,0.327,86893,0.0161,0.00926,G,0.167,-36.409,Major,0.0415,134.98,4-Mar,0.075
+Opera,José Carreras,"The Impossible Dream - From ""The Man of La Mancha""",6kiEh1xj80odDVe7Sq9QNY,19,0.918,0.28,228680,0.294,0.0017,C#,0.0888,-14.753,Major,0.0322,94.522,4-Apr,0.502
+Opera,Philharmonia Orchestra,Chronicles Of Narnia - Mr.tumnus' Tune,1JB5RWmmhapi4uKy0MCNwM,8,0.923,0.312,71053,0.038,0.684,D,0.0796,-28.851,Major,0.0456,85.316,4-Mar,0.284
+Opera,Anna Netrebko,"Madama Butterfly / Act 2: ""Un bel dì vedremo""",2xnxEkKnKgoYbHiJa2xuVV,22,0.987,0.274,273387,0.0984,0.000717,C#,0.0854,-17.253,Major,0.0421,84.002,4-Apr,0.0783
+Opera,Adolphe Adam,Giselle: No. 4a - Allegro un peu Loure,4pReYHhvSHexcJ1VimVlhL,14,0.926,0.446,98200,0.0157,0.00157,G#,0.0789,-25.392,Major,0.0343,141.769,4-Apr,0.0897
+Opera,Mario del Monaco,"Cavalleria rusticana: ""Mamma, quel vino generoso""",5Oy8X1jUJgQy34F5aBvCo9,21,0.986,0.309,225733,0.157,0.00185,D#,0.377,-13.388,Major,0.0446,80.107,4-Apr,0.265
+Opera,Gaetano Donizetti,"La Fille du Régiment, Act I, Scene 11: Air de Marie ""Il faut partir"" (Arr. for Piano & Viola)",6Zvqn2oCtHQWNj1xyWSIP5,19,0.97,0.163,354613,0.0376,0.507,F,0.096,-22.158,Minor,0.0489,76.299,4-Apr,0.0425
+Opera,Jonas Kaufmann,"Faust / Act 3: ""Quel trouble inconnu...Salut! Demeure chaste et pure""",77C2wZFyKp9yLwRVgBaSCe,17,0.976,0.132,374253,0.179,0.5,G#,0.0904,-18.041,Major,0.0466,79.95,4-Mar,0.0404
+Opera,Heinrich Marschner,Der Vampyr (The Vampire): Overture,796YtUbIEYz7QWpZBItI0C,10,0.957,0.365,468000,0.185,0.903,A,0.077,-16.286,Major,0.037,125.343,4-Apr,0.113
+Opera,Arrigo Boito,"Mefistofele / Act 2: ""Dai campi, dai prati""",7HDzENuOpR39VXYhLPbaKR,10,0.963,0.165,161347,0.318,0.00121,F,0.348,-14.033,Major,0.0402,178.398,4-Apr,0.142
+Opera,Anna Netrebko,Mi fa male,1Itp6dkissI9W2BywrRmqU,20,0.946,0.184,221387,0.406,0.0035,A,0.0755,-8.464,Major,0.0351,81.961,4-Apr,0.0779
+Opera,Adolphe Adam,Giselle / Act 1: No. 5a Pas de Deux: Girl’s Second Variation and Coda,1Xoe1xvG0Hs4UnbpRkTZG5,15,0.872,0.371,115146,0.0316,0.849,A,0.0751,-24.009,Major,0.036,97.575,4-Mar,0.382
+Opera,Ferdinand Hérold,Zampa: Zampa: Overture,2Qo3clBy65QERM4A1xEda4,11,0.787,0.301,486000,0.242,0.66,D,0.0995,-19.101,Major,0.0572,90.794,4-Apr,0.101
+Opera,Adolphe Adam,Giselle / Act 1: No. 5a Pas de Deux: Adagio,6ghCCkBXehc0O0Ozg7z6bs,15,0.972,0.217,144306,0.00928,0.169,G,0.168,-31.904,Major,0.0456,115.198,4-Apr,0.0399
+Opera,Adolphe Adam,Giselle / Act 2: No. 20 Variation de Giselle,7p5mHo1uhgY65fOkJMoAfX,14,0.979,0.209,96119,0.0222,0.878,D#,0.0698,-29.405,Major,0.0367,86.693,4-Mar,0.0824
+Opera,Jonas Kaufmann,"Don Carlo / Act 1: ""Io l'ho perduta... Io la vidi, a suo sorriso""",2W0eLFqbS00GOJkrPEZoXr,19,0.99,0.201,221760,0.281,0.21,A#,0.124,-13.777,Major,0.0463,171.969,4-May,0.042
+Opera,Dame Joan Sutherland,"Handel: Alcina: Di cor io, quanto t'amai",2wUKOg9CsFIjlkGJoVtTm4,18,0.969,0.394,357933,0.143,0.554,A#,0.128,-16.03,Major,0.0463,111.023,4-Apr,0.209
+Opera,Plácido Domingo,Younger Than Springtime - From South Pacific,3WPxKb9KFcO0WOEpy78S5T,16,0.977,0.134,231267,0.26,0.475,D#,0.169,-15.364,Major,0.0415,168.837,4-May,0.152
+Opera,Adolphe Adam,Giselle / Act 2: No.15 & 16 Pas de deux,4RXIcLMmW1Ekg66bFH6hLz,14,0.928,0.22,499559,0.00788,0.138,A,0.122,-31.506,Major,0.044,109.568,4-Mar,0.0382
+Opera,Adolphe Adam,Giselle: No. 8 - Divertissement,1rhlVXpIWGJRqVY7m036nY,15,0.897,0.518,183667,0.245,0.575,A,0.449,-19.457,Major,0.084,116.31,4-Apr,0.256
+Opera,Adolphe Adam,No. 13 Myrtha Summons Giselle,34ZaUsDVlGLU5m61XFbX9F,14,0.981,0.114,70266,0.0203,0.0985,A,0.198,-29.39,Major,0.0476,179.529,4-Mar,0.0333
+Opera,Adolphe Adam,Giselle: Act I: Retour de la vendange et valse (The Grape-Pickers Return),4RmbsCisROSE9nsSU1qVmZ,13,0.814,0.429,423000,0.0279,0.132,D,0.111,-24.329,Major,0.0406,133.668,4-Mar,0.138
+Opera,Accademia Bizantina,Concerto No. 6 In A Minor RV 356: III. Presto (Vivaldi),79mm2TjSrcubFjnCOSGN4z,17,0.763,0.414,133213,0.329,0.818,G#,0.125,-16.448,Minor,0.0444,145.073,4-Apr,0.703
+Opera,Alfredo Catalani,La Wally / Act 1: Ebben? Ne andrò lontana,0LDoz3TIIKeahgoSoDLCVH,15,0.983,0.308,305107,0.131,0.462,E,0.171,-21.09,Minor,0.0438,56.153,4-Mar,0.0395
+Opera,Accademia Bizantina,Concerto No. 1 In D Major RV 549: I. Allegro (Vivaldi),0aAe6AYYiN4IbSECfA4WBv,16,0.664,0.417,184040,0.237,0.566,C#,0.139,-20.059,Major,0.0474,121.487,4-Apr,0.232
+Opera,José Carreras,T'estim i t'estimaré,0wsicT9TzaFuNTZVniX68b,22,0.979,0.231,243733,0.0935,0.00217,F,0.0885,-15.686,Minor,0.046,172.8,4-Apr,0.156
+Opera,Arrigo Boito,"Otello : ""Mia madre aveva"" - ""Piangea cantando"" - ""Ave Maria""",3rOXiINwZfch3tkewSw0i1,11,0.983,0.143,849813,0.0175,0.0021,C#,0.116,-25.308,Major,0.0538,73.142,4-Apr,0.037
+Opera,Adolphe Adam,Giselle / Act 2: No. 17 Scène des Wilis et Mort de Hilarion,4RB7Con0dAAD70z8u5kfz8,13,0.956,0.376,199292,0.204,0.68,E,0.123,-17.628,Minor,0.0554,131.776,4-Apr,0.0864
+Opera,Dame Joan Sutherland,"Norma, Act 1: ""Fine al rito"" (Live)",6MY7duurGlZIowi4kdGEdj,17,0.958,0.311,308147,0.186,0.000416,F,0.604,-17.299,Major,0.113,67.187,4-Apr,0.128
+Opera,Gaetano Donizetti,La fille du régiment / Act 2: Entr'acte ... Enfin la voilà,7gidHAoFCzBUBxcQPjN1dX,14,0.795,0.479,158200,0.0209,0,D,0.134,-27.795,Major,0.206,85.705,4-Mar,0.221
+Opera,Adolphe Adam,Giselle / Act 1: No. 5a Pas de Deux: Introduction,2r2SFv9iNqIKr4dFgd5BK5,15,0.955,0.355,393719,0.0758,0.532,F,0.0822,-21.986,Major,0.0471,119.382,4-Apr,0.138
+Opera,Gaetano Donizetti,L'Elisir d'Amore: Una furtiva lagrima (Arranged for Violin & Orchestra),32fCRapz8wm5vF2xQ0GZj0,9,0.967,0.193,254440,0.0838,0.756,A#,0.121,-22.33,Major,0.0434,81.157,4-Mar,0.0725
+Opera,Umberto Giordano,Fedora : Amor ti vieta,3p5sM5n7LLmFbR4kiMskZr,11,0.898,0.0816,239613,0.298,0.28,C,0.119,-10.965,Major,0.0376,74.765,4-May,0.0398
+Opera,Gaetano Donizetti,"Lucrezia Borgia / Act 2: ""Il segreto per esser felici""",3rjff5mINShwiIyeLoeznW,9,0.971,0.486,165120,0.142,0.000516,C,0.0612,-19.853,Major,0.069,112.004,4-Apr,0.318
+Opera,Adolphe Adam,Giselle / Act 1: No. 5 La Mère de Giselle Entre - No. 5(bis) La Chasse (I),4EZ1OTnANgxgbuQjIiHws7,14,0.982,0.266,136692,0.0399,0.763,A,0.156,-26.552,Minor,0.0371,134.106,4-Apr,0.0374
+Opera,Alfredo Catalani,"La Wally, Act 1: ""Ebben? Ne andrò lontana""",4yuvczDw6JtKLQXR5vX54c,17,0.975,0.22,254693,0.117,0.000152,E,0.107,-17.377,Major,0.046,89.035,4-Apr,0.0384
+Opera,Adolphe Adam,Giselle / Act 1: No. 2 Entrée du Prince,5QGottvGMawQbrWHhbNxIF,15,0.982,0.372,88092,0.0327,0.927,C,0.311,-24.759,Major,0.0397,129.068,4-Apr,0.118
+Opera,Gaetano Donizetti,"La fille du régiment / Act 2: ""Le jour naissait dans le bocage...""",5e2m5A6e4yKjfUBsg7CBX8,14,0.98,0.362,537760,0.15,0.00758,C,0.637,-18.199,Major,0.0995,90.61,4-Mar,0.145
+Opera,Alfredo Kraus,Marta,6yEWE8Wwr0f3BcehIzcVBe,24,0.989,0.243,152840,0.215,1.32E-05,A,0.0844,-11.819,Major,0.0377,172.487,4-Jan,0.362
+Opera,Dame Joan Sutherland,Handel: Alcina: Tornami a vagheggiar,0WTWNIVN7oP59c3d1jc9RK,16,0.935,0.389,264120,0.239,0.47,A#,0.134,-13.27,Major,0.0428,138.078,4-Mar,0.501
+Opera,Adolphe Adam,Giselle / Act 1: No. 5a Pas de Deux: Boy’s First Variation,3kjyjs9yDPHsYAujj4JFQV,15,0.91,0.465,48626,0.199,0.957,A,0.111,-18.592,Major,0.068,125.032,4-Apr,0.499
+Opera,Johann Adolf Hasse,"L'Olimpiade, Act I: I. Superbo di me stesso",6BmWjt89eup0GVdAs4b67w,14,0.971,0.375,420507,0.149,0.00394,E,0.184,-21.257,Major,0.0468,133.24,4-Apr,0.273
+Opera,Accademia Bizantina,"Concerto In Mi Maggiore Op. 8 No. 1 RV 269, F.I/22 (La Primavera): I. Allegro",6OjhZBMxQw9Rx7webIfoBF,16,0.674,0.388,217747,0.048,0.0812,D#,0.076,-21.455,Major,0.0405,107.715,4-Apr,0.0897
+Opera,Giacomo Meyerbeer,"Dinorah, Act II: Ombra leggera (Shadow Song) - 1986 Remastered Version",25nphJsjTqNwEwAcPTcbLQ,17,0.981,0.334,342707,0.0718,0.392,G#,0.0946,-17.231,Major,0.0619,79.269,4-Apr,0.16
+Opera,Florilegium,Concerto In D Major RV 92,6NGRHAjzt9SoKb726my8pk,20,0.935,0.417,177240,0.0882,0.189,C#,0.082,-23.593,Major,0.0501,129.495,4-Apr,0.481
+Opera,Christophe Rousset,Quatuor No. 6 in E Minor: V. Distrait,6gTshMpdAQsXInMVNU053C,18,0.799,0.428,178440,0.177,0.00158,F#,0.111,-18.636,Major,0.0349,140.144,4-Mar,0.665
+Opera,Florilegium,Trio Sonata in C Major BWV 1037: Gigue (Allegro molto),7kPTEjUZFLvv61w7kdkyTc,18,0.865,0.282,297627,0.288,0.0115,B,0.103,-12.995,Major,0.0535,51.422,4-Apr,0.466
+Opera,Andreas Scholl,Juxta Crucem,1O2rXdcPmmUpUboiDB35pL,23,0.99,0.119,174358,0.122,0.548,C,0.121,-15.741,Minor,0.0405,87.798,4-May,0.0362
+Opera,Christophe Rousset,Quatuor No. 3 in G Major: II. Légérement,2Uv54WWCL5yHU7XUXPr0uF,19,0.91,0.425,231133,0.171,0.00307,C#,0.22,-21.722,Major,0.0347,98.895,4-Apr,0.517
+Opera,Florilegium,"Motet Caima, Iyai Jesus",4JRWuX2uViHLstvqJsOHfW,19,0.982,0.494,202960,0.128,9.64E-05,F#,0.105,-21.461,Major,0.0484,129.323,4-Apr,0.472
+Opera,Gianfranco Masini,"Bolero: merce, dirette amiche",2MNwmr4nrWsWI3SAGb4pTc,15,0.967,0.508,210587,0.2,0.00234,A,0.247,-12.92,Minor,0.0653,116.567,4-Mar,0.407
+Opera,Ambrosian Opera Chorus,La Traviata - Extraits: Prélude,39zMuwiknve0eowpSGgdIu,14,0.863,0.261,237107,0.278,0.831,B,0.351,-12.997,Major,0.0358,116.795,4-Apr,0.0534
+Opera,Gianfranco Masini,Arrigo! Ah parli a un core,6wJeXf2rao56txFa024z7j,13,0.992,0.293,286507,0.0166,0.0125,G,0.0847,-27.284,Major,0.0515,91.82,4-Mar,0.0433
+Opera,Ambrosian Opera Chorus,"La Traviata - Extraits, Acte I: Brindisi:Libiamo ne`lieti calici",3phc57LNeE6ZkG9l0RRxVg,12,0.89,0.392,173853,0.27,0.000537,A#,0.119,-15.58,Major,0.0539,106.038,4-Apr,0.165
+Opera,Ruggero Leoncavallo,"La bohème / Act 3: ""Musetta! O gioia della mia dimora! - Testa adorata""",3osc18QZL0M4zojDITkYLJ,8,0.981,0.298,201533,0.269,0.892,D#,0.213,-14.714,Minor,0.0385,70.953,4-Apr,0.0654
+A Capella,MC6 A Cappella,For the Longest Time,0PuWvFJqZPJAxZNrFgw8xL,44,0.78,0.616,223813,0.298,0,D,0.0973,-7.712,Major,0.0274,82.471,4-Apr,0.712
+A Capella,The Singers Unlimited,Clair,1iXJKuzDH0E6PnTk2lQXAq,33,0.973,0.484,154200,0.222,0.000306,F,0.104,-14.631,Minor,0.044,127.689,4-Apr,0.409
+A Capella,MC6 A Cappella,Come Go With Me,3XxwdU13609bTGaAFRg3PA,25,0.802,0.717,137800,0.518,0,G#,0.094,-7.754,Major,0.0883,129.878,4-Apr,0.672
+A Capella,MC6 A Cappella,The Lion Sleeps Tonight,0crWDkAajRTnsGuZ6CAU85,26,0.302,0.691,183920,0.49,6.50E-06,F,0.229,-11.222,Major,0.0743,107.066,4-Apr,0.664
+A Capella,Glad,A Debtor to Mercy Alone,6TK4I15u1oym5H2eETng4F,24,0.599,0.389,181267,0.153,0,E,0.0902,-12.023,Major,0.043,120.626,4-Apr,0.236
+A Capella,Glad,O Wondrous Love,0PCgsZKSCmsDlHBXRTdejp,23,0.793,0.349,228147,0.0913,1.61E-06,F,0.141,-15.003,Major,0.0396,120.405,4-Mar,0.15
+A Capella,MC6 A Cappella,Blue Moon,54eOtB9Vz0nli6U5Ez00ep,23,0.668,0.747,135107,0.505,0,G,0.101,-9.263,Major,0.0746,122.177,4-Apr,0.716
+A Capella,MC6 A Cappella,Runaround Sue,6iAU2N1jJqY9qUGvBTHtWa,23,0.656,0.705,159120,0.57,0,A#,0.0897,-7.124,Major,0.0983,81.977,4-Apr,0.652
+A Capella,MC6 A Cappella,Teenager in Love,5FeU992vNw1J8j8aEw7vcR,22,0.835,0.583,175000,0.318,0,C#,0.118,-8.252,Major,0.0311,75.911,4-Apr,0.51
+A Capella,MC6 A Cappella,Sherry,6kYfnFjxQYx2WkBW5jIiiI,23,0.36,0.654,150027,0.427,0,A#,0.15,-7.963,Major,0.0379,125.39,4-Apr,0.811
+A Capella,MC6 A Cappella,Goodnight Sweetheart,7dv7qZnNL5ihfvDRG699Xy,23,0.83,0.628,144867,0.299,0,G,0.31,-9.483,Major,0.0473,135.896,4-Jan,0.557
+A Capella,Peter Hollens,December Song (A Capella Bonus Track),6ErNbBNEpZcg3Pjboi8R7j,20,0.863,0.253,238039,0.417,6.33E-06,F#,0.0974,-3.561,Major,0.0287,143.374,4-Mar,0.208
+A Capella,MC6 A Cappella,409/Little Deuce Coupe,21mQiZt0PNxJw6RQFtlAoi,20,0.782,0.55,211133,0.448,0,G#,0.0657,-7.921,Major,0.0655,115.038,4-Apr,0.891
+A Capella,MC6 A Cappella,In the Still of the Night,10dia2iL9YWckDnz44UfDl,20,0.715,0.311,189933,0.442,0,A,0.141,-9.487,Major,0.0448,69.001,4-Apr,0.463
+A Capella,MC6 A Cappella,So Much in Love,2mvF3b4g2kkEDwK4b1AuOJ,19,0.83,0.55,185800,0.272,0,C,0.13,-10.649,Minor,0.0262,79.045,4-Apr,0.583
+A Capella,Peter Hollens,December Song [Bonus Track] - A Capella,0FXAP0YeMzfgPQpLp5ZTOv,18,0.861,0.185,238053,0.394,5.08E-06,F#,0.0949,-3.555,Major,0.0324,45.957,4-Apr,0.191
+A Capella,MC6 A Cappella,Since You've Been Gone,6VUdwP2f9JZLLzi6ncOuV4,18,0.846,0.603,99973,0.396,0,G#,0.0735,-7.451,Major,0.0665,125.115,4-May,0.593
+A Capella,Glad,Christ the Lord is Risen Today,3w9eYozECT0ANTETwLrMO7,16,0.822,0.381,222827,0.264,0,C,0.0978,-11.138,Major,0.035,122.419,4-Jan,0.439
+A Capella,MC6 A Cappella,Surfer Girl,0m8ZjsRZYRQlj7gpp9x1QI,18,0.69,0.524,174320,0.298,0,G#,0.315,-9.789,Major,0.0254,94.508,4-Mar,0.543
+A Capella,Glad,Receive the Glory,5vPd4b35pDqo7Mwe2POO4D,17,0.83,0.384,198400,0.172,0,A#,0.195,-9.962,Major,0.0333,122.06,4-Apr,0.174
+A Capella,MC6 A Cappella,One Fine Day,32tK9k8wxjLk2ecV5gWtUo,18,0.628,0.784,174253,0.702,0,B,0.133,-7.54,Major,0.0834,95.975,4-Apr,0.727
+A Capella,MC6 A Cappella,Up On the Roof,0r2kt0tDKGyDlO1fUZFYmC,17,0.845,0.457,176013,0.252,0,D,0.103,-8.72,Major,0.0265,104.6,4-Mar,0.268
+A Capella,BYU Noteworthy,Star Wars: A Capella Strikes Back,3r9nIjOWziM9HZnWA0vWV8,15,0.703,0.313,241350,0.405,0.00914,B,0.0957,-7.401,Major,0.0325,95.254,4-Apr,0.291
+A Capella,The Singers Unlimited,London By Night,1qswpslHs4K52tE43c0EPT,16,0.97,0.257,209695,0.0905,4.79E-05,F,0.293,-17.74,Major,0.0326,91.425,4-Apr,0.136
+A Capella,Glad,Holy Holy Holy,4ogTa2tLPM7RZc1WsR2M9j,12,0.524,0.297,253653,0.155,0,D,0.11,-11.094,Major,0.0282,91.833,4-Apr,0.145
+A Capella,Glad,In Christ Alone,2BizyaSsJmGRi7TdmL4rJG,12,0.691,0.39,245213,0.1,0,F,0.074,-11.685,Major,0.0367,112.996,4-Mar,0.28
+A Capella,The Singers Unlimited,The Fool On the Hill,3epS64XtnJEsWVmD4MGpo8,15,0.971,0.291,271735,0.0979,0.00961,F,0.151,-17.929,Major,0.0302,110.908,4-Mar,0.113
+A Capella,The Singers Unlimited,Nature Boy,2Wx1DL84XGOJ70j12lEcr5,15,0.967,0.241,207040,0.117,4.26E-06,G,0.111,-18.035,Major,0.0306,108.059,4-Mar,0.0676
+A Capella,The Singers Unlimited,Michelle,3niXFa4G32F7hsNIsRvn3y,15,0.984,0.275,228853,0.043,1.41E-06,D,0.165,-21.241,Minor,0.0323,101.729,4-Mar,0.0395
+A Capella,The Singers Unlimited,My Romance,2nSkmdpL7TMInWEgCIWDzI,13,0.973,0.213,156144,0.0401,0.000461,D,0.0964,-22.201,Major,0.034,76.003,4-May,0.0742
+A Capella,The Singers Unlimited,Emily,2t2owImD0FSTqL8vxsw86H,13,0.98,0.172,239784,0.0695,5.77E-05,G,0.1,-19.459,Minor,0.0324,85.813,4-Mar,0.0611
+A Capella,Glad,O Sacred Head Now Wounded,4T0MhF3l1r8GGjVu9D68LG,10,0.793,0.315,167760,0.187,0,B,0.225,-9.709,Minor,0.0284,80.885,4-Apr,0.19
+A Capella,The Singers Unlimited,Killing Me Softly with His Song,5QP9P48x0NmnLhCTRg3CYU,14,0.962,0.255,260067,0.14,0.00105,C,0.17,-14.632,Major,0.0285,89.74,4-Apr,0.154
+A Capella,Glad,All Hail the Power of Jesus' Name,1uooaC1KFcxzYbiHpbP0hi,10,0.733,0.487,177640,0.263,0,G#,0.233,-9.489,Major,0.0334,143.268,4-Mar,0.557
+A Capella,The Singers Unlimited,Both Sides Now,3zFfH4tfGuVWbjNdNUX9QI,13,0.97,0.303,182002,0.118,1.24E-05,F,0.12,-15.882,Major,0.0539,72.587,4-Apr,0.122
+A Capella,Glad,When I Survey the Wondrous Cross,3HljLnSp0qLyUWo4Up4c4q,8,0.928,0.301,252400,0.124,0,C,0.118,-15.03,Major,0.029,81.598,4-Mar,0.109
+A Capella,Glad,Blessed Be Your Name,4Rn9UJHp3SdppLr5U8HYlW,10,0.574,0.706,248080,0.559,0,G,0.0949,-7.662,Major,0.0612,119.976,4-Apr,0.653
+A Capella,Glad,Be Still My Soul,7mvUfG2CvKksNSWscbLdwq,9,0.784,0.323,233093,0.0872,0,F#,0.119,-11.938,Major,0.0323,110.479,4-Apr,0.144
+A Capella,The Singers Unlimited,Try to Remember,2pjmnDM1ms6mybynydunez,11,0.974,0.213,238536,0.0493,0.000118,C,0.195,-19.858,Minor,0.033,90.729,4-Apr,0.0529
+A Capella,The Singers Unlimited,Since You Asked,5Zn57fZqYlBAP6uovrEqOz,12,0.985,0.261,177844,0.0658,3.24E-06,A,0.105,-19.158,Minor,0.0348,77.112,4-May,0.0662
+A Capella,Glad,Sing it A Cappella,7hSLYMzlrLdQdpgjOhmHBw,7,0.771,0.51,215333,0.326,0,F,0.12,-11.754,Major,0.0285,142.402,4-Apr,0.418
+A Capella,Glad,You Put This Love in My Heart,7zvJ5hM42ZzYILWH1kS7h6,7,0.83,0.685,179973,0.44,0,D#,0.201,-10.43,Minor,0.0304,123.18,4-Apr,0.694
+A Capella,Glad,"All Glory, Laud and Honor",0ENyD2LlUqIqzILaWaXN8Y,7,0.914,0.171,234707,0.185,0,A,0.162,-13.997,Major,0.0306,76.832,4-Apr,0.189
+A Capella,Glad,"My Jesus, I Love Thee",3zwoiDPjZP99NrTCOb3jYK,7,0.947,0.233,211693,0.0567,0,F#,0.102,-16.531,Minor,0.0295,129.014,4-Mar,0.0491
+A Capella,The Singers Unlimited,Autumn in New York,2QBS34J7bb2s65qKJ7GAEZ,10,0.984,0.234,169849,0.094,3.47E-05,G,0.0858,-17.571,Minor,0.031,140.817,4-Jan,0.107
+A Capella,The Singers Unlimited,"Here, There and Everywhere",4K2JGJXrYVq83aoa59x7Xw,10,0.984,0.261,173732,0.0735,2.47E-05,G,0.084,-17.343,Major,0.0345,167.661,4-Apr,0.187
+A Capella,The Singers Unlimited,Like Someone in Love,2XztNbkz5TrZ8PnCAgmrsY,10,0.939,0.222,214018,0.0457,0,G#,0.111,-17.002,Major,0.0293,168.599,4-Apr,0.0702
+A Capella,Glad,Just As I Am,5MGuzelumWnTfIqtG4whf4,6,0.909,0.315,174827,0.0817,0,G,0.18,-14.046,Major,0.0331,137.341,4-Mar,0.319
+A Capella,Glad,Crown Him With Many Crowns,2tyiDNTmznz6B2DX6Hm6Va,6,0.815,0.429,191600,0.167,0,C,0.24,-12.685,Major,0.0324,93.788,4-Mar,0.626
+A Capella,Glad,"Rejoice, The Lord is King",3USKF8rTqqU4nOF9wlsOP2,7,0.89,0.58,240667,0.186,0,D,0.159,-14.499,Major,0.026,97.848,4-Apr,0.6
+A Capella,Glad,Sing a New Song,1FGqAy66dgRqCUNyXcaE7Y,6,0.881,0.25,237707,0.33,0,D#,0.129,-11.441,Major,0.0285,170.281,4-Mar,0.314
+A Capella,The King's Singers,Sleigh Ride,37BPychMbzTDxPrXJvYNZy,13,0.894,0.735,153947,0.343,0,A,0.124,-12.998,Major,0.0569,102.901,4-Apr,0.87
+A Capella,Hyannis Sound,A Thousand Miles,5UeKh9a42GNz5Myohx4MUW,7,0.74,0.315,237867,0.506,0,B,0.218,-7.568,Major,0.0369,92.703,4-Apr,0.544
+A Capella,Hyannis Sound,Part Time Lover,65rrpuOdLUM1aXxS2GjtyY,5,0.491,0.55,206147,0.721,0,A#,0.114,-4.843,Minor,0.0968,174.889,4-Apr,0.722
+A Capella,The Singers Unlimited,I Don't Know Were I Stand,5iofmfsC5oJHf3f567Oiei,9,0.967,0.176,209233,0.0545,0.00365,C#,0.109,-20.169,Major,0.0345,78.801,4-Apr,0.061
+A Capella,The Swingle Singers,Walking in the Air,16Tq5k2t9XaxWAvICDscHM,11,0.975,0.353,202227,0.0728,0.000742,D,0.106,-18.865,Minor,0.0337,99.788,4-Apr,0.0858
+A Capella,The Singers Unlimited,All the Things You Are,3rAyathx1VKaUel80vh1g0,8,0.977,0.243,225850,0.0622,0.0566,B,0.0907,-19.874,Minor,0.0383,134.759,4-May,0.038
+A Capella,The Singers Unlimited,Indian Summer,3iajmwxfwsScVIHVIoyNcd,9,0.983,0.299,176523,0.129,0.000135,C,0.0995,-18.478,Major,0.0301,37.861,4-Apr,0.0958
+A Capella,The Singers Unlimited,I Wish You Love,3uJJ0dZFKYDdEITXRM0Ks0,8,0.97,0.259,200891,0.134,0.0243,F,0.187,-17.48,Minor,0.0328,133.002,4-Apr,0.191
+A Capella,The Singers Unlimited,The Way We Were,6X128PGN8ZbVubV3nxqhnv,10,0.974,0.209,188653,0.137,0.256,A,0.14,-16.809,Minor,0.0377,85.845,4-Mar,0.15
+A Capella,The Singers Unlimited,Killing Me Softly With His Song,6NmaKEfOqDJRV4Imm00YSL,9,0.965,0.215,259567,0.116,0.00107,C,0.242,-16.36,Major,0.0311,179.777,4-Apr,0.159
+A Capella,The Singers Unlimited,Lullaby,2f91f6KPKoO6Pq2oA7qf8W,9,0.98,0.218,94428,0.073,0.000179,C#,0.117,-19.452,Major,0.0328,81.993,4-May,0.239
+A Capella,The Singers Unlimited,More I Can Not Wish You,4ZGh4eQlCDUuJJOx7t0EZm,8,0.982,0.272,215104,0.0498,4.88E-05,G#,0.205,-19.338,Major,0.032,83.384,4-Apr,0.178
+A Capella,Glad,God so Loved the World,6apsUe4P2HprFe7QNjOJTC,5,0.834,0.209,249560,0.157,0,F,0.0774,-13.345,Major,0.0385,74.847,4-Apr,0.232
+A Capella,The King's Singers,What Child Is This?,6GXmsVu84UPRYohKOGJVku,10,0.977,0.276,197507,0.0896,0.00172,D#,0.0917,-25.28,Minor,0.0413,90.377,4-Apr,0.156
+A Capella,The King's Singers,The Little Drummer Boy,6MsBT9RvRMuRldZpYXRGYg,10,0.992,0.297,165507,0.018,4.60E-05,E,0.117,-29.368,Major,0.0384,119.451,4-Apr,0.039
+A Capella,Hyannis Sound,Faithfully,6SK51QRc3B1S7uzX8zK0Bs,3,0.562,0.48,250840,0.38,0,B,0.0998,-7.015,Major,0.0262,129.88,4-Apr,0.25
+A Capella,Hyannis Sound,Long Train Runnin',0GJdTnDivBrnShR4nHa7F7,4,0.599,0.668,180987,0.769,0,G,0.21,-4.906,Minor,0.0865,116.913,4-Apr,0.885
+A Capella,The Singers Unlimited,Yesterday,7v9iefVyxqhEJlOHfTdEX5,7,0.99,0.157,202567,0.0252,0.0154,A,0.105,-22.447,Minor,0.0392,181.714,4-Mar,0.152
+A Capella,The Singers Unlimited,I Don't Know Where I Stand,6NqmBUATHS25mastXwA94Y,5,0.976,0.18,207760,0.0674,0.00361,A#,0.104,-18.92,Minor,0.0332,78.818,4-Apr,0.0665
+A Capella,The Swingle Singers,The Christmas Song (Merry Christmas to You),01nmLTTJW6QARRi0AaaJOc,9,0.859,0.71,194347,0.34,0.000457,B,0.114,-19.158,Minor,0.0437,130.014,4-Apr,0.389
+A Capella,The Swingle Singers,Rockin' Around the Christmas Tree,39e4ZwUOqlRYkARjeppNLy,10,0.693,0.609,114507,0.279,5.61E-06,G#,0.179,-14.521,Major,0.0621,160.139,4-Apr,0.819
+A Capella,The Singers Unlimited,April in Paris,3Z0yXxX0Id4zFNWkVKFjFl,6,0.974,0.234,190572,0.0932,0.000282,A#,0.114,-17.609,Minor,0.0336,123.619,4-May,0.0384
+A Capella,The Singers Unlimited,Lost in the Stars,5bpGtPqFB5yVFTVWxvYY6X,6,0.972,0.32,197262,0.0628,3.39E-05,D#,0.11,-18.562,Major,0.0335,118.643,4-Mar,0.0516
+A Capella,The Singers Unlimited,Sweet Lorraine,2tnvjsXIBmOp6n6JjFhRl7,7,0.965,0.374,206722,0.16,0.0013,E,0.381,-14.685,Minor,0.0309,106.205,4-Apr,0.186
+A Capella,The Singers Unlimited,Girl Talk,3OpR6uTPj1BLcCnbXCt2OD,8,0.978,0.41,158904,0.158,0.13,C,0.111,-15.025,Major,0.0307,81.189,4-Apr,0.148
+A Capella,The Swingle Singers,Santa Baby,7307wo13OdM2bjMSbqE6o2,9,0.915,0.72,192400,0.12,0,C#,0.0832,-18.935,Major,0.0676,90.103,4-Apr,0.302
+A Capella,The Singers Unlimited,Love Is Here to Stay,6pxf88ah1fZF0djRnbyIlI,7,0.967,0.269,201395,0.124,0.0101,D,0.175,-18.068,Minor,0.0333,110.121,4-Mar,0.122
+A Capella,Glad,Alleluia,6jQW2mv8jDLVMDhA2nyxCh,4,0.9,0.15,245520,0.165,0.000133,D,0.114,-14.629,Major,0.0398,74.767,4-Apr,0.213
+A Capella,The King's Singers,Santa Claus Is Coming to Town,1MwYsCfqxcVBS4Ch1NIObw,10,0.878,0.656,174000,0.216,0,C,0.375,-13.451,Major,0.0868,120.282,4-Apr,0.502
+A Capella,The King's Singers,Jingle Bells,25PqkhPZtMOUOrtYkAiNf7,9,0.991,0.572,89947,0.226,1.18E-06,E,0.139,-22.879,Major,0.0922,79.291,4-Apr,0.683
+A Capella,The Singers Unlimited,Anything Goes,7FPztxLwuZqwvQ9E57jbBy,4,0.923,0.461,212760,0.154,1.33E-06,F,0.261,-14.808,Major,0.0399,137.518,4-Apr,0.553
+A Capella,The Singers Unlimited,Since You've Asked,0rCHbbEjDLqg8KjWA80lkY,6,0.992,0.28,178653,0.0912,0.000587,G,0.108,-16.953,Major,0.0341,79.1,4-Mar,0.0797
+A Capella,The Singers Unlimited,"One More Time, Chuck Corea",4RzHz9UAwzNwI0XYRiRDXy,4,0.905,0.319,202213,0.192,0.336,C,0.106,-14.226,Major,0.0324,98.857,4-Apr,0.157
+A Capella,The Singers Unlimited,Someone to Light Up My Life,632qnTWDS01aFib76c2eQA,4,0.948,0.263,203827,0.126,2.26E-06,G,0.197,-15.022,Minor,0.0345,88.848,4-Apr,0.0727
+A Capella,The King's Singers,Winter Wonderland,2uCNIwrn03klSdovv7Cdd9,8,0.95,0.532,276667,0.165,1.04E-06,C#,0.114,-14.464,Major,0.0342,118.111,4-Apr,0.184
+A Capella,The King's Singers,It's Beginning to Look a Lot Like Christmas,5tW5DvpRNhYGLVvqJkMFLI,9,0.948,0.398,183387,0.185,0,B,0.119,-15.172,Major,0.0636,82.055,4-Jan,0.383
+A Capella,The King's Singers,White Christmas,4ZFhgmQDR2RIF82d8taQY2,8,0.895,0.356,190227,0.204,0,C#,0.0781,-15.196,Major,0.04,129.701,4-Mar,0.222
+A Capella,The UNCG Spartones,Something's Missing (A Capella) [Bonus Track],0EuLgf70TMEQks2jeiTaaL,1,0.869,0.283,211000,0.447,0,C#,0.137,-6.217,Minor,0.0351,130.481,4-Jan,0.466
+A Capella,Hyannis Sound,Heart of the Matter,32UjV7hPzoktJuUKPRDkfD,0,0.49,0.616,285187,0.506,0,B,0.142,-7.704,Major,0.0355,91.02,4-Apr,0.188
+A Capella,Hyannis Sound,Use Somebody,3dAOzj0Yb3hHD6sllOKtZR,2,0.434,0.513,228307,0.524,0,C,0.242,-6.999,Major,0.0284,138.067,4-Apr,0.559
+A Capella,Hyannis Sound,Falling Slowly,1Pizfi5QnasLcV1nCfjV3l,1,0.929,0.205,261760,0.234,0,C,0.0963,-9.044,Major,0.0296,145.385,4-Apr,0.0653
+A Capella,Hyannis Sound,Absolutely (Story of a Girl),4cDYqCte9iuEweE5fCwtaP,1,0.575,0.616,164280,0.569,0,G,0.0833,-6.09,Major,0.0583,100.906,4-Apr,0.717
+A Capella,Hyannis Sound,Carolina in My Mind,6zp8vPICDTVwRKSDW3nL3O,1,0.894,0.47,224560,0.262,0,E,0.114,-9.466,Major,0.0352,75.431,4-Apr,0.416
+A Capella,Hyannis Sound,Would You Go With Me,6iytx1yeXtNmF1vt44GIhB,1,0.832,0.62,226933,0.584,3.39E-06,D#,0.111,-8.501,Minor,0.0364,123.035,4-Apr,0.635
+A Capella,Hyannis Sound,Clarity,3Ey7nqsbZ4f9UTzuVE6dis,0,0.8,0.653,272147,0.458,1.99E-06,D,0.201,-8.897,Major,0.0657,93.027,4-Apr,0.472
+A Capella,Hyannis Sound,"Ok, It's Alright With Me",42QN694XzOivii0tWb1LTg,1,0.484,0.683,149933,0.521,0,C,0.106,-6.649,Major,0.0335,151.952,4-Apr,0.518
+A Capella,Hyannis Sound,I Still Haven't Found What I'm Looking for,5lawzyUvGAmyuvHwSfqE0j,1,0.894,0.308,303720,0.419,0,C#,0.0528,-6.351,Major,0.0323,113.526,4-May,0.232
+A Capella,Hyannis Sound,Easy,6FaboX3lY9iB4jpNWKrP3c,1,0.427,0.548,245960,0.465,0,A#,0.123,-7.453,Minor,0.0357,128.773,4-Apr,0.332
+A Capella,Hyannis Sound,Somewhere Only We Know,6OqO5V4PTmmcOTsTfyw2zw,2,0.614,0.473,234627,0.436,0,A,0.0795,-7.625,Major,0.0282,171.931,4-Apr,0.226
+A Capella,Hyannis Sound,Last Goodbye,4BHPZNTUJ2derD2BIdPXx3,0,0.569,0.288,281747,0.593,0,D,0.0859,-7.151,Major,0.0504,174.323,4-Apr,0.349
+A Capella,Hyannis Sound,Walking Away,4wCJxwpFvudAtaZGDsis3E,1,0.79,0.257,252000,0.549,0,A,0.145,-8.254,Minor,0.048,172.559,4-Apr,0.418
+A Capella,Hyannis Sound,Why Georgia,3v1jAxbIqD5bABpzT4N7aK,1,0.582,0.612,268413,0.393,0,G,0.0805,-9.499,Major,0.0284,97.01,4-Apr,0.191
+A Capella,The Singers Unlimited,The Entertainer,74QVUPpEOmOZwda1m0Z6gn,4,0.98,0.351,189967,0.0549,7.69E-05,F,0.127,-15.692,Major,0.0344,132.426,4-Apr,0.0927
+A Capella,The Singers Unlimited,Sometimes I Feel Like a Motherless Child,00o5U4aOaTyMRW201ZWE1l,4,0.975,0.267,270982,0.046,0.021,G,0.126,-19.249,Minor,0.0334,135.653,4-Apr,0.0583
+A Capella,The Singers Unlimited,Jeanie With the Light Brown Hair,1yOyOILkA29kssOnsqfS93,5,0.989,0.297,156652,0.0427,0.00474,G,0.23,-20.471,Major,0.0369,110.065,4-May,0.131
+A Capella,Tonic Sol-Fa,Cecilia,66vdxvY0MutQdyiN9OrfOG,0,0.223,0.757,105787,0.818,0,A#,0.102,-5.298,Major,0.0948,128.108,4-Apr,0.964
+A Capella,Tonic Sol-Fa,Boston to Beijing,2h30Dr2zXY0iTRN362kvK8,0,0.154,0.762,259800,0.652,0,G#,0.0369,-7.562,Major,0.0904,106.521,4-Apr,0.966
+A Capella,Tonic Sol-Fa,29 Ways to My Back Door,7FnVDyTcox4dNOqmfPiqgc,0,0.655,0.6,129653,0.786,0,D,0.238,-6.784,Major,0.0685,89.418,4-Apr,0.884
+A Capella,The King's Singers,Straighten up and Fly Right,2EmxIHDzjRQSnuPKbfkWUi,0,0.955,0.669,245787,0.138,0,A#,0.195,-18.65,Minor,0.0801,129.665,4-Apr,0.327
+A Capella,The King's Singers,Beyond the Sea,4kyQBYJA3cNHqrzshP6OFD,1,0.918,0.636,230880,0.0884,0,F,0.11,-19.456,Major,0.0409,119.801,4-Apr,0.573
+A Capella,The King's Singers,The Lady Is a Tramp,1GftM8EnWmLZZ5gULB2KTz,0,0.901,0.534,220293,0.115,0,C,0.0927,-18.764,Major,0.0708,72.142,4-Apr,0.279
+A Capella,The King's Singers,I've Got You Under My Skin,3BgK9eg2tEal7aXwaaPL6e,1,0.958,0.38,221867,0.067,0,F,0.111,-21.115,Minor,0.0321,95.665,4-Apr,0.179
+A Capella,The King's Singers,Cheek to Cheek,4KjclfZV3ylDC5yA0Aw4cf,0,0.951,0.475,249893,0.0568,1.94E-06,A,0.0648,-21.219,Major,0.0402,124.653,4-Apr,0.167
+A Capella,The King's Singers,When I Fall in Love,14OT8dLWwqMdDafpMrDMsb,0,0.965,0.158,252693,0.0638,0.000524,E,0.0905,-20.253,Major,0.0405,172.256,4-May,0.0753
+A Capella,The King's Singers,At Last,3fWcXgN5q8UQNupJau0LMP,1,0.954,0.397,150533,0.0855,0.00158,D,0.101,-19.271,Major,0.0315,96.108,4-Mar,0.146
+A Capella,The King's Singers,Night and Day,0ieYJ8kqH8gXmB0bnw57hx,1,0.957,0.353,175480,0.0998,0,B,0.0731,-18.014,Major,0.0394,122.185,4-Mar,0.108
+A Capella,The King's Singers,Cry Me a River,0xbrLsMvYqboUQgNhdP77s,1,0.956,0.259,201040,0.0525,0.000205,A#,0.113,-21.525,Minor,0.0352,107.431,4-May,0.0775
+A Capella,The King's Singers,My Funny Valentine,4RHFJC9cne1vQRq97zW3oH,1,0.968,0.226,204293,0.0499,2.49E-05,G#,0.128,-21.84,Major,0.0364,80.231,4-Mar,0.0888
+Alternative,Joji,SLOW DANCING IN THE DARK,0rKtyWc8bvkriBthvHKY8d,84,0.544,0.515,209274,0.479,0.00598,D#,0.191,-7.458,Major,0.0261,88.964,4-Apr,0.284
+Alternative,YUNGBLUD,11 Minutes (with Halsey feat. Travis Barker),4mGdjNMo0RonTlOEb7cYg4,86,0.0116,0.464,239507,0.852,0,B,0.108,-3.804,Major,0.067,160.075,4-Apr,0.233
+Alternative,H.E.R.,Best Part (feat. Daniel Caesar),4OBZT9EnhYIV17t4pGw7ig,84,0.795,0.473,209400,0.371,0,E,0.109,-10.219,Minor,0.0405,75.208,4-Apr,0.413
+Alternative,Joji,YEAH RIGHT,1VGzxJnVQND7Cg5H5wGj14,81,0.619,0.672,174358,0.588,0.241,C#,0.0992,-9.573,Major,0.133,169.033,4-Apr,0.204
+Alternative,H.E.R.,Could've Been (feat. Bryson Tiller),6lzLjIOyWTyTJvk0jraYee,79,0.64,0.545,248467,0.33,7.00E-06,C#,0.22,-11.719,Minor,0.164,103.553,4-Apr,0.399
+Alternative,Joji,CAN'T GET OVER YOU (feat. Clams Casino),39oeKRgsLeynDIbWuXyA47,78,0.684,0.9,107077,0.316,0.0771,A,0.0853,-8.797,Major,0.332,129.914,4-Apr,0.844
+Alternative,6LACK,Pretty Little Fears (feat. J. Cole),4at3d5QWnlibMVN75ECDrp,82,0.711,0.611,240342,0.466,0.000264,A,0.0847,-11.361,Major,0.372,192.08,4-Apr,0.223
+Alternative,lovelytheband,broken,6XcfKZvJio9Z0fQy11GnNX,78,0.00175,0.666,204878,0.728,4.26E-06,G,0.0429,-5.808,Major,0.0419,122.996,4-Apr,0.51
+Alternative,Joji,TEST DRIVE,1DMEzmAoQIikcL52psptQL,78,0.71,0.646,179423,0.648,0.00316,D#,0.108,-8.602,Major,0.0372,75.004,4-Apr,0.466
+Alternative,Smash Mouth,All Star,3cfOd4CMv2snFaKAnMdnvK,81,0.0319,0.731,200373,0.861,0,B,0.0829,-5.881,Major,0.0323,104.034,4-Apr,0.78
+Alternative,Gorillaz,Feel Good Inc,0d28khcov6AiegSCpG5TuT,80,0.00836,0.818,222640,0.705,0.00233,F#,0.613,-6.679,Major,0.177,138.559,4-Apr,0.772
+Alternative,The Neighbourhood,Sweater Weather,2QjOHCTQ1Jl3zawyYOpxh6,79,0.0495,0.612,240400,0.807,0.0177,A#,0.101,-2.81,Major,0.0336,124.053,4-Apr,0.398
+Alternative,Red Hot Chili Peppers,Under The Bridge,3d9DChrdc6BOeFsbrZ3Is0,82,0.0576,0.559,264307,0.345,0.000105,E,0.141,-13.496,Major,0.0459,84.581,4-Apr,0.458
+Alternative,Summer Walker,Girls Need Love,1QC6VpD6q6TJrl30969QM9,78,0.558,0.645,140760,0.418,0.0003,F#,0.562,-10.065,Minor,0.29,96.963,4-Apr,0.123
+Alternative,Summer Walker,Girls Need Love (with Drake) - Remix,0mfCH4nfpshBQR9ueZP5eP,80,0.443,0.656,222374,0.432,0,F#,0.132,-9.481,Minor,0.217,97.022,4-Apr,0.0897
+Alternative,Joji,ATTENTION,5aqu5xhPqoOWqF71PkfgM8,76,0.895,0.787,128888,0.312,0.0224,G,0.115,-12.401,Major,0.0383,119.899,4-Apr,0.425
+Blues,COIN,Malibu 1992,0VGyn5TrmY6oq05Ynj63Hz,57,0.0603,0.55,341333,0.323,0.0767,F#,0.142,-7.769,Major,0.0422,147.47,4-Apr,0.504
+Blues,Bishop Briggs,Dream,3fHZJOvXmyHeFLFS1sDE30,60,0.0914,0.592,194960,0.674,0,A,0.331,-5.328,Minor,0.0402,78.454,4-Apr,0.338
+Blues,Lewis Del Mar,Live That Long,4WBXTnzVmz3Thn76w3rYUR,58,0.144,0.613,285467,0.531,3.74E-06,D,0.801,-9.172,Major,0.0338,152.023,4-Apr,0.338
+Blues,The Mowgli's,San Francisco,2eQOMQkStoRUQyq6HGh1iG,58,0.0184,0.254,173093,0.857,0,B,0.0767,-4.213,Major,0.0604,92.328,4-Apr,0.293
+Blues,Tierra Whack,Cable Guy,3aLMgdQGyb5Dd7rMbKSynB,56,0.332,0.914,60000,0.239,0.000413,E,0.119,-8.597,Minor,0.155,100.237,4-Apr,0.258
+Blues,BANKS,Waiting Game,27mT3JdR3sRJyiMBFHdhB4,60,0.658,0.334,207719,0.397,0.00014,F,0.136,-10.313,Minor,0.0328,129.127,4-Apr,0.225
+Blues,Rise Against,The Violence,12C6ufD5zOWsQGHQY7aXRM,64,4.11E-05,0.294,228720,0.92,0.000232,A#,0.0804,-2.471,Minor,0.0635,184.007,4-Apr,0.582
+Blues,Catfish and the Bottlemen,7,5ykbOijJEfRhuo2Td1m0Qd,70,0.000204,0.531,256307,0.711,0.00291,A#,0.108,-4.933,Major,0.0398,155.068,4-Apr,0.279
+Blues,Chris Cornell,Nothing Compares 2 U - Live At SiriusXM/2015,0tUELgOuOJ3KCsYMDDsNvD,62,0.609,0.434,303907,0.327,1.78E-06,C,0.686,-10.72,Major,0.0312,119.506,4-Apr,0.295
+Blues,Gojira,Stranded,60fUDmIWuKhngaeBIVhqIV,63,9.59E-05,0.513,269533,0.88,0.00614,G,0.0824,-4.69,Minor,0.0309,92.358,4-Apr,0.495
+Blues,As I Lay Dying,My Own Grave,2QcHIZFd5Meeroa1HB1L90,64,0.000109,0.474,253318,0.995,0.00976,F,0.05,-4.316,Minor,0.279,125.025,4-Apr,0.0394
+Blues,Alice In Chains,I Stay Away,6HnZsLUDrG3HTSbh8sq2u3,58,0.0446,0.224,254400,0.782,0.00355,F#,0.0822,-7.065,Major,0.04,81.794,4-Apr,0.267
+Blues,Black Pistol Fire,Suffocation Blues,2WRk6RxETSwdsg2dhtnXxc,63,0.000839,0.282,161054,0.843,3.02E-05,B,0.0699,-6.002,Minor,0.114,175.798,4-Apr,0.418
+Blues,Five Finger Death Punch,Cradle to the Grave,0IY0susCRiZKWwua9xlL74,56,6.91E-05,0.516,198067,0.987,0,E,0.121,-4.324,Minor,0.136,95.015,4-Apr,0.153
+Blues,Big Pun,Twinz (Deep Cover 98),0B8drtTSp68pZdkmVrG9ZA,66,0.32,0.633,228173,0.764,3.40E-06,C,0.234,-7.212,Major,0.323,94.971,4-Apr,0.522
+Blues,Queens of the Stone Age,I Sat By The Ocean,7oXRMDUzBPekkLRTJhSGvC,65,0.00136,0.516,235587,0.781,0.000735,G#,0.11,-4.004,Minor,0.0364,116.793,4-Apr,0.897
+Blues,Limp Bizkit,Take A Look Around,2avKuMN2QXkaG9vvHa2JLt,70,0.0201,0.479,321040,0.861,0.314,D#,0.0862,-5.659,Minor,0.0458,101.92,4-Apr,0.556
+Blues,Redlight King,Boneshaker,7dAmlsROJEg0db3dYGuSvL,58,0.00274,0.589,198480,0.845,9.68E-05,G,0.0982,-5.237,Major,0.046,85.014,4-Apr,0.403
+Blues,Raekwon,"Ice Cream (feat. Ghostface Killah, Method Man & Cappadonna)",6SI4JD7iyQ0rrudhCNtMv0,63,0.219,0.683,253227,0.902,0.000761,C#,0.226,-7.389,Minor,0.291,90.447,4-Apr,0.724
+Blues,for KING & COUNTRY,"Fight On, Fighter",7lPM8uXuIO5MDWv6L0TPaZ,60,0.253,0.677,220556,0.486,0.688,F#,0.0912,-7.947,Major,0.0305,108.042,4-Apr,0.061
+Blues,BANNERS,Half Light,1tYOB844iD7HxHvPtwDPNu,65,0.807,0.55,185947,0.394,0,G,0.123,-7.511,Minor,0.0306,76.044,4-Apr,0.345
+Blues,Red Hot Chili Peppers,Suck My Kiss,0psB5QzGb4653K0uaPgEyh,65,0.000617,0.623,217133,0.936,9.86E-05,C,0.269,-9.955,Major,0.0528,101.514,4-Apr,0.705
+Blues,Breaking Benjamin,Blow Me Away - Soundtrack Version,5JBH2osD5Y5AneMKPOfY1s,56,0.000761,0.533,205680,0.957,0.00244,F,0.115,-3.526,Major,0.0573,99.079,4-Apr,0.462
+Blues,The Neighbourhood,W.D.Y.W.F.M?,3vooOYHU0Fi3ViCG7Ozh0Y,60,0.0303,0.557,259413,0.845,0.00851,G#,0.354,-2.926,Minor,0.0346,123.997,4-Apr,0.508
+Blues,Kali Uchis,Feel Like A Fool,5RcuACCOhgoc4ZH57AVCLA,57,0.0245,0.7,185239,0.812,0,D#,0.102,-4.8,Major,0.0311,107.983,4-Apr,0.855
+Blues,Unspoken,Just Give Me Jesus,5F84f7xzGxQcKCzoIbZBip,57,0.0159,0.292,207893,0.668,0,C,0.327,-7.162,Minor,0.0557,179.094,4-Apr,0.36
+Blues,System Of A Down,Spiders,4vAHXnJ5YWLq5hbIVzZS1h,63,0.0324,0.46,215440,0.54,0.0168,F,0.326,-5.132,Major,0.0381,137.855,4-Apr,0.0506
+Blues,Silverchair,Tomorrow,4MMcUEw0dn35trScNOZF2A,53,0.000412,0.312,267440,0.693,0.00018,D,0.105,-7.097,Major,0.0326,144.883,4-Apr,0.519
+Blues,Ozzy Osbourne,Bark at the Moon,2E7W1X4maFFcjHrVrFA7Vs,64,0.00253,0.303,257120,0.961,6.20E-05,A,0.132,-5.333,Minor,0.243,146.591,4-Apr,0.305
+Blues,Mac Ayres,Under,0PZRlp2wrQDausamlangtw,62,0.568,0.732,225866,0.366,0.000593,D#,0.194,-8.601,Minor,0.0568,85.909,4-Apr,0.544
+Blues,The Strokes,Threat of Joy,6YQeOwMMAkB9MV9yMWmrjh,64,0.216,0.594,264662,0.728,0.0881,C,0.124,-6.917,Major,0.0281,137.97,4-Apr,0.687
+Blues,Jhene Aiko,Keep Ya Head Up - Recorded at Spotify Studios NYC,74sfJjVq74bYkxMQoOhH3r,55,0.886,0.475,163480,0.312,0,E,0.085,-11.731,Major,0.0486,143.156,4-Apr,0.4
+Blues,The Story So Far,Proper Dose,0UtBjb4YUMbbtIKNXUeCLx,58,1.49E-05,0.449,140461,0.976,0.00367,F,0.102,-3.853,Minor,0.0625,104.08,4-Apr,0.513
+Blues,Red Hot Chili Peppers,Wet Sand,3L2Nyi3T7XabH8EEZFLDdX,64,0.0313,0.313,309800,0.753,2.25E-06,E,0.142,-3.921,Minor,0.0285,176.748,4-Apr,0.514
+Blues,6LACK,Gettin' Old,1S4sxNGmCASkyRI08YhLtT,62,0.4,0.743,215000,0.4,0.000311,B,0.111,-12.369,Major,0.0625,80.01,4-Apr,0.229
+Blues,Ruelle,War of Hearts,4vWeIrIQQrbThS11ogLTmu,63,0.0316,0.494,226427,0.713,0.374,A,0.0602,-7.487,Minor,0.0776,147.959,4-Mar,0.257
+Blues,Brent Faiyaz,Lovely,2jGjNCH6Op0BqBHPc4Rd8d,60,0.575,0.385,291098,0.473,2.88E-05,G#,0.13,-8.656,Minor,0.0519,143.614,4-Mar,0.0575
+Blues,Run The Jewels,Call Ticketron,4E9RsETCexFzZfSovxFksR,56,0.113,0.83,198640,0.655,0.000378,G,0.157,-9.948,Major,0.278,120.019,4-Apr,0.521
+Blues,Cautious Clay,Stolen Moments,6WpiKPG9ek8pXqds8Ucq3T,57,0.829,0.434,137638,0.211,0,A#,0.104,-9.371,Major,0.0506,170.597,4-Apr,0.202
+Blues,Smino,Z4L (with Bari & Jay2),3X6YJcqTinaNraRvojF62K,59,0.0779,0.822,162591,0.503,0,B,0.161,-6.889,Minor,0.285,71.524,4-Apr,0.408
+Blues,P.O.D.,Boom,5DooySfCD1xCJ49gQm9rx7,65,0.00318,0.559,190760,0.931,1.24E-05,A,0.0624,-5.863,Major,0.0721,90.911,4-Apr,0.644
+Blues,Alina Baraz,Fallin,4jdmvZ64AR3IR9G59IFTKq,58,0.339,0.589,246184,0.466,2.91E-05,C,0.155,-9.049,Major,0.215,87.117,4-Apr,0.343
+Blues,Pantera,I'm Broken,2M5WTwqnkyz7bW6P1CiD6q,64,0.000594,0.419,264800,0.878,0.559,G,0.139,-6.352,Major,0.0553,147.385,4-Apr,0.666
+Blues,Three Days Grace,The Good Life,55KYlnsC6nYnr3IykbmJwE,61,0.000345,0.548,173173,0.911,0,A#,0.23,-3.701,Major,0.0397,128.036,4-Apr,0.654
+Blues,10 Years,Novacaine,0uyDAijTR0tOuH24hxDhE5,58,0.000106,0.444,169520,0.865,1.55E-05,B,0.0366,-2.433,Major,0.0464,188.036,4-Apr,0.74
+Blues,Young the Giant,Amerika,6pqKbOiVd58jcnxqIB10Ra,59,0.0141,0.625,240240,0.781,1.17E-06,C,0.0662,-5.756,Major,0.0456,89.982,4-Apr,0.178
+Blues,RKCB,31 / 10,4TwbiHzsLKYydj4CxrufQB,61,0.588,0.589,270054,0.448,0.000581,F,0.109,-8.069,Major,0.0442,76.037,4-Apr,0.122
+Blues,Sabrina Claudio,Creation,4uqbiPAOX2a857xDoJejow,59,0.766,0.79,181290,0.416,0.000358,A#,0.101,-2.909,Minor,0.0419,109.987,4-Apr,0.448
+Blues,Modern Baseball,Your Graduation,2J1t2b8xPBqZzj5znx0C7C,59,0.001,0.395,163760,0.902,0,G#,0.327,-5.808,Minor,0.176,184.737,4-Apr,0.632
+Blues,The Unlikely Candidates,Oh My Dear Lord,0iHA83002w19QxhOIixKDy,58,0.0382,0.557,192500,0.798,1.40E-05,C#,0.0666,-4.506,Minor,0.113,72.044,4-Apr,0.673
+Blues,Run The Jewels,Run The Jewels,7tGhL4HNkupitX5iWv5eYd,58,0.0182,0.649,210627,0.548,0,C#,0.165,-6.879,Major,0.184,76.008,4-Apr,0.075
+Blues,D'Angelo,Lady,7AjfklMN4WpQYz5FkT4E66,61,0.14,0.815,346267,0.364,0.0255,G#,0.121,-11.834,Minor,0.089,84.898,4-Apr,0.723
+Blues,Jonny Diaz,Thank God I Got Her,5Rv2Qybimpsp9hzFnMQBYN,57,0.0247,0.541,195160,0.628,3.43E-06,B,0.264,-5.584,Major,0.0296,160.051,4-Apr,0.535
+Blues,Soil,Breaking Me Down,5cA9fu0qKxeV9mTaDpFjgH,63,0.000292,0.522,154267,0.972,0,B,0.183,-4.141,Major,0.138,151.034,4-Apr,0.747
+Blues,Nao,Make It Out Alive (feat. SiR),21Ft8ME799DMZjxNwmui6Z,64,0.667,0.67,239147,0.649,0.00013,C,0.109,-7.426,Minor,0.0875,147.935,4-Apr,0.618
+Blues,Nickelback,Next Contestant,3nCqvNZj68zVlT3Dy7fJ3b,55,0.000416,0.557,214707,0.862,0.000316,C,0.0577,-4.029,Major,0.0637,174.114,4-Apr,0.531
+Blues,The Black Keys,Everlasting Light,6dU5RxthbuaN31bRbEDlNw,58,0.127,0.641,203773,0.582,0.00632,E,0.354,-6.554,Major,0.0483,181.039,4-Apr,0.725
+Blues,Avenged Sevenfold,Carry On,1hrfvLgEC9lci0kB89QEQ0,59,0.00018,0.471,255077,0.985,4.17E-05,D,0.0557,-3.618,Major,0.191,135.063,4-Apr,0.14
+Blues,Choker,Juno,6OpU3cvY19M2hFxTbLKy5L,57,0.921,0.442,231681,0.267,0.00026,G,0.148,-12.857,Major,0.0365,120.075,4-Apr,0.116
+Blues,Jordan Feliz,Beloved,6ZUdUi3qBZlqWIr1gPRwLC,57,0.00497,0.574,240453,0.802,0,B,0.333,-4.801,Minor,0.0299,128.062,4-Apr,0.534
+Blues,Bishop Briggs,Dark Side,6FFrva3VXMwabDvuHkX4ZU,62,0.611,0.714,208773,0.549,1.18E-06,A,0.0887,-5.982,Major,0.0655,138.07,4-Apr,0.132
+Blues,Tobi Lou,Darlin',0eGrwX4kf5sV1faR5tZDp3,56,0.571,0.866,205091,0.388,0,A,0.1,-11.009,Major,0.32,109.976,4-Apr,0.556
+Blues,Seether,Betray And Degrade,3XHnaUAFX8PfNMW1hHC75N,60,9.85E-05,0.58,244347,0.737,0.0367,A#,0.0823,-4.795,Major,0.0335,92,4-Apr,0.506
+Blues,Skillet,Stars,6VMT3SzIMbNoR5lsUsniQY,59,0.000376,0.475,225853,0.835,7.91E-05,B,0.123,-5.366,Major,0.0427,74.971,4-Apr,0.473
+Blues,Nothing More,This Is The Time (Ballast),1X34xjRBPeBVm2UNqL4KXO,57,7.66E-06,0.531,220413,0.979,0.0196,B,0.0944,-4.686,Minor,0.0663,110.023,4-Apr,0.472
+Blues,My Darkest Days,Every Lie,2cLvZokGgikrGmY6XIzztS,58,0.000939,0.577,176400,0.925,0,D,0.216,-3.099,Minor,0.043,112.044,4-Apr,0.621
+Blues,YUNGBLUD,California,1Tc3kbOaPzpY8y9phWaVDx,64,0.00279,0.432,231653,0.684,0,D,0.132,-5.23,Minor,0.199,181.89,4-Apr,0.44
+Blues,Bishop Briggs,Wild Horses,1vHyZsydQf4h2yDhujnqvQ,60,0.225,0.745,189493,0.537,0,C,0.154,-5.664,Minor,0.031,140.069,4-Apr,0.203
+Blues,The Hives,Hate To Say I Told You So,6xxXrNJnnsQNLdgNk8S4y8,60,0.00109,0.451,199760,0.929,0.00785,F,0.442,-5.021,Major,0.0549,135.767,4-Apr,0.378
+Blues,KAYTRANADA,GOT IT GOOD,2qUZliZ9NHUYIAZqRNe6pZ,63,0.0475,0.606,228147,0.503,0,G,0.116,-6.678,Minor,0.155,80.04,4-Apr,0.31
+Blues,Pixies,Here Comes Your Man,0cs671lxX2eoDzr2KMuo3N,67,0.0451,0.664,201693,0.788,0.0416,D,0.117,-12.323,Major,0.0294,124.51,4-Apr,0.869
+Blues,Collective Soul,December (45 Version),4wx38D1Y9vv9WG3T0J6lTA,58,0.587,0.687,249973,0.499,0.00362,C,0.187,-7.614,Major,0.0278,121.981,4-Apr,0.338
+Blues,The Strokes,Hard To Explain,0OM9ri37LIbPc9hffwsyb1,60,0.000456,0.408,224333,0.665,0.863,G,0.0888,-6.286,Major,0.0578,82.525,4-Apr,0.667
+Blues,Cage The Elephant,In One Ear,2VRJIIzbhhOGaxAhwCMfZX,58,0.000258,0.326,241320,0.948,0,C#,0.367,-4.315,Minor,0.0606,166.388,4-Apr,0.358
+Blues,The Story So Far,Upside Down,4ZiAnGIZFFUybp0NZXIYEG,58,0.00336,0.531,231349,0.768,2.71E-06,C#,0.163,-5.64,Major,0.0287,105.974,4-Apr,0.329
+Blues,H.E.R.,Hopes Up,1VnEQ3LdQlARfow87U9BLn,57,0.115,0.564,185947,0.455,0.0231,A,0.114,-12.306,Minor,0.0685,146.013,4-Apr,0.313
+Blues,of Montreal,Gronlandic Edit,3X8gOyVXP93Tslnz9Bxw24,59,0.0833,0.971,204760,0.4,0.000661,E,0.108,-7.154,Minor,0.0487,119.953,4-Apr,0.652
+Blues,A Perfect Circle,The Doomed,44OUZyiPnJc4pOZw4J6pid,60,0.0477,0.367,281781,0.903,0.00124,E,0.235,-5.956,Minor,0.175,106.329,4-Mar,0.239
+Blues,Jhene Aiko,Sativa - Recorded at Spotify Studios NYC,1OfUOufSXTjhUm5gK33uVN,56,0.959,0.571,269773,0.184,0,A,0.114,-14.828,Major,0.0418,105.726,4-Apr,0.221
+Blues,Scissor Sisters,Take Your Mama,0LAfANg75hYiV1IAEP3vY6,56,0.22,0.762,271907,0.954,1.76E-05,G#,0.0612,-4.542,Major,0.121,153.96,4-Apr,0.933
+Blues,Aaron Shust,Ever Be,0P8ANiSwsjYPx3zrmgN2Pv,59,0.00873,0.458,230093,0.739,0,A,0.131,-4.77,Major,0.0469,144.023,4-Apr,0.409
+Blues,Shane & Shane,You're Beautiful,6PExqNUN5D4nqBTamndm6k,59,0.122,0.392,337954,0.607,0,D#,0.11,-7.79,Major,0.0318,160.103,4-Apr,0.175
+Blues,Saint Motel,Move,4vuJuTLFomqItDrn482nzV,60,0.0177,0.638,187893,0.819,0,A#,0.312,-4.991,Minor,0.0643,101.031,4-Apr,0.721
+Blues,Urge Overkill,"Girl, You'll Be a Woman Soon",5u6Woby9oKAF8LhhuxykH1,63,0.0698,0.514,189627,0.584,0.000183,F,0.205,-13.049,Major,0.042,114.142,4-Apr,0.558
+Blues,DaniLeigh,All I Know,4dxM44QcHvrbTqCtBsNprG,60,0.0621,0.384,163747,0.667,0,C,0.33,-8.126,Minor,0.516,187.767,4-Apr,0.72
+Blues,Bishop Briggs,Baby,21vwWfS6qvxh8TN3lgHvZr,58,0.00475,0.66,194000,0.592,0,F#,0.273,-5.568,Minor,0.0376,139.984,4-Apr,0.206
+Blues,lovelytheband,"don't worry, you will",09akcdeCiV2jIl6x9WpmxA,57,0.0931,0.751,197000,0.702,0,A,0.141,-4.382,Minor,0.0515,120.048,4-Apr,0.851
+Blues,Mandisa,Overcomer,5legkLUDyq0qOg4TR7wUAs,57,0.00167,0.697,223627,0.938,0.000285,G,0.281,-2.796,Minor,0.0319,119.997,4-Apr,0.829
+Blues,Benny The Butcher,'97 Hov,1qzlwbV6SwHYOR3mhu6ZEd,55,0.47,0.462,250737,0.517,0,C#,0.147,-12.017,Major,0.369,79.585,4-Apr,0.656
+Blues,Stateless,Bloodstream,03WuFsWpkytZ6c5iidS8Im,56,0.354,0.699,313800,0.463,0.00306,F#,0.073,-7.212,Minor,0.0432,139.952,4-Apr,0.356
+Blues,NoMBe,Freak Like Me,5U6ZzFbxI9AHpWUWEy8rw7,59,0.0306,0.685,176890,0.568,2.93E-06,C#,0.458,-6.487,Major,0.0575,96.012,4-Apr,0.453
+Blues,watt,Burning Man,6REbB4VXol3q3iiCjvojL5,57,0.00906,0.572,197507,0.88,1.08E-06,D,0.0513,-2.782,Major,0.0603,158.16,4-Apr,0.5
+Blues,Pink Sweat$,Would You,57tJJtDzZ8jt5AZDwQFhaZ,60,0.697,0.71,153125,0.19,0,E,0.0788,-11.137,Major,0.0401,105.14,4-Apr,0.495
+Blues,Glass Animals,Toes,754wVXWrtf1X3ZHQOFFsnR,60,0.406,0.639,254640,0.347,0.000268,C#,0.215,-12.322,Minor,0.0421,72.978,4-Apr,0.247
+Blues,Three Days Grace,Chalk Outline,0XGV1bem5W9ICY2rgleryV,60,0.000567,0.59,181987,0.792,0,G,0.0448,-5.013,Major,0.0603,153.023,4-Apr,0.663
+Blues,Tenacious D,The Metal,3pYKJaLiixRcDFfcNhxZKK,60,0.00296,0.623,165960,0.938,0.000852,C,0.48,-4.161,Major,0.123,112.022,4-Apr,0.308
+Blues,Matt Maher,Your Love Defends Me,066eFvkQXyR9UIYi65GsSu,59,0.063,0.546,226867,0.486,0,A,0.0892,-6.797,Major,0.0255,78.866,4-Apr,0.289
+Blues,Avenged Sevenfold,Seize the Day,7HKRWMTErKh56EIBeFcmdf,62,0.0168,0.393,334067,0.802,0,F,0.193,-4.499,Major,0.0367,140.101,4-Apr,0.338
+Blues,Silversun Pickups,Panic Switch,597i9UhHbW8hHgBUp8Tm54,56,0.000202,0.163,343907,0.885,0.0121,F,0.228,-4.623,Minor,0.0725,198.556,4-Mar,0.549
+Blues,The 1975,Surrounded By Heads And Bodies,4EGVeQKn8WyzCmCx5YTIc4,62,0.809,0.427,236073,0.284,0.00799,F#,0.124,-12.959,Major,0.0309,127.929,4-Apr,0.185
+Blues,Kali Uchis,Tomorrow,3P4gLPPOHIRQ5j6PC1hNa5,58,0.116,0.644,190375,0.591,3.50E-05,D,0.141,-7.218,Minor,0.0296,107.034,4-Apr,0.494
+Blues,Nothing More,Let 'em Burn,4bPrKGqQKiBmf49XB4F4H5,56,0.000122,0.54,235853,0.966,0.000626,A#,0.391,-3.884,Minor,0.0637,94.986,4-Apr,0.521
+Blues,Smallpools,Passenger Side,3reay7NBijCy7n8xVLpDL8,59,0.00601,0.585,221747,0.801,8.20E-05,B,0.0865,-5.406,Minor,0.0995,101.987,4-Apr,0.283
+Blues,Tierra Whack,Pretty Ugly,2PsjiKghYKF3k13NOIiFFW,55,0.22,0.941,60000,0.656,1.06E-05,C,0.121,-8.178,Major,0.154,109.908,4-Apr,0.382
+Blues,X Ambassadors,Unsteady - Erich Lee Gravity Remix,7AOdyU64RafmvJUL4WMotN,63,0.0139,0.396,204587,0.574,1.00E-05,D,0.32,-7.381,Major,0.0426,116.605,4-Apr,0.0758
+Blues,DREAMERS,Painkiller,15BsrefgYpMgu1ZCIr8EJw,59,0.00298,0.583,202627,0.926,0.00101,C,0.121,-3.296,Major,0.0318,99.988,4-Apr,0.2
+Blues,Pop Evil,Trenches,4ilzPm2qnev5hFdUz6dDyY,57,0.000175,0.547,217880,0.95,0.00956,C,0.166,-3.482,Major,0.0577,100.008,4-Apr,0.594
+Blues,Hablot Brown,Reason,7hdM3l7whE3lTHP6WsoKZT,61,0.164,0.799,200000,0.309,0.00037,F,0.0854,-8.462,Minor,0.165,89.964,4-Apr,0.553
+Blues,Temple Of The Dog,Say Hello 2 Heaven,4L2S9GbwEgwfSbHjTCvNQX,55,0.0841,0.306,384467,0.639,0,C,0.371,-9.91,Major,0.0336,149.686,4-Mar,0.293
+Blues,Atmosphere,Sunshine,5OmcnFH77xm4IETrbEvhlq,57,0.147,0.852,216547,0.572,2.62E-06,C#,0.186,-5.086,Major,0.149,90.939,4-Apr,0.569
+Blues,Rage Against The Machine,How I Could Just Kill a Man,4K1DB7EedHPuVnhVrnvf2U,61,0.00114,0.598,244693,0.939,9.26E-06,G,0.288,-3.663,Major,0.105,95.884,4-Apr,0.63
+Blues,Janelle Monáe,I Like That - Recorded at Spotify Studios NYC,2GATPLRMzHNwUmkxGgCoEP,61,0.285,0.522,180551,0.527,2.18E-06,C,0.184,-7.358,Major,0.0631,130.323,4-Apr,0.426
+Blues,The Struts,Kiss This,3Zm5SMUA3JH98Aty7Zc0xr,57,0.000702,0.426,177840,0.965,0.00189,G#,0.179,-3.796,Major,0.103,186.081,4-Apr,0.8
+Blues,Bad Wolves,No Masters,2MhppPQbaj2EqJUjIWZurg,57,4.05E-05,0.495,233095,0.949,0.00167,F,0.328,-4.797,Minor,0.054,95.959,4-Apr,0.501
+Blues,Breaking Benjamin,Never Again,07huQEWGQAe7aJaeR08Cag,58,8.53E-06,0.493,223547,0.936,9.73E-05,C#,0.358,-4.525,Major,0.0331,93.501,4-Apr,0.683
+Blues,Maurice Moore,The Loudest Silence,5PB7yyYeLYkfPqmC0hwlXl,60,0.501,0.588,186723,0.315,0,A,0.153,-12.217,Major,0.495,103.335,4-Mar,0.398
+Blues,Saba,BROKEN GIRLS,5AdhyCxxguV1wXde1vqgWC,60,0.322,0.663,277333,0.572,0,A#,0.171,-10.593,Minor,0.102,117.051,4-Apr,0.494
+Blues,Foster The People,I Would Do Anything for You,5fgb3Md1xjt3mxeBqguiIA,61,0.0372,0.597,214080,0.848,2.33E-05,C,0.122,-5.841,Major,0.0308,128.009,4-Apr,0.437
+Blues,Fozzy,Painless,4IkCvLPQfBEclen1NuIDIL,57,4.90E-05,0.391,239780,0.93,0.000569,D,0.674,-4.16,Minor,0.0509,179.99,4-Apr,0.502
+Blues,Thousand Foot Krutch,Untraveled Road,2IIOBRgHTsmEMYzMU0zHws,59,0.000316,0.593,235689,0.848,1.50E-06,B,0.067,-6.341,Major,0.0408,125.026,4-Apr,0.47
+Blues,Kota the Friend,Her,2DvYDD4yQTOHjrzocDq9x4,56,0.692,0.764,266000,0.463,0,G,0.112,-11.184,Minor,0.273,119.851,4-Apr,0.606
+Blues,Gallant,Weight in Gold,1gXBi2I04CLJkTQnhNfEJT,60,0.0259,0.38,203813,0.438,1.29E-05,F,0.154,-5.526,Minor,0.0962,179.404,4-Mar,0.349
+Blues,Masego,Girls That Dance,11gXs1fmRhR5Q6PxD3Lhr4,59,0.0694,0.72,205680,0.705,0,C#,0.118,-7.686,Major,0.436,109.649,4-Apr,0.473
+Blues,6LACK,Alone / EA6,4r8BzCnB6mDdPcJuSmSovv,56,0.709,0.448,553853,0.66,0.000465,A,0.351,-7.642,Major,0.276,124.767,4-May,0.119
+Blues,The Hunna,She's Casual,3WLwkFXJpZ1VpDxAh0DXzz,55,0.0132,0.435,183760,0.591,0,D,0.101,-6.973,Major,0.057,129.93,4-Apr,0.0941
+Blues,Cautious Clay,HONEST ENOUGH,4AYTCusq44mkt5Vzbm1YBO,57,0.746,0.591,176387,0.418,0.00207,A,0.334,-7.88,Major,0.0306,115.995,4-Apr,0.358
+Blues,Jimmy Eat World,Hear You Me,0fQlm2MUzqGDBPkuqq4U1Y,58,0.0123,0.474,284373,0.513,0.0402,E,0.254,-6.098,Major,0.0273,136.171,4-Mar,0.149
+Blues,DRAMA,Billy,2eQHAwP1oz4XsjHXSEaqZQ,62,0.197,0.845,213716,0.442,0.00543,G#,0.191,-9.698,Minor,0.0332,106.426,4-Apr,0.404
+Blues,BJ The Chicago Kid,Roses,3SwhPTNNU5hpF33bbCsji6,64,0.38,0.655,181144,0.597,0,C,0.11,-7.269,Minor,0.0912,110.01,4-Apr,0.219
+Blues,MIKESCHAIR,People Like Me,16kWQEiNSo9ZGmW0oaVSaH,57,0.0199,0.443,215358,0.781,0,F,0.115,-5.49,Minor,0.0393,137.956,4-Apr,0.383
+Blues,Alice In Chains,"Down In A Hole - Live at the Majestic Theatre, Brooklyn, NY - April 1996",2yBAPa9HZj3P2szSaaj4k1,60,0.0883,0.554,346027,0.515,2.70E-05,F#,0.883,-8.534,Major,0.024,95.125,4-Apr,0.432
+Blues,Atmosphere,Yesterday,61OMCRdMORzZKZ5ury05iG,57,0.524,0.849,203720,0.531,0,G,0.0693,-5.534,Major,0.258,91.927,4-Apr,0.77
+Blues,My Darkest Days,Casual Sex,4akbPW1whJ6VDvXYeTA3vX,55,0.0108,0.669,193573,0.916,0,B,0.652,-4.228,Minor,0.0488,116.06,4-Apr,0.862
+Blues,Passion Pit,Little Secrets,3kb38wezoUA8ki5jPYy3t5,61,0.00345,0.597,238973,0.786,0,F,0.0909,-4.248,Major,0.0419,99.888,4-Apr,0.666
+Blues,Rainbow Kitten Surprise,Holy War,1zkkvSLk5Nh4uoyKWwuie9,58,0.636,0.564,174387,0.294,0,G,0.0982,-8.885,Minor,0.0349,149.98,4-Apr,0.213
+Blues,6LACK,Learn Ya,2V8OJ8i3WBh4Los9wG6OKQ,61,0.509,0.416,215680,0.527,0.00312,C,0.112,-8.692,Minor,0.331,81.576,4-Apr,0.202
+Blues,Black Stone Cherry,Can't You See,7avvBGQq0tH4nY95guF7fP,58,0.000469,0.398,211160,0.846,2.46E-05,B,0.172,-4.217,Major,0.0441,149.893,4-Apr,0.411
+Blues,The Wombats,Bee-Sting,7xdPwAhj4mMqDaNxvNoYnV,64,0.0457,0.65,214433,0.866,0,B,0.0682,-3.713,Major,0.0343,115.001,4-Apr,0.717
+Blues,The Neighbourhood,Compass,0YNtAadZvKBBEFARtfoCV8,63,0.238,0.7,167960,0.82,0.318,F,0.658,-5.499,Minor,0.0329,109.998,4-Apr,0.667
+Blues,Toad The Wet Sprocket,All I Want,2GHYJ0dhVds3PODKnTdiGE,58,0.0558,0.6,196116,0.811,6.82E-06,F,0.109,-7.693,Major,0.0788,124.303,4-Apr,0.622
+Blues,Matt Redman,"10,000 Reasons (Bless The Lord) [Radio Version] - Radio Version/Live",2MobJagQB0dGJoRqI8OT0m,61,0.0839,0.459,256933,0.561,0,G,0.0998,-7.091,Major,0.0271,144.784,4-Apr,0.306
+Blues,Tenacious D,Beelzeboss (The Final Showdown),0ffz9KBdCb7oJkSK0W7bbf,61,0.0149,0.47,335800,0.877,1.35E-06,D,0.171,-3.74,Major,0.208,130.709,4-Apr,0.433
+Opera,Frederica von Stade,"Pelléas et Mélisande - incidental music, Op.80: IV. Mélisande's song",4mUtaOVomYIAOqAiZ0HOWu,14,0.982,0.139,191107,0.0232,3.96E-05,D,0.0773,-25.384,Minor,0.0409,83.841,4-Apr,0.0386
+Opera,Maria Callas,"Roméo et Juliette, 'Romeo and Juliet' (1997 Digital Remaster): Je veux vivre (Waltz)",4x4CZLIBGgDrVGCAC7Ddjv,13,0.966,0.259,219847,0.174,0.000601,F,0.0778,-16.228,Major,0.0513,81.024,4-Apr,0.19
+Opera,Gioachino Rossini,"""Una voce poco fa""",54t8fzneD6VWjHGA6VIGqj,10,0.977,0.421,366000,0.118,2.54E-05,E,0.127,-20.288,Major,0.056,128.837,4-Apr,0.29
+Opera,"Orchestra Del Teatro Alla Scala, Milano",Ernani: Si ridesti,5ZmNh1ihogjPCt21icaF5i,16,0.962,0.363,131693,0.262,0.107,F#,0.0898,-17.105,Major,0.0368,80.493,4-Apr,0.382
+Opera,"Orchestra Del Teatro Alla Scala, Milano","Tosca (2002 Digital Remaster), Act III: Largo...(Orchestra)....Mario Cavaradossi? A voi...(Carceriere/Cavaradossi)...Meno (Orchestra)",5troP3saaO8ijW4o4XBpaY,16,0.969,0.209,244440,0.0644,0.0254,B,0.113,-25.438,Minor,0.0393,106.097,4-Apr,0.0764
+Opera,Jussi Björling,3 Sanger: 3 Sanger: No. 3. Till havs (Toward the Sea),5ydWS2gnAs9aHVBYNoYUXf,24,0.959,0.229,134080,0.586,0.043,E,0.23,-5.641,Major,0.0404,94.109,4-Apr,0.405
+Opera,Gioachino Rossini,Tancredi: Overture,62kZnxi5XIMXqAs3tVFIIv,17,0.9,0.197,365240,0.191,0.717,D,0.0893,-20.762,Major,0.0624,79.212,4-Apr,0.184
+Opera,Leo Nucci,Se vuoi goder la vita,732hBo1lD3jWf8cfXwhzEn,19,0.989,0.371,180512,0.269,0.0126,C,0.131,-11.027,Major,0.0488,170.247,4-Mar,0.625
+Opera,Gioachino Rossini,"Rossini: Introduction, Theme and Variations for Clarinet in B-Flat Major",3QKAWxofyxN8dMoFRtxRmJ,9,0.984,0.39,682733,0.127,0.701,A#,0.0952,-18.67,Major,0.0427,109.244,4-Mar,0.3
+Opera,Ruggero Leoncavallo,"Pagliacci / Act 2: ""Arlecchin! Colombina!"" - ""Prendi questo narcotico""",3SJIyOX7bucevL4lGfYHhS,14,0.955,0.409,109640,0.106,3.36E-06,E,0.644,-20.966,Major,0.0666,122.741,4-Apr,0.35
+Opera,Nicola Porpora,Gli orti esperidi: “Giusto Amor tu che m’accendi”,3dBLl6WcNZSSFs3imefExK,20,0.984,0.324,329747,0.178,0.0815,C#,0.0914,-18.506,Major,0.0465,97.51,4-Mar,0.293
+Opera,Jussi Björling,Sommarnatt (Summer Night),3eQPw2jfphurlOKgHdjp9a,19,0.905,0.204,189027,0.524,0.0274,E,0.359,-7.526,Major,0.0377,92.185,4-Apr,0.239
+Opera,Gioachino Rossini,Guillaume Tell: Overture,4Elz7W54m523oetmGctS6n,18,0.957,0.227,731040,0.109,0.828,E,0.151,-19.352,Major,0.0482,103.597,4-Apr,0.074
+Opera,Gioachino Rossini,Duet for Cello and Double Bass in D Major: II. Andante molto,6L02VkPy1rQyr6D564IXtw,11,0.8,0.176,189533,0.0439,0.855,A#,0.13,-28.318,Major,0.0402,76.147,4-Apr,0.205
+Opera,June Anderson,La Pastorella delle Alpi,0UslQkGA803izTITbDtZoa,10,0.982,0.571,150000,0.0359,8.86E-05,C,0.128,-21.715,Major,0.077,65.155,4-Apr,0.28
+Opera,Maria Callas,"Tosca (2002 Digital Remaster), Act II: Tosca, finalmente mia! (Scarpia/Tosca)",11cseMHJNUYzqSAnG4NJOg,16,0.957,0.345,76107,0.318,0.00698,C#,0.112,-12.306,Major,0.0475,88.115,4-Mar,0.158
+Opera,Georges Bizet,L'Arlésienne Suite No.2: 4. Farandole,1BLPnUZM0ExLEG0mEVk4SM,14,0.78,0.514,200867,0.509,0.159,D,0.237,-14.919,Major,0.153,86.131,4-Apr,0.663
+Opera,Jules Massenet,Thaïs: Meditation,2MXbrs86ysS6fN6Fz3d8lH,7,0.631,0.0911,316480,0.243,0.29,D,0.197,-15.845,Major,0.0455,171.919,4-Jan,0.0374
+Opera,Katherine Jenkins,You Are My Miracle,2UF5ECpqG7h5qWkqtFZaNr,13,0.876,0.314,253333,0.382,8.47E-06,D,0.087,-8.861,Major,0.0375,124.123,4-Apr,0.129
+Opera,Katherine Jenkins,Don't Stand On My Grave And Weep,3lMrz0BWTZuf5UgjrEm1r9,7,0.924,0.314,219107,0.425,0.000256,D,0.258,-8.928,Major,0.034,70.409,4-Apr,0.323
+Opera,Nicola Porpora,"Germanico in Germania: Parto ti lascio, o cara",4BgxpXT2fQ4cJFyQjIHD4y,7,0.984,0.304,648040,0.0961,0.305,C#,0.0725,-19.881,Minor,0.0519,131.321,4-Apr,0.0672
+Opera,Ruggero Leoncavallo,Barcarola Veneziana,4HHhP1VsboPUAgyyow80Kp,9,0.992,0.276,142787,0.0227,0.921,G,0.128,-29.5,Major,0.0339,67.941,4-Mar,0.114
+Opera,Ruggero Leoncavallo,"Pagliacci / Act 2: ""Pagliaccio, mio marito""",4kQ8rjLVTH6SiHyTwXlH2O,14,0.927,0.378,234333,0.0402,0.000341,C,0.25,-26.829,Major,0.0414,111.458,4-Apr,0.203
+Opera,Maria Callas,"Tosca (2002 Digital Remaster), Act II: Se la giurata fede debbo tradir (Tosca/Scarpia)",57xvHjSdNEFHUM3n5AqyX0,16,0.981,0.372,132360,0.297,0.652,C#,0.401,-13.105,Major,0.0355,66.341,4-Mar,0.223
+Opera,Gioachino Rossini,"The Barber of Seville, Act I Scene 2: A un dottor della mia sorte (Bartolo)",5AwkmXqXFxqgiIpvNQFqBV,11,0.973,0.412,366373,0.25,0.114,D#,0.346,-19.518,Major,0.0659,114.108,4-Apr,0.404
+Opera,Ruggero Leoncavallo,"Pagliacci / Act 1: ""Recitar!"" - ""Vesti la giubba""",3rWiu5bBEndjismfdCGpzY,8,0.96,0.2,221160,0.246,0.139,E,0.0895,-14.706,Major,0.0365,170.978,4-Apr,0.149
+Opera,Gioachino Rossini,The Thieving Magpie Overture,5AUrypCUqv96hVjL9uF0FN,12,0.952,0.356,540002,0.448,0.826,E,0.0774,-9.297,Major,0.0577,95.997,4-Mar,0.377
+Opera,Johann Simon Mayr,Piano Concerto No. 1 in C Major (arr. L Bianchini and P. Barbareschi for piano and orchestra): III. Rondo-allegro,7ilTSRLdFbxohZPMbApLvG,10,0.989,0.407,238800,0.163,0.944,C,0.0958,-23.208,Major,0.039,147.691,4-Apr,0.441
+Opera,Gioachino Rossini,Rossini: Il Barbiere di Siviglia: Overture,1Dbn1AVSqpy6y1S0VLIr6c,10,0.938,0.318,446693,0.199,0.893,E,0.0796,-17.388,Major,0.0458,87.713,4-Apr,0.365
+Opera,Gioachino Rossini,Il Signor Bruschino: Overture,3vzyNOziMw97lvjrVIEkOM,12,0.802,0.491,293000,0.27,0.676,A,0.116,-18.789,Major,0.0494,125.459,4-Apr,0.258
+Opera,Gioachino Rossini,La Danza,4ecrTwWZ343nbKBIRqzlf7,13,0.871,0.406,183560,0.552,0.000153,F,0.169,-7.357,Major,0.0479,150.186,4-Apr,0.787
+Opera,Gioachino Rossini,"La Cenerentola / Act 2: ""Nacqui all'affanno e al pianto"" - ""Non più mesta""",6DqOHR2YswkWFTe88oI3Qp,13,0.984,0.411,435773,0.181,0.000596,E,0.165,-18.261,Major,0.0766,136.892,4-Apr,0.152
+Opera,Gioachino Rossini,"La Pastorella (The Little Shepherdess) from ""Soirées Musicales""",7A2Q4s6hKaZmkedSHDxT16,11,0.964,0.392,147267,0.191,0.00183,C,0.106,-14.163,Major,0.0664,184.897,4-Apr,0.42
+Opera,Jussi Björling,Namner du Sverige (If You Mention Sweden),7fwJ49S20gE0k5wtbiRCKw,21,0.878,0.25,187333,0.451,0.322,F#,0.63,-7.931,Major,0.0398,98.806,4-Jan,0.336
+Opera,Katherine Jenkins,"Song to the Moon (From ""Rusalka, Op. 114, B. 203"")",2Nlp9BZ07At1TOxWJmWu6j,7,0.961,0.223,338800,0.357,1.00E-05,F,0.104,-7.576,Major,0.0392,87.983,4-Apr,0.0699
+Opera,Gioachino Rossini,Il barbiere di Siviglia (The Barber of Seville): Act I Aria: La calunnia e un venticello (Basilio),3QE7L69rjZXjufnrKEI10N,13,0.972,0.469,273307,0.137,0.00925,C,0.0832,-19.43,Major,0.0826,132.584,4-Apr,0.289
+Opera,Gioachino Rossini,"Introduction, Theme and Variations for Clarinet and Orchestra in E flat major - Cadenza: Charles Neidich: Introduzione: Andante (sostenuto)",7sJExZ0lqrwadGrY9kCOYg,12,0.98,0.284,239493,0.0442,0.718,A#,0.197,-23.368,Major,0.045,106.788,4-Apr,0.128
+Opera,Ruggero Leoncavallo,"Pagliacci / Act 2: ""E dessa! Dei, come è bella""",2SMQ02f6D14GjbF5lV1eBn,14,0.936,0.38,210960,0.204,1.27E-05,A,0.621,-20.435,Major,0.136,75.062,4-Apr,0.3
+Opera,Maria Callas,"Il barbiere di Siviglia (The Barber of Seville), Act 1: ""Una voce poco fa"" (Rosina's Cavatina)",5JddBe6qh1fs6tK8uGJzF0,16,0.984,0.32,405387,0.0583,0.00148,E,0.157,-17.362,Major,0.065,68.369,4-Mar,0.199
+Opera,"Orchestra Del Teatro Alla Scala, Milano","I Vespri Siciliani, ATTO PRIMO/ACT 1/ERSTER AKT/PREMIER ACTE: Sinfonia (Orchestra)",04u6iziFHgnO7YjyFWNjXK,18,0.893,0.273,498627,0.256,0.843,A,0.677,-15.361,Major,0.0459,89.67,4-Apr,0.235
+Opera,Gioachino Rossini,Duetto in D Major: I. Allegro,0QrU0NnShAZbPTtnTbTneC,12,0.914,0.338,338800,0.0912,0.813,D,0.224,-25.756,Major,0.0441,135.295,4-Apr,0.263
+Opera,Gioachino Rossini,"The Barber of Seville, Act I Scene 2: SI, sI, la vincerò (Rosina, Figaro)",0n8RDVQ4m5jNPhDUwOZ5l4,12,0.955,0.477,80560,0.0834,1.06E-06,C,0.181,-28.464,Major,0.338,171.744,4-Apr,0.281
+Opera,"Orchestra Del Teatro Alla Scala, Milano","Tosca (2002 Digital Remaster), Act II: Or gli perdono! (Tosca)",0wZGNlGHMVMftdXCr7gBvW,16,0.964,0.0886,227000,0.0282,0.251,D,0.0858,-21.783,Major,0.0393,80.869,4-Mar,0.0377
+Opera,Gioachino Rossini,"The Barber of Seville, Act I Scene 2: Ah, disgraziato Figaro! (Bartolo, Rosina, Berta, Ambrogio)",1Ml6AhAivu3H7hYNnBVzzz,12,0.939,0.562,109040,0.189,0,F,0.14,-25.027,Major,0.537,112.365,4-Apr,0.237
+Opera,Ruggero Leoncavallo,Valse mignonne,3Tn0NTZKj2zYj2PzoeOe50,8,0.991,0.333,321160,0.0457,0.926,C,0.109,-28.252,Major,0.0447,67.175,4-Apr,0.212
+Opera,Nicola Porpora,Porpora: Semiramide riconosciuta: Se pietoso il tuo labbro,4jtGLXSrrtfoQNfEU4wqXy,8,0.979,0.333,479000,0.0456,0.00527,F#,0.106,-22.821,Major,0.0565,64.706,4-Mar,0.15
+Opera,Gioachino Rossini,"Rossini: Il barbiere di Siviglia, Act 1: ""La ran la le ra ... Largo al factotum della città"" (Figaro)",4ukNSP8TifxwpW3aiu2vmq,18,0.977,0.421,260347,0.277,0.0224,C,0.107,-15.479,Major,0.0836,68.661,4-Mar,0.475
+Opera,"Orchestra Del Teatro Alla Scala, Milano","Tosca (2002 Digital Remaster), Act II: Vedi, le man giunte io stendo a te! (Tosca/Scarpia/Spoletta)",6H1U7dDj045iPXLuhIoTnn,16,0.975,0.354,191600,0.129,0.000161,E,0.168,-19.311,Minor,0.128,62.074,4-May,0.0873
+Opera,Ruggero Leoncavallo,Pagliacci: Vesti la giubba - Instrumental,6N6lLnWBF8WigCgOaDoGmd,12,0.942,0.164,212733,0.203,0.822,E,0.161,-16.076,Major,0.0361,103.721,4-Apr,0.0395
+Opera,Gioachino Rossini,"The Barber of Seville, Act I Scene 2: Dunque io son (Rosina, Figaro)",3y7dC1pxIXJK6yxiR52oCl,11,0.975,0.445,297600,0.163,0.00111,G,0.117,-18.72,Major,0.0647,123.683,4-Apr,0.167
+Opera,Richard Heuberger,Midnight Bells,41v3LEklF9SPpnIoRwapNB,9,0.98,0.163,228440,0.0574,0.871,C,0.193,-21.242,Major,0.0373,96.917,4-Mar,0.201
+Opera,Gioachino Rossini,"The Barber of Seville, Act I Scene 2: Ah! Barbiere d'inferno (Bartolo, Basilio)",4o20PyG1ts397dgQzQHNtK,11,0.966,0.543,110427,0.177,0,D,0.161,-22.315,Major,0.562,86.921,4-Mar,0.327
+Opera,Gioachino Rossini,"Rossini: Guillaume Tell, Act 2 Scene 2: ""Sombre forêt"" (Mathilde)",3DP4OL6rWYVTVG6eDMEKiI,18,0.991,0.21,297453,0.0961,0.0258,G#,0.122,-20.347,Major,0.0489,74.392,4-Mar,0.0557
+Opera,Nicola Porpora,"Orfeo: Aria : ""Dall'amor più sventurato""",6Nsnv2KmgG6zopCnAY64Fh,12,0.962,0.403,258573,0.245,7.97E-05,G#,0.227,-15.836,Major,0.0539,122.638,4-Mar,0.457
+Opera,Andreas Scholl,Fac Me Cruce,36JNf7QIvLWb6XI8JePDxL,25,0.993,0.511,201495,0.0125,0.188,B,0.0634,-18.655,Minor,0.0354,90.104,4-Apr,0.0771
+Opera,Andreas Scholl,Pro Peccatis,4f5Kj0IN55ibuKM0dxukac,24,0.985,0.209,146228,0.154,0.233,D,0.0883,-11.864,Minor,0.0388,57.536,4-Mar,0.0366
+Opera,Andreas Scholl,Quando Corpus,7LnXc6iNV7UOxiQBYJx04r,23,0.993,0.219,177834,0.0606,0.076,D,0.186,-17.95,Minor,0.04,133.348,4-Mar,0.0742
+Opera,Giuseppe Verdi,Requiem: XIII. Sanctus,0zoYGjYrNFyjJ0xuKtfLIX,17,0.959,0.348,156920,0.122,0.939,F,0.0703,-20.796,Major,0.0386,116.769,4-Apr,0.352
+Opera,Giacomo Puccini,Turandot / Act 2: Un giuramento atroce mi costringe,1CL8IZWXeMywk1OTYFlxfk,10,0.955,0.365,205864,0.268,3.52E-06,G,0.266,-10.499,Minor,0.0412,82.787,4-May,0.08
+Opera,Jacques Offenbach,Orpheus in the Underworld: Can-Can,1PRrdtZpB41s8cLfy0Osv2,11,0.887,0.508,123371,0.495,0.492,D,0.175,-15.465,Major,0.0342,85.902,4-Apr,0.791
+Opera,Giacomo Puccini,"Tosca : ""Ah, quegli occhi..."" - ""Qual occhio al mondo può star di paro""",1RJZX4EuQkweO3wv9TbzsD,11,0.984,0.217,334333,0.198,0.000418,C,0.0892,-14.836,Minor,0.0441,90.102,4-Apr,0.0641
+Opera,Giacomo Puccini,Madama Butterfly / Act 1: Sorride Vostro Onore?,1mLXh2rSqhY5Z1iwzafxPS,17,0.964,0.461,210373,0.147,0.000891,G,0.0906,-22.144,Minor,0.0608,104.014,4-Apr,0.351
+Opera,Roberto Alagna,Core ‘ngrato,1o4yznvYx55SxLkGjE2Vy6,21,0.957,0.158,333720,0.281,0.0062,D#,0.104,-8.069,Major,0.0376,74.409,4-May,0.0485
+Opera,Giuseppe Verdi,Il Trovatore: Stride la vampa!,1pWjddZtnqaPZ7boWpnzXX,18,0.981,0.252,168282,0.207,7.35E-06,C,0.115,-16.709,Major,0.0528,61.797,4-Mar,0.193
+Opera,Richard Wagner,"Siegfried, WWV 86C, Act I (Highlights): Den der Bruder schuf",1zV1KkX6QttqTJnaA2KbiU,19,0.863,0.308,173453,0.329,2.21E-05,D,0.119,-17.343,Minor,0.0455,74.743,4-Apr,0.459
+Opera,Jules Massenet,Werther: Pourquoi me réveiller (Arr. for Violin and Orchestra),2nBZot2uy4LLSOuhpWejAX,8,0.973,0.188,153600,0.173,0.869,G,0.12,-16.091,Minor,0.0442,104.535,4-Mar,0.0399
+Opera,Giuseppe Verdi,I vespri siciliani: Overture (Live),3hQ7VH3TL7M9Ca4dSMzpZa,13,0.81,0.208,556520,0.137,0.867,E,0.253,-22.795,Major,0.0606,168.072,4-Apr,0.0625
+Opera,Giuseppe Verdi,"Rigoletto, Act IV: Della vendetta alfin giunge l'istante!",4Txj9CgsGO0sZ7LbJkPdBa,16,0.969,0.353,295227,0.0337,0,G,0.377,-26.715,Major,0.0538,84.81,4-Apr,0.0411
+Opera,Giuseppe Verdi,"Otello / Act 1: ""Una vela! Una vela!""",4aWlBhRWRbwNBh94KHUnqN,18,0.769,0.331,258827,0.343,0.0235,G#,0.843,-16.16,Major,0.0749,71.8,4-Mar,0.074
+Opera,Giuseppe Verdi,"""La fatal pietra sovra me si chiuse""",4oJ2fOv7NygcYAcniuSzCK,15,0.96,0.216,147397,0.0518,1.52E-06,C,0.464,-21.945,Major,0.0445,85.615,4-Mar,0.0428
+Opera,Richard Wagner,Isolde's Liebestod,5E8Jb4TAPuNeNinma3Ntk8,13,0.941,0.168,442000,0.248,0.914,B,0.293,-13.993,Major,0.0374,93.981,4-Apr,0.0327
+Opera,Giacomo Puccini,Astro del cielo,6C2LJhlhCsO4p90eEYLmCD,13,0.989,0.149,195493,0.279,0.552,G#,0.0516,-12.521,Major,0.0352,85.372,4-Mar,0.0574
+Opera,Giacomo Puccini,"Vecchia zimarra, senti (Colline/Schaunard) - 1997 Remastered Version",6HBB5O7TYI2KDxrvZgMQ5R,17,0.985,0.285,96840,0.0939,0.39,C#,0.106,-24.109,Minor,0.0471,85.121,4-Apr,0.186
+Opera,Giacomo Puccini,"La Bohème / Act 1: ""Che gelida manina"" - Remastered",6Svm5KYOp7a4YTsruhuOgQ,13,0.946,0.235,260507,0.21,3.10E-05,G#,0.0982,-14.724,Major,0.0413,97.418,4-May,0.11
+Opera,Giacomo Puccini,"Madama Butterfly / Act 1: Vieni, amor mio!",6yBJ6zx5elF2QlNMvctVhq,16,0.943,0.328,170620,0.0385,0.000266,E,0.611,-23.918,Minor,0.0421,75.811,4-Apr,0.0691
+Opera,Giacomo Puccini,Gianni Schicchi: Firenze è come un albero fiorito,78ksV1AfOBtIOnFuO8qddH,13,0.974,0.326,146657,0.15,0.142,A#,0.158,-17.892,Major,0.0433,86.243,4-Mar,0.239
+Opera,Giacomo Puccini,Vissi d'arte,7MR62Up3fN8z5BIfRIj36y,23,0.989,0.178,196893,0.238,0.000218,D#,0.113,-12.127,Major,0.0401,78.764,4-Mar,0.0746
+Opera,Giacomo Puccini,"Turandot (1987 Digital Remaster): Signore, ascolta!",7fzsQqGduZxXQytlaurCYv,17,0.991,0.212,151133,0.108,0.00478,F#,0.0889,-14.706,Major,0.0422,88.948,4-Apr,0.0655
+Opera,Alban Berg,Lulu Suite: V. Adagio,5aswl50libdWwEMXfukIcq,17,0.955,0.0919,625600,0.0997,0.888,C#,0.131,-21.778,Major,0.0371,78.271,4-Apr,0.0333
+Opera,Christophe Rousset,Quatuor No. 3 in G Major: I. Prélude; Un peu vivement,5z0MXGsKLJ8NRX1JZaFD6U,18,0.93,0.398,121267,0.0814,0.00343,F#,0.21,-25.109,Major,0.0432,121.873,4-Mar,0.488
+Opera,Andreas Scholl,With Wand'ring Steps [The Merchant of Venice],0XazoxIR6D0kVjuOXppJZS,21,0.972,0.303,129400,0.129,0.374,C,0.152,-16.464,Minor,0.0387,93.719,4-Mar,0.123
+Opera,Florilegium,Trio Sonata in G Major BWV 1039: Presto,3VlzfaFFQhxTlRkmxHGD0Q,18,0.991,0.458,162133,0.193,0.904,F#,0.119,-21.113,Major,0.0364,114.413,4-Apr,0.783
+Opera,Christophe Rousset,Quatuor No. 4 in B Minor: VI. Menuet; Modéré,6qLumY4GM2zava3RFitKt3,18,0.803,0.37,275133,0.0546,0,C#,0.112,-22.604,Major,0.0399,122.138,4-Mar,0.33
+Opera,Fabio Biondi,Sinfonia (Improvvisata) in C major: I Allegro,5sZOHvrSd4qVz9HO4qrpXQ,19,0.912,0.438,161067,0.304,0.703,C,0.24,-16.65,Major,0.0442,134.162,4-Apr,0.0995
+Opera,Richard Wagner,"Götterdämmerung, WWV 86D, Prologue (Highlights): Vorspiel",0AlvfRoccNw3O2RJMzKjQO,18,0.902,0.201,141707,0.0202,0.96,B,0.291,-25.02,Major,0.0342,82.169,4-Apr,0.0298
+Opera,Giacomo Puccini,Madama Butterfly - Act I: Quanto cielo!... Ancora un passo or via,0MvUqxoQVAIb89417zbacC,14,0.846,0.203,212120,0.223,0.000342,F#,0.103,-17.241,Major,0.0393,72.326,4-Mar,0.043
+Opera,Georges Bizet,"L’arlésienne Suite No. 1, Op. 23bis, WD 40: I. Prélude",0QDc8qc4ZVCa8JZmqkCyiH,16,0.972,0.16,390867,0.0273,0.713,C,0.0878,-23.975,Minor,0.039,87.491,4-Apr,0.0543
+Opera,Giuseppe Verdi,Luisa Miller: Quando le sere al placido chiaror d'un ciel stellato,0U0Oo2Uv9UMn3pFytITSYE,19,0.953,0.199,226280,0.149,9.53E-05,G#,0.345,-18.329,Major,0.0464,83.49,4-Mar,0.0681
+Opera,Giuseppe Verdi,"Aida: Nume, custode e vindice",1QDxI7eTFnogwkmQash1XX,15,0.959,0.119,236160,0.185,0.221,D#,0.123,-19.096,Major,0.0466,74.283,4-Apr,0.119
+Opera,Franz Lehár,"Lehár: Die lustige Witwe, Act 2: Vilja-Lied (Hanna)",1h2KgBioRQoF45bCsdCThs,15,0.985,0.212,293920,0.104,0.00376,G,0.303,-19.668,Major,0.0517,175.93,4-Mar,0.0818
+Opera,Dietrich Fischer-Dieskau,"Tannhäuser · Romantische Oper in 3 Akten (Dresdner Fassung), Dritter Akt (Tal vor der Wartburg): Wie Todesahnung - Oh du mein holder Abendstern (Wolfram)",1sKKA640RvaPeOcnnwqQQA,14,0.892,0.144,256173,0.0134,0.000364,G,0.111,-34.494,Major,0.0405,87.946,4-Mar,0.0395
+Opera,Giacomo Puccini,Manon Lescaut: Donna non vidi mai,1ujlyJJkks43C9aXQqKjFe,18,0.953,0.269,121840,0.34,0.000797,A#,0.604,-13.615,Major,0.0432,77.567,4-May,0.386
+Opera,Giacomo Puccini,"Puccini: La rondine, Act 2: ""Bevo al tuo fresco sorriso"" (Ruggero, Magda, Lisette, Prunier, Chorus)",2D6DIEmGjHOIQbg9gl3mNs,11,0.972,0.141,183293,0.221,0.0204,D#,0.302,-16.591,Major,0.0458,168.428,4-May,0.3
+Opera,Giuseppe Verdi,"Rigoletto, Act I: Questa o quella",2STUdHUz5Mj1LfC35q6Hf9,18,0.945,0.44,101254,0.13,1.18E-06,G#,0.35,-19.056,Major,0.0513,79.604,4-Apr,0.713
+Opera,Georges Bizet,Bizet: Carmen: A deux cuartos! - - Act Four,2WPJC59DU0420drLn7alZQ,16,0.985,0.343,404867,0.457,0.828,B,0.46,-15.76,Minor,0.0576,117.66,4-Apr,0.491
+Opera,Georges Bizet,"Carmen, Act I, No.9 Chanson et Mèlodrame: Mon officier c'était une querelle Tra la, la, la, coupe-moi (Don José/Zuniga/Carmen/Cigarières)",34rewruIlLznqAQp2HJGup,16,0.97,0.42,159667,0.0755,0,C,0.1,-23.676,Major,0.119,82.663,4-Apr,0.134
+Opera,Richard Wagner,"Das Rheingold / Zweite Szene: ""Immer ist Undank Loges Lohn!""",385MxclC5FeWAdW6vHsN18,8,0.892,0.256,421293,0.109,0.00112,G,0.0871,-22.883,Major,0.0524,171.254,4-Mar,0.102
+Opera,Giuseppe Verdi,"La traviata / Act 2: ""Annina, donde vieni?"" - ""Oh mio rimorso!""",3QdMIPnzr7lQ9ULNSYt2jE,8,0.952,0.369,141427,0.254,2.47E-05,C,0.136,-17.365,Major,0.108,168.107,4-Apr,0.469
+Opera,Giuseppe Verdi,"Rigoletto, Act III: Schiudete!",3W0Jc7tC4IEbpxjStzeDuu,17,0.984,0.275,56640,0.158,0.022,G#,0.0944,-18.473,Major,0.0407,87.113,4-Apr,0.0398
+Opera,Giacomo Puccini,Turandot / Act 2: Popolo di Pekino,3hlrz2185g6YgQxeTmxCBT,10,0.956,0.234,100445,0.3,0.42,G,0.213,-10.02,Major,0.0353,78.392,4-Jan,0.0653
+Opera,Dietrich Fischer-Dieskau,From my Life: Contemporary Music and the Stage,4bgUJDA3yMTg0WF4mMHqZf,16,0.953,0.387,342693,0.143,0.00246,G,0.371,-15.406,Major,0.149,70.567,4-Mar,0.279
+Opera,Georges Bizet,"Carmen: Carmen, Act II: Toreado Song: Votre toast, je peux vous le rendre",4dBIlnl3Q1RA4mZ9ifdlR4,16,0.967,0.389,299573,0.404,0.00217,F,0.0877,-12.053,Major,0.0687,110.85,4-Apr,0.302
+Opera,Giuseppe Verdi,"La traviata / Act 1: ""Che è ciò?""",4nVuywVy97BRrEc3ZQ1kR0,9,0.924,0.43,130173,0.133,1.08E-06,D#,0.248,-21.914,Major,0.111,133.033,4-Mar,0.241
+Opera,Georges Bizet,"Carmen, WD 31, Act II: La fleur que tu m'avais jetée (Live)",5KrS9zpDm1jG1SigzXXdtg,17,0.944,0.0898,308720,0.0272,0.000822,C#,0.665,-30.75,Major,0.0503,83.544,4-Apr,0.0598
+Opera,Vincenzo Bellini,La Sonnambula : Ah! perchè non posso odiarti,5MMdkTbMGS3IZiVdG73zsw,11,0.963,0.321,227080,0.274,1.98E-05,A#,0.116,-16.03,Major,0.073,75.486,4-Apr,0.396
+Opera,Richard Wagner,"Das Rheingold, WWV 86A, Scene 1: ""Hehe! ihr Nicker, wie seid ihr niedlich, neidliches Volk!""",5P4fDlH968bEjp1M8BNP1z,15,0.922,0.402,94427,0.0608,0.000173,F,0.184,-26.529,Major,0.0424,133.327,4-Apr,0.165
+Opera,Giacomo Puccini,Turandot: Act III Scene 2: Diecimila anni al nostro Imperatore!,62gqvd4YQhssgenvo8eeIY,10,0.951,0.26,154800,0.2,0.418,D,0.205,-14.626,Major,0.0388,124.701,4-Mar,0.0788
+Opera,Georges Bizet,"Carmen, WD 31, Act I: La cloche a sonné (Live)",6fsffPwFRsxxBL09HrH2SC,18,0.956,0.182,228547,0.0663,0.0241,E,0.349,-31.075,Major,0.0505,83.318,4-Apr,0.0752
+Opera,Léo Delibes,Coppélia / Tableau 3: No. 20 Fête de la cloche: I. Valse des heures,6vSsOUVbAlZWziychEEqZ3,15,0.961,0.202,291867,0.0122,0.823,D#,0.221,-27.847,Major,0.0412,137.086,4-Mar,0.0785
+Opera,Giuseppe Verdi,"Messa da Requiem, Part II: II. Tuba mirum",7fgEMSaFtHadv83BIoKZTs,13,0.833,0.245,113933,0.427,0.353,C#,0.0496,-12.139,Minor,0.0433,114.257,4-Apr,0.0531
+Opera,Giuseppe Verdi,"""Ohimè!...morir mi sento! Oh! chi lo salva?""",7yDt5LS35DaRMgk6ZYQhO4,15,0.959,0.309,356670,0.114,1.35E-05,A,0.521,-19.097,Major,0.0476,135.186,4-Jan,0.0597
+Opera,Georges Bizet,"Carmen: Act I: Sur la place, Chacun passe..'",0EpbmAj5B1QaJncOqcoPL3,17,0.992,0.433,339427,0.176,0.0529,A#,0.132,-17.806,Major,0.0628,118.406,4-Apr,0.209
+Opera,Giacomo Puccini,"La bohème: Sì. Mi chiamano Mimì - from Act I of ""La Bohème""",0T5LSCIBPpNRdAlXRef4CD,14,0.935,0.104,294693,0.0953,0.701,D,0.0967,-20.027,Major,0.0432,164.393,4-Mar,0.0382
+Opera,Giuseppe Verdi,"La forza del destino (The Force of Destiny), Act 2: ""Il santo nome... Il santo speco"" - ""La vergine degli angeli"" (Hymn)",0ic7CQZbAIwVD1IIsaPXU7,16,0.912,0.123,656428,0.0971,0.13,B,0.317,-20.966,Major,0.0564,75.91,4-Mar,0.0387
+Opera,Giuseppe Verdi,"Macbeth, Act 4: ""O figli...Ah, la paterna mano""",1JbMfuWgYzNSF5sty9wuyx,11,0.981,0.265,199040,0.177,0.000161,G#,0.292,-20.015,Major,0.0424,98.526,4-Apr,0.149
+Opera,Giuseppe Verdi,"""Radamès! Radamès! Radamès!""",1Lvc5EnrXSRS8M2d42yy3Y,15,0.97,0.247,300605,0.376,0.000411,A,0.0735,-11.513,Minor,0.0894,171.857,4-Apr,0.0855
+Opera,Léo Delibes,"Delibes: Coppélia ou la fille aux yeux d'émail (Ballet), Act 3: No. 20, Fête de la cloche - Divertissement, (a) Valse des heures (Moderato - Tempo di Valse)",1jABP3ZTeuaMMDiCrw2AWB,11,0.891,0.207,262707,0.0861,0.635,D#,0.277,-17.985,Major,0.0352,92.303,4-Apr,0.102
+Opera,Georges Bizet,"Bizet: Carmen / Act 1 - ""Mais nous ne voyons pas la Carmencita"" - ""L'amour est un oiseau rebelle""",1okrrPT9e9lYXEXOKaA5HT,12,0.981,0.346,335239,0.155,0.000167,G,0.0997,-19.549,Major,0.062,125.851,4-Apr,0.116
+Opera,Antonio Caldara,Come raggio di sol,2u0zC6msaLCbXd9gV10X3a,13,0.986,0.156,162400,0.152,0.0287,C,0.167,-18.955,Minor,0.0433,84.842,4-Apr,0.0384
+Opera,Georges Bizet,Carmen Suite (excerpts from suites nos. 1 & 2): Intermezzo,316VgK7YYkHplWkGdIytNF,9,0.912,0.153,166627,0.028,0.971,D#,0.0946,-30.978,Major,0.0442,136.595,4-Apr,0.0754
+Opera,Giuseppe Verdi,"Falstaff, Act I Scene 1: ""6 polli: 6 scellini""",31KZaTCgqVdyQp0F9rfJul,11,0.957,0.29,341573,0.0866,0.000299,A,0.522,-24.085,Major,0.0613,79.508,4-Apr,0.231
+Opera,Giuseppe Verdi,Requiem: XIV. Agnus Dei,3BEG0acp5DRrK7YQLWlMnt,16,0.957,0.0896,267973,0.00597,0.000393,C,0.109,-38.577,Major,0.0493,172.829,4-Apr,0.0381
+Opera,Giuseppe Verdi,"Falstaff, Act I Scene 2: ""In due parole""",3NVA3fh78TwOHICi6Jz23g,11,0.93,0.468,84813,0.111,0,C#,0.649,-22.525,Major,0.146,150.255,4-Apr,0.55
+Opera,Giacomo Puccini,"Madama Butterfly, Act II: A voi però giurerei fede costante (Yamadori, Sharpless, Goro, Butterfly)",3WsX3honfOHuLTlYHLm4RW,17,0.933,0.362,228400,0.134,0.00173,G#,0.155,-20.24,Major,0.0455,90.021,4-Mar,0.11
+Opera,Giuseppe Verdi,"Aida: Chi mai, fra gl'inni e i plausi",4HYHjnDuVf39M9WOzT96pI,14,0.964,0.186,137627,0.0198,9.13E-05,G,0.43,-32.069,Minor,0.0465,93.698,4-Apr,0.0893
+Opera,Giuseppe Verdi,Macbeth (1999 - Remaster): Patria oppressa! (Coro),4uVUpABNQnYUPfQFMwgWXM,17,0.97,0.149,387960,0.0371,0.476,A,0.122,-22.572,Minor,0.0389,140.486,4-Apr,0.0383
+Opera,Giuseppe Verdi,"Rigoletto / Act 1: ""Questa o quella"" - Remastered",4vv40Y2NRDnT6RBi1hONUP,13,0.949,0.469,107587,0.198,0,G#,0.507,-18.89,Major,0.114,79.881,4-Mar,0.556
+Opera,Giuseppe Verdi,"""Fuggiam gli ardori inospiti""",56O40T6zEfw6jjTqquHMB0,15,0.961,0.328,414285,0.154,0.00146,A#,0.229,-14.676,Major,0.0522,97.988,4-Mar,0.0685
+Opera,Giacomo Puccini,Turandot / Act 3: Introduzione - Così comanda Turandot,59wtYFJYY9S5d8gmEEaRRb,10,0.901,0.154,219588,0.284,0.591,A,0.319,-16.748,Minor,0.0384,90.169,4-Apr,0.0383
+Opera,Léo Delibes,Coppélia / Tableau 1: No. 2 Scène,5DtzXJIxvTQAiegg1a6s5v,16,0.983,0.348,207347,0.0272,0.908,F,0.134,-27.262,Major,0.0463,129.715,4-Apr,0.158
+Opera,Enrico Caruso,"Pagliacci: Recitar ""Vesti la Giubba""",5Jtqn2UfllfzuYSexG94Ra,16,0.992,0.351,199667,0.29,0.00039,E,0.693,-11.91,Major,0.0561,104.616,4-May,0.0672
+Opera,Giacomo Puccini,Madama Butterfly: Act II: Un bel dì,5e3mb3Jk7eL5Qrh83osB5C,12,0.987,0.242,262387,0.155,0.000152,A#,0.121,-16.888,Minor,0.0438,93.305,4-Apr,0.0553
+Opera,Georges Bizet,"Carmen, WD 31, Act I: Parle-moi de ma mère! (Live)",5je2MAbGT7nZ6ucK487jIi,17,0.967,0.178,586240,0.0742,2.73E-05,G,0.851,-27.863,Minor,0.0562,78.998,4-Mar,0.0796
+Opera,Giuseppe Verdi,Messa da Requiem: I. Requiem - Kyrie (Live),5rH1ZG1KOQuJqse9DyyEwh,19,0.96,0.0853,581806,0.17,0.234,A,0.21,-15.448,Major,0.0406,84.646,4-Apr,0.0453
+Opera,Giuseppe Verdi,"La traviata / Act 3: Parigi, o cara...Ah! Gran Dio!",6PnlBBeVP6hfaYtIw8Hb6z,9,0.973,0.284,598333,0.155,1.03E-05,G#,0.455,-18.123,Major,0.0581,83.644,4-Apr,0.0609
+Opera,Giacomo Puccini,"Tosca / Act 1: ""Mario! Mario! Mario!"" ""Son qui!"" - ""Mia gelosa!""",730V464pEDNDnDLAhNcyJe,8,0.971,0.333,798093,0.153,1.78E-05,G#,0.238,-16.788,Major,0.0482,129.612,4-Mar,0.0687
+Opera,Giuseppe Verdi,"Falstaff, Act I Scene 2: ""Pst, pst, Nannetta""",760dcsxezwfFF8Kmra5JGh,11,0.954,0.418,193187,0.0515,1.47E-05,G#,0.517,-25.556,Minor,0.0513,132.917,4-Apr,0.188
+Opera,Charles Gounod,Faust - Ballet Music: IV. Moderato maestoso - Animato sempre,7mys8Rqf4hiWDz96r9ooF6,12,0.737,0.356,108133,0.106,0.000161,A#,0.293,-18.285,Major,0.0341,63.516,4-Apr,0.4
+Opera,Jacques Offenbach,"Offenbach: Les Contes d'Hoffmann, Act 4: No. 13, Barcarolle, ""Belle nuit, ô nuit d'amour"" (Orchestral Version)",0GiDL6rOyifDtUIepitoYb,17,0.923,0.218,184293,0.141,0.81,D,0.299,-17.342,Major,0.0332,88.172,4-Mar,0.133
+Opera,Richard Wagner,"Götterdämmerung, WWV 86D, Act III (Highlights): Siegfrieds Trauermarsch",1JOWVe2VZUMdG2WNemjc0X,18,0.883,0.0605,412280,0.0467,0.815,F,0.0975,-20.424,Minor,0.0364,64.972,4-Mar,0.0398
+Opera,Vincenzo Bellini,"Adelson e Salvini / Act 1: ""Dopo l'oscuro nembo""",1nmfmhNUSDoad0GyJ41vhu,8,0.988,0.22,393880,0.036,0.123,F,0.085,-27.8,Minor,0.0515,130.266,4-Mar,0.0379
+Opera,Giuseppe Verdi,"La traviata / Act 1: ""Un dì felice, eterea...Si ridesta in ciel l'aurora""",1yssSDsFQmaFkkdZdpVzkY,9,0.959,0.331,370400,0.215,4.54E-05,A#,0.119,-18.29,Major,0.0637,101.699,4-Mar,0.119
+Opera,Giuseppe Verdi,Aida / Act 1: Alta cagion v'aduna,25XNr42a37oCAUNzQD5ULb,8,0.933,0.335,401427,0.295,0.00223,C,0.663,-14.447,Major,0.103,85.81,4-Apr,0.167
+Opera,Léo Delibes,"Lakmé / Act 1: ""Sous le dôme épais"" (Flower Duet)",2YWM7FYspCbkM6xfo1v6gO,12,0.974,0.199,300000,0.199,0.89,B,0.162,-16.888,Major,0.0389,131.787,4-May,0.0391
+Opera,Giuseppe Verdi,Requiem: XI. Domine Jesu Christe,2qA6TLMPXzkUNlWwgQ7dp7,16,0.964,0.207,257640,0.0431,0.00116,G#,0.199,-29.363,Major,0.0476,125.46,4-Mar,0.0575
+Opera,Georges Bizet,"Carmen, WD 31, Act I: Mais nous ne voyons pas la Carmencita! (Live)",2wZdirATsQbF2z27Ej0WZo,17,0.947,0.366,72987,0.0827,0.000155,F,0.474,-29.188,Minor,0.0652,87.725,4-Apr,0.274
+Opera,Bryn Terfel,Granada,3F3gvGl71oQLp37NUiRb8Z,18,0.949,0.244,212707,0.468,0.309,B,0.157,-11.832,Minor,0.0454,163.204,4-Mar,0.391
+Opera,Giuseppe Verdi,"Nabucco / Act 3: Va pensiero, sull'ali dorate",3LdrBbLqxasAdJQCvWkHU7,21,0.979,0.169,296413,0.0212,0.386,C#,0.115,-23.257,Major,0.039,139.387,4-Mar,0.124
+Opera,Charles Gounod,Repentir (O Divine Redeemer),3WOlK8f5bzMqMwxyFm44K2,9,0.967,0.161,394427,0.116,0.00166,C,0.117,-22.015,Major,0.0474,175.848,4-Mar,0.0333
+Opera,Richard Wagner,"Tristan und Isolde / Act 3, WWV 90: Liebestod, Mild und leise",3lf6npOF1YoqC7iIhlpA4e,18,0.954,0.135,380600,0.303,0.0755,E,0.107,-14.179,Major,0.0404,80.364,4-Apr,0.036
+Opera,Léo Delibes,Coppelia: Act I - Ballade,3tmIA6To4TOsK7KR3eHSzG,13,0.866,0.116,159960,0.00588,0.0881,E,0.104,-37.851,Major,0.0477,167.872,4-Apr,0.0541
+Opera,Georges Bizet,"Carmen, Act II: No.13 Choeur : Vivat! vivat le Torero! (Amis d'Escamillo/Zuniga/Carmen/Frasquita/Mercédès/Moralès)",4Nt8QeRj8qw2ULq6PILAQ5,16,0.977,0.513,66573,0.339,4.87E-05,C,0.583,-15.798,Major,0.0735,59.499,4-Apr,0.678
+Opera,Charles Gounod,Faust - Ballet Music: II. Adagio - Animato,4Nyx3CU5TW5WSH6vP8HCQb,11,0.913,0.19,228693,0.1,0.63,D#,0.182,-22.976,Major,0.0411,138.315,4-Apr,0.146
+Opera,Georges Bizet,L'Arlésienne Suite No.2: Intermezzo,4Riejsg5W4jnTlWBIepYpj,7,0.99,0.0859,234600,0.0221,0.768,D#,0.173,-21.754,Major,0.0449,72.281,4-Jan,0.112
+Opera,Jacques Offenbach,"Barcarolle (Night of stars, and night of love) from ""The Tales of Hoffmann""",4XG6P1pnjB8epm9O0MKaWG,12,0.992,0.205,157773,0.139,0.0327,F,0.0817,-16.035,Major,0.0421,86.434,4-Jan,0.122
+Opera,Giacomo Puccini,Oh Dio! Mimi! (Rodolfo/Schaunard/Mimì/Musetta/Marcello/Colline) - 1997 Remastered Version,525tshFF8OZh75lYNWUt48,18,0.972,0.211,313200,0.0273,0.00295,A,0.106,-22.039,Major,0.0456,80.129,4-Mar,0.0469
+Opera,Georges Bizet,Act I: Au fond du temple saint,54YVTXOyZqsLYtfRpHw9uA,10,0.971,0.2,274760,0.286,0.87,D#,0.111,-14.311,Major,0.0405,131.306,4-Apr,0.168
+Opera,Giacomo Puccini,"Schaunard, ognuno per diversa via (Colline/Schaunard) - 1997 Remastered Version",57M9HafGQW14w9UEuuyNjG,16,0.964,0.135,103427,0.0466,0.0715,G,0.123,-24.104,Major,0.0396,172.658,4-Jan,0.103
+Opera,Giacomo Puccini,Madama Butterfly / Act 2: Suzuki! Suzuki! Dove sei?,57lk3sPbVCggGfsyrN4fXS,12,0.947,0.281,115357,0.048,0.02,D,0.335,-28.095,Minor,0.0413,83.564,4-Apr,0.0344
+Opera,Giacomo Puccini,La bohème: O soave fanciulla,5REoZMGjldl943tkgVPLjP,13,0.841,0.0644,213840,0.121,0.789,G,0.239,-19.614,Major,0.0404,62.845,4-Mar,0.0385
+Opera,Jacques Offenbach,Galop infernal,5kWK7atS38wbMeNlytoqA4,12,0.983,0.483,159840,0.327,0.79,D,0.0876,-18.238,Major,0.0393,146.915,4-Apr,0.873
+Opera,Giacomo Puccini,"Manon Lescaut : ""Ah! Non v'avvicinate!...No! no! Pazzo son!""",5ln34nbMRVWoIZzqO75Ukg,12,0.954,0.294,206560,0.313,0.00179,E,0.146,-14.066,Minor,0.0406,90.478,4-Mar,0.304
+Opera,Giacomo Puccini,"Tosca / Act 1: ""Dammi i colori!"" - ""Recondita armonia"" (Aria)",61KZlnNStD1iV2HLXa8vxM,8,0.937,0.209,278667,0.158,0.00419,F,0.237,-17.309,Major,0.0416,91.217,4-Apr,0.0862
+Opera,Georges Bizet,Bizet: Carmen: Entr'acte - Act Four,68IQDbZhCzIh6LVpNJZtNn,15,0.841,0.304,134307,0.245,0.636,D,0.41,-19.913,Minor,0.0451,117.963,4-Apr,0.471
+Opera,Giuseppe Verdi,Aida: Vieni: sul crinti piovano,6AzhJquhCBuaxioHUqRkKq,13,0.974,0.213,52333,0.0439,0.00016,A,0.482,-29.218,Minor,0.0389,85.188,4-Apr,0.115
+Opera,Giuseppe Verdi,"La traviata, Act I: E strano! E strano!",6cjSe2m7ogKzNor92iCC1h,16,0.97,0.251,90533,0.0328,0.000803,C,0.0876,-24.618,Major,0.0686,66.807,4-Apr,0.0384
+Opera,Giacomo Puccini,"La Bohème / Act 3: ""Dunque è propio finita!"" - Live",00wfrBBd8dYL4AMFrctVMh,8,0.971,0.202,331587,0.181,0.00154,F#,0.0895,-17.838,Major,0.0486,73.442,4-Jan,0.0574
+Opera,Giuseppe Verdi,"Overture to ""Nabucco""",0jNWth357A8RU8foxIo9Bg,8,0.931,0.212,435733,0.12,0.819,F,0.0804,-19.647,Major,0.0506,87.246,4-Apr,0.234
+Opera,Richard Wagner,"Die Walküre, WWV 86B, Act III: Magic Fire Music - Wer meines Speeres Spitze fürchtet",0juDH6Y8eDRu06YYGVImEp,14,0.974,0.117,231160,0.113,0.873,B,0.117,-18.718,Major,0.0382,164.145,4-Mar,0.0354
+Opera,Giacomo Puccini,"Suor Angelica: Senza mamma, o bimbo, tu sei morto",0lYesJYUK6h6MlYUmuaJtS,14,0.971,0.286,283200,0.0804,0.000475,A,0.129,-21.336,Minor,0.0508,84.647,4-Apr,0.039
+Opera,Charles Gounod,Faust - Ballet Music: V. Moderato con moto -,0yKBhHwvo5PSAIvvwot1Yy,12,0.927,0.181,167507,0.105,0.855,A,0.281,-22.586,Major,0.0343,78.117,4-Apr,0.181
+Opera,Franz Lehár,"Die lustige Witwe (The Merry Widow), Act 2: Vilja Song",1Ay3ejDLlXxJlV8raI7C3y,18,0.976,0.177,303240,0.0927,5.63E-05,G,0.958,-26.444,Major,0.057,87.596,4-Apr,0.0936
+Opera,Giuseppe Verdi,Simon Boccanegra: Il lacerato spirito (Live),1W9OVtXACEO5WzIl26TwoS,0,0.992,0.214,270667,0.223,0.0546,F#,0.303,-21.455,Major,0.121,169.958,4-Apr,0.112
+Opera,Giuseppe Verdi,"Falstaff, Act I Scene 2: ""Del tuo barbaro diagnostico""",1XR6Zn5HDOQBvP5Rwv5NW3,11,0.952,0.301,155760,0.367,0.00111,B,0.795,-19.016,Major,0.423,81.833,4-Apr,0.114
+Opera,Richard Wagner,"Tristan und Isolde, WWV 90: So starben wir",1b8wGcdtgvp5yBB9scRuuA,17,0.951,0.19,487636,0.191,0.00202,B,0.649,-20.708,Major,0.0496,131.632,4-Mar,0.0393
+Opera,Richard Wagner,"Die Meistersinger von Nürnberg, WWV 96: Overture",22HWR3cRgGE2tTyDvxxVgf,12,0.978,0.175,597133,0.15,0.889,C,0.116,-19.185,Major,0.0342,96.475,4-Apr,0.103
+Opera,Luciano Pavarotti,La Mia Canzone Al Vento,2PBdzRGysgKSyN9W6lRKOU,19,0.957,0.372,182507,0.333,0.000111,F,0.492,-11.36,Major,0.0411,132.34,4-Apr,0.609
+Opera,Richard Wagner,"Die Walküre, WWV. 86B, Act III: The Ride of the Valkyries - concert version",2T1J507UK88LWRfskkpCUo,13,0.944,0.198,325867,0.316,0.93,G,0.0759,-14.16,Major,0.0339,89.141,4-Mar,0.0646
+Opera,Georges Bizet,"Carmen, Act II, No.17 Duo (continued...): La-la-la-la / Attends un peu, Carmen (Carmen/Don José)",2btbz8nKuheHXb9x0luUPT,15,0.907,0.527,118733,0.152,8.48E-06,F,0.354,-22.636,Major,0.0946,115.501,4-Apr,0.681
+Opera,Giacomo Puccini,Turandot / Act 3: Tu che di gel sei cinta,2cKe8P6alnIeiABYDrjUIf,10,0.969,0.314,175200,0.293,0.13,D#,0.324,-12.005,Minor,0.0412,86.642,4-Apr,0.0618
+Opera,Giacomo Puccini,Madama Butterfly - Act I: Viene la sera,3VsUrILWEJfpzsiLukw2Nz,13,0.94,0.133,478587,0.177,0,A,0.107,-17.807,Major,0.0419,79.76,4-Mar,0.0394
+Opera,Giuseppe Verdi,"La traviata / Act 2: ""Che fai?"" ""Nulla""",44eHMObQgtzvJ6poQ09XiW,7,0.946,0.313,148600,0.211,0.000468,F,0.434,-20.216,Major,0.0541,89.51,4-Apr,0.222
+Opera,Giuseppe Verdi,"""Tu...Amonasro!...tu!...il Re?""",4MgFguIojy1q6tq0HSUrqY,15,0.958,0.35,172835,0.418,0.00253,D,0.25,-9.15,Major,0.0562,84.774,4-Apr,0.275
+Opera,Georges Bizet,"Carmen / Act 1: ""Sur la place, chacun passe""",4atXLlcvzLvZTnVzCXyOvL,16,0.965,0.318,448227,0.176,0.0485,A#,0.231,-19.721,Major,0.0475,129.291,4-Mar,0.0866
+Opera,Giacomo Puccini,Turandot / Act 2: Introduzione (Scene 2),4dCVUQMZ6QAd4DGnIXrMyR,16,0.767,0.351,60600,0.196,0.638,F#,0.854,-16.421,Major,0.0313,142.966,4-Mar,0.668
+Opera,Giuseppe Verdi,"Rigoletto, Act 1: ""Questa o quella""",4h7YqxIrCLqP5sRc3V19kx,12,0.967,0.48,110000,0.29,0.00129,G#,0.0741,-18.304,Major,0.103,107.868,4-Mar,0.4
+Opera,Giuseppe Verdi,"""Già i Sacerdoti adunansi""",4uwMOlHVTSyNzYxWT3D2Ow,15,0.968,0.275,431337,0.219,9.84E-05,C#,0.0892,-14.731,Major,0.0484,166.903,4-Mar,0.142
+Opera,Bryn Terfel,Trees,54LnVej9MHE9xObmrPW3No,17,0.937,0.179,146253,0.131,0.0228,F,0.0898,-19.249,Major,0.0395,83.421,4-Apr,0.0488
+Opera,Jules Massenet,"Manon / Act 2: Adieu, notre petite table",5GDjeXlSFntemYzQeMlCJu,11,0.988,0.271,270453,0.0592,0.284,G,0.101,-25.213,Minor,0.0541,99.134,4-Mar,0.0357
+Opera,Giuseppe Verdi,"Rigoletto, Act IV: Chi è mai?",5xQV2C0oQD8cHjqrhFSeFm,15,0.971,0.287,107800,0.072,0.000167,A,0.542,-23.666,Minor,0.0692,168.865,4-Apr,0.0754
+Opera,Giacomo Puccini,"La Bohème / Act 3: ""Ohè, là, le guardie!"" - ""Aprite!"" - Live",731WLCC5Ym0jzthbO6Vhm7,8,0.953,0.3,213987,0.0124,0.000129,D,0.0774,-36.161,Major,0.0501,121.882,4-Apr,0.0952
+Opera,Giuseppe Verdi,"""Presago il core della tua condonna""",7iGw4bzJWYC0AKy2elXjs7,15,0.974,0.239,243758,0.104,0.000203,G#,0.234,-20.195,Major,0.0556,175.737,4-Mar,0.108
+Opera,Giacomo Puccini,"Madama Butterfly, Act II: Ora a noi (Sharpless, Butterfly)",7pCzWMLKmGeusaBs7avtuq,17,0.963,0.312,373600,0.0746,0.000523,A#,0.259,-20.051,Major,0.0445,137.028,4-Apr,0.0486
+Opera,Giacomo Puccini,"Puccini: Turandot (Introduction - Signore, ascolta - Non piangere, Liu - In questa reggia - Nessun dorma)",0uKHrEIZh4IdcwulhYWSDm,16,0.894,0.134,584840,0.0309,0.87,F#,0.081,-22.488,Major,0.038,83.12,4-Apr,0.0385
+Opera,Giuseppe Verdi,Confutatis,1gkq5aQiJRFGYrwnVTTs72,15,0.97,0.257,320120,0.149,0.211,B,0.148,-17.975,Major,0.0518,82.04,4-Apr,0.105
+Opera,Richard Wagner,"Lohengrin, WWV 75: Mein lieber Schwan!",2WSJaKbu2e3wfM4FuJh2fz,17,0.971,0.198,510845,0.151,0.018,D,0.0639,-18.128,Major,0.0441,78.777,4-Mar,0.0382
+Opera,Richard Wagner,"Tristan and Isolde, Act 3: ""Mild und leise wie er lächelt"" (Isoldes Liebestod)",2gorZAJlautxx8CZuKDtyd,17,0.941,0.0832,419467,0.145,0.0216,E,0.273,-20.218,Major,0.0388,81.588,4-Mar,0.0329
+Opera,Charles Gounod,"Roméo et Juliette / Act 1: ""Ah, je veux vivre dans ce reve""",2iMILHEkCjHaXCcB2WZyCk,8,0.973,0.334,225000,0.0869,0.0252,F,0.19,-23.512,Major,0.0694,101.993,4-Mar,0.115
+Opera,Giuseppe Verdi,"Canzone del salice (From ""Otello"")",2nCryIlrVuoY9MdBDPRmts,17,0.99,0.182,616920,0.0455,0.00283,F#,0.0888,-18.733,Minor,0.0498,76.913,4-Mar,0.0386
+Opera,Georges Bizet,"Bizet: Carmen: Je suis Escamillo, torero de Grenade - Act Three",2uO1v0uOgQUHJ6xVjPF54j,14,0.993,0.258,319080,0.307,0.0222,F,0.466,-17.29,Major,0.0677,72.558,4-Apr,0.334
+Opera,Jules Massenet,"Manon, Acte II: ""Enfin, Manon, nous voilà seuls ensemble!... En fermant les yeux, je vois là-bas""",2yBS0ODSSyxBkff7nxJOav,19,0.985,0.253,296373,0.0619,0.0726,D,0.191,-21.072,Major,0.0498,113.665,4-Apr,0.0557
+Opera,Amilcare Ponchielli,"La Gioconda, Atto II: Cielo e mar",3GxtjMdWixNpxOWVopqBq1,20,0.986,0.161,302293,0.147,0.0524,D#,0.674,-19.995,Major,0.0448,172.101,4-Apr,0.0773
+Opera,Richard Wagner,"Das Rheingold, WWV 86A, Scene 1: Garstig glatter glitschiger Glimmer!",3OdB2QpF4gROWPiMlYREmW,17,0.944,0.395,503747,0.059,3.45E-06,G#,0.0888,-28.461,Major,0.0679,87.286,4-Apr,0.181
+Opera,Giuseppe Verdi,La Traviata: Libiamo ne'lieti calici,3hXBu9ImYMBV0jixkcnXXK,21,0.954,0.329,182490,0.23,0.000105,A#,0.16,-16.865,Major,0.0791,82.548,4-Apr,0.365
+Opera,Luciano Pavarotti,Ave Maria,3qYTLkXpSvefNfb7msQS56,11,0.98,0.133,294427,0.196,0.593,C#,0.108,-17.836,Major,0.0394,85.173,4-Mar,0.061
+Opera,Richard Wagner,"Das Rheingold, WWV 86A, Scene 1: Haltet den Räuber!",3uqWy9F8MvIKLcff60aF4P,15,0.867,0.0626,201280,0.00563,0.0857,F,0.2,-29.214,Minor,0.0382,71.174,4-Mar,0.0922
+Opera,Georges Bizet,"Carmen, Act I: No.7 bis Récit : Reste-là maintenant (Don José/Micaëla)",4IoGPFhZkg1B1l3buTb2Ft,16,0.973,0.334,101533,0.0276,0.000518,E,0.665,-23.584,Major,0.0441,68.172,4-Apr,0.0818
+Opera,Richard Wagner,"Die Meistersinger von Nürnberg, WWV. 96: Overture",4a4FJqoEeBFoU2w043ZmgW,13,0.944,0.212,593027,0.283,0.938,C,0.142,-13.552,Major,0.0329,97.723,4-Apr,0.201
+Opera,Giuseppe Verdi,"""L'aborrita rivale a me sfuggia""",4kyf5mwrcgKs5KBhjcbY36,15,0.955,0.265,186515,0.0721,0.000241,G,0.106,-21.946,Minor,0.058,85.608,4-Jan,0.0539
+Opera,Giuseppe Verdi,"Rigoletto, Act I: Gualtier Maldè... Nome di lui sì amato",52mFgksjgtlgtLPmbJcDXU,14,0.956,0.3,493978,0.0326,3.69E-05,E,0.0912,-25.209,Major,0.0499,81.852,4-Mar,0.0392
+Opera,Giacomo Puccini,"Madama Butterfly, Act 3: ""Tu, tu piccolo Iddio"" (Death of Butterfly)",56ib56RqjvOzagQ6nyzuy0,16,0.965,0.297,132000,0.3,0.000797,B,0.108,-14.028,Minor,0.0656,81.776,4-Apr,0.103
+Opera,Giacomo Puccini,Madama Butterfly / Act 1: Dovunque al mondo,5KZFEwukN9BW1oB0wGkJX0,16,0.973,0.27,178747,0.191,0.0047,F#,0.417,-17.116,Major,0.0476,125.698,4-Mar,0.141
+Opera,Richard Wagner,"Lohengrin, WWV 75: In fernem Land, unnahbar euren Schritten",5LExMNNzPnDPVzPR8hsgLU,18,0.988,0.184,386190,0.146,0.044,A,0.0965,-18.793,Major,0.0424,71.923,4-Mar,0.0664
+Opera,Vincenzo Bellini,"Norma / Act 1: ""Casta Diva""",6KBe0BxWHZnvXgKFSN0ogI,16,0.981,0.184,391760,0.0581,0.0466,G,0.163,-23.73,Major,0.0473,171.338,4-Mar,0.0542
+Opera,Georges Bizet,"Carmen, WD 31 / Act 2: Entr'acte",6agGUvA25IuFUtwZ1Fh8cJ,11,0.938,0.175,179440,0.0316,0.97,D#,0.0934,-29.407,Major,0.0412,118.901,4-Apr,0.0805
+Opera,Georges Bizet,"Carmen, WD 31, Act I: Carmen, sur tes pas, nous nous pressons tous! (Live)",6fSr19shBZHkDVRrwWZkbh,18,0.955,0.215,121053,0.0639,0.463,A,0.148,-29.62,Minor,0.0386,73.94,4-Apr,0.15
+Opera,Giacomo Puccini,"La Bohème / Act 1: ""Legna!"" - Live",6q8bGK33tQHsP4TmbTIczE,8,0.961,0.483,209507,0.275,0.00561,A#,0.691,-18.292,Major,0.183,131.185,4-Apr,0.407
+Opera,Giuseppe Verdi,La forza del destino: La Vergine degli angeli,7keItyka26GrqrY9qZS20H,14,0.974,0.15,205933,0.0422,0.199,G,0.0981,-28.485,Major,0.0432,140.716,4-Apr,0.0471
+Opera,Giuseppe Verdi,"La traviata, Act I: Cabaletta: Sempre libera",7tL6gJXrIgiHVKYB78xSeA,17,0.953,0.284,209707,0.0939,0.00485,G#,0.188,-19.942,Major,0.0549,85.013,4-Apr,0.193
+Opera,Giacomo Puccini,"Puccini: La Bohème, Act 1: ""Che gelida manina"" (Rodolfo)",04IRw6lljxV4CSVBkrNzTb,16,0.982,0.162,302867,0.191,0.00281,G#,0.0865,-14.276,Major,0.0455,79.698,4-Jan,0.083
+Opera,Giacomo Puccini,"La Bohème / Act 1: ""Ehi! Rodolfo!"" - Live",0EqWxymjm1fDQCcDxqbhBp,8,0.972,0.51,43893,0.0786,0,D,0.173,-27.245,Major,0.278,105.161,4-Mar,0.545
+Opera,Richard Wagner,"Wagner: Das Rheingold, WWV 86A, Act 1 Scene 4: Einzug der Götter in Walhall (Sehr mässig - Mässig bewegt)",0FpRyg1fiL4J3UAe8q18bn,14,0.941,0.141,288000,0.0664,0.918,C#,0.162,-18.329,Major,0.0307,88.771,4-Apr,0.0398
+Opera,Giacomo Puccini,Che ora sia? (Rodolfo/Marcello/Schaunard/Colline) - 1997 Remastered Version,1z1MolZQnjF62ZVASclDvz,16,0.977,0.515,247067,0.214,0.0246,A,0.561,-16.149,Major,0.072,112.956,4-Apr,0.528
+Opera,Dietrich Fischer-Dieskau,"St. Matthew Passion, BWV 244: No. 45, Recitative, 'Petrus aber sass draussen im Palast' and Chorus, 'Wahrlich, du bist auch einer von denen'",22JjbDVKtmsOW0Oz3pxzY5,18,0.932,0.472,68560,0.0761,0,C,0.698,-26.908,Major,0.195,112.895,4-Mar,0.143
+Opera,Giacomo Puccini,La Bohème / Act 2: Chi guardi? - Live,306z6agEZWzjI9xUqH5UzK,8,0.958,0.385,181387,0.182,0.00131,D,0.768,-18.746,Major,0.0721,132.808,4-Apr,0.255
+Opera,Amilcare Ponchielli,"La Gioconda, Act IV: Suicido!",3SILo5n5SssNHVviz9hGb3,19,0.979,0.206,274827,0.142,0.000104,D,0.0913,-15.256,Major,0.0413,89.202,4-Apr,0.0555
+Opera,Giuseppe Verdi,"Otello: Act I, Scene IX, ""Gia nella notte densa"" (Otello, Desdemona)",3wBtu0bais34HcBLBM5ZLn,19,0.947,0.164,564173,0.0198,8.68E-05,C#,0.0805,-32.065,Major,0.0481,70.5,4-Mar,0.0374
+Opera,Richard Wagner,"Wagner: Lohengrin, WWV 75, Act 3: Prelude (Sehr lebhaft)",4DyBwhxxsyvLJyKlnwAqbq,19,0.942,0.304,173533,0.292,0.935,G,0.421,-14.04,Major,0.0338,84.815,4-Apr,0.236
+Opera,Franz Lehár,Die lustige Witwe / Act 2: Vilja-Lied,4IqVgVmaoMXV58DoHySBAL,13,0.985,0.247,357627,0.104,0.0133,G,0.242,-22.636,Major,0.0545,96.788,4-May,0.06
+Opera,Amilcare Ponchielli,"Ponchielli : La Gioconda : Act 2 ""Cielo e mar"" [Enzo]",4TWELqS6N3a8rXKUGih1yA,13,0.98,0.148,360973,0.159,0.016,D#,0.0847,-21.834,Major,0.0426,84.548,4-Mar,0.0546
+Opera,Georges Bizet,"Carmen, Act I: No.11 Finale : Voici l'order; partez (Zuniga/Carmen)",4mObLrNm9Fg0pnfs9TdCwR,16,0.959,0.403,126000,0.107,2.14E-05,C#,0.0667,-20.337,Major,0.0609,92.496,4-Apr,0.299
+Opera,Georges Bizet,"Carmen: ""La fleur que tu m'avais jetée"" (Flower Song)",5lIgfha3PBfbmzzClwcZv0,17,0.975,0.178,235440,0.259,0.166,C#,0.324,-16.104,Major,0.0497,81.728,4-Mar,0.0437
+Opera,Vincenzo Bellini,"Bellini: I puritani, Act 2: ""Vien, diletto"" (Elvira)",5ynpmK2IOfU14IO7eHVQkO,17,0.974,0.28,299627,0.137,0.178,G#,0.0957,-19.243,Major,0.0598,169.575,4-Mar,0.147
+Opera,Luciano Pavarotti,Rigoletto - Questa O Quella,60kIKSyHDwx67GtiOW5UfR,17,0.992,0.552,130533,0.16,0.0201,G#,0.126,-14.143,Major,0.0547,110.796,4-Apr,0.564
+Opera,Luciano Pavarotti,Panis Angelicus - Live,6KQouytZIBsTZ8yfUuXu4N,18,0.958,0.199,232427,0.174,0.000249,A,0.442,-18.91,Major,0.0415,57.79,4-Apr,0.166
+Opera,Richard Wagner,Wagner : Die Walküre : Act 3 The Ride of the Valkyries,6RJp6yYKoVPbYqtU6qDEEN,12,0.916,0.401,259000,0.475,0.936,G,0.379,-11.563,Major,0.041,116.636,4-Mar,0.155
+Opera,Giacomo Puccini,In un coupé?....Con pariglia e livree (Marcello/Rodolfo) - 1997 Remastered Version,7BOIyhAeRIukTUoJD0AhJD,17,0.979,0.576,76800,0.175,0.00157,G,0.345,-16.432,Minor,0.0775,108.781,4-Apr,0.652
+Opera,Richard Wagner,Siegfried: Waldweben,0FQBwa8N0YiXYmHWindv6I,16,0.947,0.0809,545440,0.0598,0.767,E,0.113,-21.238,Major,0.0451,65.037,4-Mar,0.0376
+Opera,Richard Wagner,"Siegfried, WWV 86C, Act II (Highlights): Siegfrieds Hornruf - Haha! Da hätte mein Lied",15jATeEJL6e9NUX3emxq4S,18,0.92,0.325,326613,0.202,0.00309,F,0.142,-20.303,Major,0.0519,112.148,4-Apr,0.073
+Opera,Richard Wagner,"Das Rheingold / Zweite Szene: ""Zu mir, Freia!""",1kSdiGzOXK9YrUXCyMzx4x,8,0.894,0.375,100400,0.251,0.00177,A,0.826,-17.209,Major,0.0575,103.067,4-Apr,0.293
+Opera,Jules Massenet,Thaïs: Meditation (Andante religioso),1qNEQeJ809bEYKfTN1PRc3,11,0.889,0.221,326680,0.255,0.906,D,0.0996,-13.82,Major,0.0383,98.738,4-Mar,0.039
+Opera,Jacques Offenbach,"Barcarolle (From ""Gaite Parisienne"")",28zM0Bny9gYBdGgKT1GwMM,8,0.892,0.135,205573,0.143,0.5,D,0.12,-23.368,Major,0.0363,145.229,4-Mar,0.0963
+Dance,Selena Gomez,Back To You,514rhnksEwHUh6LxXsQ4Y9,76,0.0984,0.6,210240,0.683,1.26E-06,F#,0.11,-6.271,Major,0.0493,102.036,4-Apr,0.494
+Dance,Soulja Boy,Crank That (Soulja Boy),66TRwr5uJwPt15mfFkzhbi,77,0.511,0.732,221933,0.724,0,C,0.0491,-2.104,Major,0.101,140.13,4-Apr,0.808
+Dance,Lady Gaga,Heal Me,5eRo6g2COIM4OE3UEHMA4g,73,0.0481,0.606,196800,0.544,0,A,0.0916,-8.36,Minor,0.0593,86.013,4-Apr,0.456
+Dance,Taylor Swift,Don’t Blame Me,1R0a2iXumgCiFb7HEZ7gUE,71,0.106,0.615,236413,0.534,1.76E-05,A,0.0607,-6.719,Minor,0.0386,135.917,4-Apr,0.193
+Dance,Chelsea Cutler,Your Shirt,5vtyFzfLkCSJvXEZFjQAa1,70,0.185,0.426,232759,0.476,0,D,0.327,-6.64,Major,0.0741,179.793,4-Apr,0.169
+Dance,Empire of the Sun,Walking On A Dream,5r5cp9IpziiIsR6b93vcnQ,70,0.257,0.871,198440,0.701,7.52E-06,F,0.0589,-5.594,Minor,0.0458,126.975,4-Apr,0.716
+Dance,Lana Del Rey,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix / Radio Edit,6PUIzlqotEmPuBfjbwYWOB,74,0.0153,0.564,214912,0.811,8.72E-06,C#,0.125,-5.734,Minor,0.0513,126.007,4-Apr,0.114
+Dance,Hailee Steinfeld,You're Such A,3QTDzwSkRW04FVPo6COm0H,70,0.00798,0.62,216333,0.696,1.00E-06,B,0.113,-6.323,Major,0.0997,176.033,4-Apr,0.705
+Dance,ZAYN,Entertainer,6kjKRa91zikS6ZOL2Rt1QF,76,0.475,0.696,202600,0.568,2.44E-05,F,0.0922,-8.017,Major,0.0369,153.93,4-Apr,0.504
+Dance,Akon,Right Now (Na Na Na),1ARJhjuI6TNYZCxYygFQ4F,67,0.283,0.816,240747,0.851,0,G#,0.543,-4.166,Minor,0.19,137.968,4-Apr,0.568
+Dance,Jason Derulo,Swalla (feat. Nicki Minaj & Ty Dolla $ign),6kex4EBAj0WHXDKZMEJaaF,80,0.075,0.696,216409,0.817,0,C#,0.187,-3.862,Major,0.109,98.064,4-Apr,0.782
+Dance,Beyoncé,Irreplaceable,6RX5iL93VZ5fKmyvNXvF1r,75,0.0293,0.447,227853,0.694,5.46E-06,G,0.167,-4.637,Minor,0.382,175.868,4-Apr,0.509
+Dance,Mariah Carey,Always Be My Baby,2aBxt229cbLDOvtL7Xbb9x,71,0.457,0.649,258133,0.531,0,E,0.249,-8.335,Major,0.0363,78.946,4-Apr,0.488
+Dance,Justin Bieber,What Do You Mean?,4B0JvthVoAAuygILe3n4Bs,78,0.61,0.837,205680,0.571,0.000898,F,0.0849,-8.273,Minor,0.0922,125.034,4-Apr,0.801
+Dance,Selena Gomez,Fetish (feat. Gucci Mane),4lnAN2S1fcI0SjxEbksZVr,74,0.0198,0.707,186113,0.611,3.59E-06,D,0.0651,-4.474,Major,0.0639,123.006,4-Apr,0.285
+Dance,Pitbull,Timber,3cHyrEgdyYRjgJKSOiOtcS,75,0.0295,0.581,204160,0.963,0,B,0.139,-4.087,Major,0.0981,129.992,4-Apr,0.788
+Dance,Ariana Grande,Best Mistake,70yhaHLp9STtzI2Kzba6Tr,72,0.546,0.654,233733,0.578,0,F#,0.112,-6.897,Major,0.449,143.867,4-Apr,0.233
+Dance,Wisin,Escápate Conmigo (feat. Ozuna),1KSqYYJFyfTecXFk9M0prc,79,0.0256,0.744,232787,0.859,6.27E-05,B,0.0881,-3.166,Major,0.0795,91.977,4-Apr,0.787
+Dance,James TW,You & Me,5g45gvxgaYVuhkDACPnvfh,79,0.196,0.714,231653,0.683,7.73E-06,B,0.102,-6.333,Major,0.0443,127.021,4-Apr,0.824
+Dance,DJ Khaled,Wild Thoughts (feat. Rihanna & Bryson Tiller),45XhKYRRkyeqoW3teSOkCM,70,0.0287,0.613,204664,0.681,0,G#,0.126,-3.089,Major,0.0778,97.621,4-Apr,0.619
+Dance,Leona Lewis,Bleeding Love,7wZUrN8oemZfsEd1CGkbXE,80,0.188,0.638,262467,0.656,0,F,0.146,-5.886,Major,0.0357,104.036,4-Apr,0.225
+Dance,Gryffin,Feel Good (feat. Daya),0Ev562zA4pmUsBqjxsxxdx,71,0.22,0.625,248156,0.707,0,D,0.213,-4.761,Major,0.0337,138.064,4-Apr,0.479
+Dance,Trey Songz,Chi Chi (feat. Chris Brown),0UvBmQOhu4DVXJtdzGc5eV,76,0.548,0.744,139567,0.549,0,A,0.137,-6.041,Minor,0.0387,110.004,4-Apr,0.277
+Dance,Bruno Mars,It Will Rain,4rMNgxEwGWoPHIUcvB5BrB,69,0.359,0.574,257848,0.824,0,D,0.0816,-6.885,Major,0.0463,149.981,4-Apr,0.434
+Dance,Avicii,Hey Brother,4RXpgGM7A4Hg7cFBoH5KyF,78,0.0279,0.537,255093,0.777,6.12E-05,G,0.0838,-4.829,Minor,0.0473,124.943,4-Apr,0.427
+Dance,Lady Gaga,Born This Way,6r2BECwMgEoRb5yLfp0Hca,66,0.00327,0.587,260253,0.828,0,B,0.331,-5.108,Major,0.161,123.907,4-Apr,0.494
+Dance,Trey Songz,Slow Motion,4NYwy0R3NdvORX2B6OZXBT,73,0.679,0.733,197854,0.408,3.92E-05,G,0.11,-7.834,Minor,0.0388,94.947,4-Apr,0.291
+Dance,Bruno Mars,The Lazy Song,1ExfPZEiahqhLyajhybFeS,70,0.332,0.738,190213,0.804,0,B,0.279,-3.851,Major,0.0621,174.943,4-Apr,0.949
+Dance,Charli XCX,1999,05mAIVLkIWc2d1UBYZBCp8,83,0.0227,0.739,189000,0.742,1.39E-06,G,0.229,-4.586,Major,0.0329,124.016,4-Apr,0.659
+Dance,Troye Sivan,My My My!,4NiehSBQthimPzRsVeOgCT,75,0.00407,0.701,204727,0.458,0.000151,C#,0.045,-7.749,Major,0.0836,102.967,4-Apr,0.482
+Dance,T.I.,Whatever You Like,1IAzD1muglOxOcPbUHs70R,75,0.0161,0.68,249533,0.687,0,A,0.261,-6.162,Minor,0.0709,150.053,4-Apr,0.467
+Dance,Kacey Musgraves,Love Is A Wild Thing,5F5lmpwXkxAJtvZqEguTRo,68,0.266,0.623,256147,0.631,7.20E-06,A#,0.0931,-7.52,Major,0.0352,121.973,4-Apr,0.273
+Dance,Beyoncé,Drunk in Love,6jG2YzhxptolDzLHTGLt7S,74,0.00969,0.589,323480,0.621,0.00104,F,0.181,-6.902,Minor,0.0468,140.03,4-Apr,0.401
+Dance,Daya,Hide Away,0uyZ5ckiIUbFZd3P6RWmrj,66,0.225,0.885,192376,0.801,1.65E-06,B,0.0733,-4.716,Minor,0.0882,95.011,4-Apr,0.466
+Dance,Rick Springfield,Jessie's Girl,5RsUlxLto4NZbhJpqJbHfN,70,0.164,0.727,194120,0.832,0,D,0.105,-5.851,Major,0.05,131.703,4-Apr,0.822
+Dance,Daya,"Sit Still, Look Pretty",0EGuSSpuu9wmHCtvb4PdLO,70,0.141,0.657,202221,0.739,0,D,0.178,-4.081,Major,0.274,181.994,4-Apr,0.543
+Dance,Pharrell Williams,Happy,6NPVjNh8Jhru9xOmyQigds,75,0.286,0.652,233305,0.757,0,C#,0.0886,-6.819,Major,0.153,159.911,4-Apr,0.962
+Dance,Taylor Swift,Gorgeous,1ZY1PqizIl78geGM4xWlEA,72,0.0713,0.8,209680,0.535,9.48E-06,G,0.213,-6.684,Major,0.135,92.027,4-Apr,0.451
+Dance,Camila Cabello,All These Years,4XLu3tTSZiPFVC9mmuR6Zp,75,0.609,0.732,164373,0.436,0,C#,0.108,-7.409,Minor,0.117,94.852,4-Apr,0.475
+Dance,Kehlani,Morning Glory,0kas95RruYRVqrOb07rgkh,70,0.0132,0.557,179435,0.807,0,C,0.116,-5.624,Minor,0.14,171.931,4-Apr,0.675
+Dance,Niall Horan,Too Much To Ask,39jXnbACjiaiTwwhsr5sY5,78,0.381,0.509,223044,0.538,0,C,0.13,-6.456,Major,0.0397,153.711,4-Apr,0.178
+Dance,Cheat Codes,Feels Great (feat. Fetty Wap & CVBZ),5uu28fUesZMl89lf9CLrgN,70,0.0454,0.522,193569,0.833,0,C,0.127,-3.715,Major,0.0575,180.009,4-Apr,0.296
+Dance,One Direction,Night Changes,5O2P9iiztwhomNh8xkR9lJ,75,0.859,0.672,226600,0.52,0,G#,0.115,-7.747,Major,0.0353,120.001,4-Apr,0.37
+Dance,Franz Ferdinand,Take Me Out,6ooluO7DiEhI1zmK94nRCM,75,0.000423,0.278,237027,0.676,0.000899,A,0.136,-8.821,Major,0.0371,104.545,4-Apr,0.494
+Dance,Luis Fonsi,Échame La Culpa,2hl6q70unbviGo3g1R7uFx,78,0.0328,0.726,173720,0.889,0,C,0.0925,-3.655,Major,0.0429,96.024,4-Apr,0.649
+Dance,P!nk,So What,6qYGUxPjQt5PJtWdiNppZx,67,0.000304,0.535,215160,0.886,2.26E-06,B,0.257,-3.106,Major,0.045,126.012,4-Apr,0.445
+Dance,Britney Spears,Oops!...I Did It Again,6naxalmIoLFWR0siv8dnQQ,77,0.3,0.751,211160,0.834,1.77E-05,C#,0.355,-5.444,Minor,0.0437,95.053,4-Apr,0.894
+Dance,P!nk,A Million Dreams,0oagwWkGlBoACUuKvTmqZV,77,0.272,0.312,273640,0.499,0,G,0.0901,-6.282,Major,0.0397,148.173,4-Apr,0.191
+Dance,Avicii,The Nights,0ct6r3EGTcMLPtrXHDvVjc,79,0.0166,0.527,176658,0.835,0,F#,0.249,-5.298,Major,0.0433,125.983,4-Apr,0.654
+Dance,Wham!,Wake Me up Before You Go-Go,0ikz6tENMONtK6qGkOrU3c,79,0.272,0.62,231333,0.574,0,C,0.0607,-11.893,Major,0.0421,81.548,4-Apr,0.9
+Dance,5 Seconds of Summer,She Looks So Perfect,1gugDOSMREb34Xo0c1PlxM,68,0.000668,0.493,202496,0.956,0,C#,0.416,-4.221,Minor,0.138,160.006,4-Apr,0.47
+Dance,Nicki Minaj,Bed (feat. Ariana Grande),3L4GsGLgxpHieVQH86H8bv,77,0.0348,0.757,189533,0.73,6.17E-05,G,0.136,-6.304,Major,0.187,90.013,4-Apr,0.451
+Dance,Backstreet Boys,No Place,2rZfKyWzXoxQe2DBlvZ2sP,73,0.147,0.716,179747,0.533,0,D#,0.0913,-5.439,Major,0.0283,91.995,4-Apr,0.502
+Dance,Rihanna,Pon de Replay,4TsmezEQVSZNNPv5RJ65Ov,76,0.000155,0.779,246960,0.64,0.00077,G,0.101,-8.415,Major,0.159,99.019,4-Apr,0.498
+Dance,Charlotte Lawrence,Stole Your Car,1MTanOR2Kts7au3HtM0nez,75,0.0729,0.659,215786,0.712,3.04E-05,G,0.367,-5.61,Minor,0.0782,101.034,4-Apr,0.202
+Dance,David Guetta,Flames,33IOhptvC2Qoy2UhjiHXLV,83,0.0723,0.609,195000,0.726,8.45E-06,F,0.0895,-4.346,Minor,0.0414,93.958,4-Apr,0.362
+Dance,Lauv,Getting Over You,4G4gtvlaFaI6v6wWD8UvqL,73,0.273,0.604,255886,0.507,2.27E-06,C,0.0943,-7.928,Major,0.0382,91.984,4-Apr,0.114
+Dance,Why Don't We,Trust Fund Baby,54j7EaJPDmSZYcNYvLSJ78,73,0.0629,0.624,184460,0.785,0,G#,0.135,-3.337,Major,0.0498,163.929,4-Apr,0.593
+Dance,Avicii,Waiting For Love,2P4OICZRVAQcYAV2JReRfj,80,0.31,0.579,230613,0.736,0,F#,0.198,-3.863,Minor,0.0527,127.999,4-Apr,0.613
+Dance,Avril Lavigne,Head Above Water,7gY3cyGcB2wnk2xDXiA0pe,75,0.0112,0.578,220850,0.694,0,F,0.102,-5.351,Major,0.0706,129.921,4-Apr,0.268
+Dance,Dua Lipa,Want To,5fK0Q3j2iUcQtiRDXlPW0K,77,0.0788,0.572,211818,0.691,0.000132,G#,0.0619,-4.783,Minor,0.123,92.082,4-Apr,0.318
+Dance,Olivia O'Brien,RIP (feat. G-Eazy & Drew Love),3qjf2YP8G2RNFanYZDcZUk,72,0.422,0.728,200773,0.646,0,F,0.0899,-4.387,Minor,0.0463,103.983,4-Apr,0.46
+Dance,B.o.B,HeadBand (feat. 2 Chainz),2LvRR121MWFmmEGkuV2vQP,71,0.132,0.919,220240,0.506,0,C#,0.0771,-7.14,Major,0.304,97.465,4-Apr,0.273
+Dance,Calvin Harris,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",5bcTCxgc7xVfSaMV3RuVke,78,0.0642,0.893,223413,0.745,0,B,0.0943,-3.105,Minor,0.0571,101.018,4-Apr,0.872
+Dance,Beyoncé,11-Jul,02M6vucOvmRfMxTXDUwRXu,74,0.0128,0.747,213507,0.705,0,A,0.126,-5.137,Minor,0.126,136.024,4-Apr,0.56
+Dance,King Princess,Pussy Is God,6VCeywT4JeawuZOUkQ1okx,71,0.049,0.739,205533,0.621,0.00369,B,0.0718,-6.929,Minor,0.238,85.969,4-Apr,0.462
+Dance,David Guetta,Don't Leave Me Alone (feat. Anne-Marie),2lYTJK94hb0fd1LQtb6Dhk,79,0.118,0.659,183750,0.738,0,E,0.115,-5.072,Minor,0.0477,127.95,4-Apr,0.481
+Dance,Nicki Minaj,Only,4MRT0dDbhqFKl67WzhUbSw,70,0.405,0.573,312027,0.495,0,G#,0.0969,-7.245,Minor,0.592,179.196,4-Mar,0.255
+Dance,Natasha Bedingfield,Unwritten,1D1nixOVWOxvNfWi0UD7VX,77,0.00577,0.706,259333,0.801,0,F,0.0822,-6.333,Major,0.0399,100.013,4-Apr,0.63
+Dance,Rita Ora,Only Want You,2CTN6UuO2dNEVZXR0DJVk2,78,0.0599,0.654,180760,0.528,7.14E-05,F#,0.0975,-6.224,Minor,0.0412,82.014,4-Apr,0.376
+Dance,One Direction,They Don't Know About Us,72C7aUQECOhNtnD0AC36ua,75,0.135,0.512,201693,0.754,0,C,0.0881,-6.031,Major,0.055,147.89,4-Apr,0.336
+Dance,Kehlani,Love Language,4jM3c9KLTO9iZPm9A7neiL,70,0.124,0.582,213365,0.586,0,C#,0.0866,-4.369,Minor,0.0838,89.599,4-Apr,0.698
+Dance,Kacey Musgraves,Wonder Woman,38UCGIpo273uGgdBXbi992,67,0.11,0.669,240427,0.653,1.58E-05,B,0.0826,-5.675,Major,0.0269,104.995,4-Apr,0.528
+Dance,OMI,Cheerleader - Felix Jaehn Remix Radio Edit,023OVLNzXhX0j7CxswUt6D,64,0.141,0.78,180560,0.68,1.20E-05,E,0.138,-6.081,Major,0.0305,118.026,4-Apr,0.594
+Dance,Kehlani,The Way (feat. Chance the Rapper),6mzaCRuLTRiz1caGOum3zT,69,0.389,0.746,262521,0.538,0,A#,0.139,-6.479,Major,0.32,101.018,4-Apr,0.516
+Dance,Hailee Steinfeld,Rock Bottom,2qxaR31Te4xDR2yO6LqM8z,71,0.313,0.612,198240,0.706,0,G#,0.053,-5.036,Major,0.0602,157.964,4-Apr,0.724
+Dance,Selena Gomez,Hands To Myself,1LoriJC05IrHIDwj3q0KC1,68,0.0147,0.811,200680,0.499,2.44E-06,F,0.342,-7.161,Minor,0.118,111.016,4-Apr,0.466
+Dance,Colbie Caillat,Bubbly,0rFOs9paloAvEtzwDX1Kmc,70,0.594,0.664,196280,0.491,0,A,0.11,-6.544,Major,0.042,127.97,4-Apr,0.24
+Dance,Chris Brown,Loyal,7kqcudBGM74MXVoYMaoWkC,74,0.0228,0.845,264947,0.506,1.03E-06,C#,0.0879,-5.971,Major,0.0409,99.051,4-Apr,0.647
+Dance,PRETTYMUCH,Solita (feat. Rich The Kid),35kFg7GL288P9IK0r5oSh5,72,0.0721,0.699,186482,0.855,0,B,0.0671,-2.728,Major,0.0528,124.947,4-Apr,0.726
+Dance,Niall Horan,This Town,0qvzXomUDJVaUboy2wMfiS,75,0.72,0.678,232852,0.401,0,F#,0.118,-8.408,Minor,0.0312,111.855,4-Apr,0.194
+Dance,George Michael,Faith - Remastered,0HEmnAUT8PHznIAAmVXqFJ,75,0.0094,0.887,193200,0.48,3.58E-05,B,0.0662,-11.994,Major,0.117,95.846,4-Apr,0.607
+Dance,Akon,Don't Matter,7I6DceMT3utDOHjcYCbrr4,66,0.24,0.79,293053,0.457,0,D,0.222,-6.231,Major,0.0414,125.249,4-Apr,0.355
+Dance,Gryffin,Remember (with ZOHARA),2EdT0divbyKeaurz7KgPm1,75,0.0975,0.619,221693,0.901,0.0455,B,0.178,-4.173,Minor,0.0563,123.002,4-Apr,0.503
+Dance,Iggy Azalea,Kream (feat. Tyga),5mu1uv8RmzDkF8foePK5qa,74,0.0335,0.785,166627,0.425,4.36E-06,A#,0.108,-6.665,Major,0.137,174.028,4-Apr,0.192
+Dance,Usher,U Remind Me,2QsZVnbWVSjKMXK6K3uRBL,75,0.194,0.657,266893,0.629,0,F#,0.254,-4.938,Major,0.0782,93.985,4-Apr,0.726
+Dance,Shawn Mendes,Nervous,5wxurz8J6YlyQRNnGN8zXS,76,0.0404,0.841,164147,0.623,0,C,0.126,-6.76,Major,0.0776,121.983,4-Apr,0.744
+Dance,Lady Gaga,Why Did You Do That?,1sv0BhPPnrUgQ6dziZlmuM,72,0.0304,0.792,184960,0.548,9.94E-06,B,0.339,-5.484,Minor,0.0582,116.008,4-Apr,0.445
+Dance,Sia,Breathe Me,2Bo0hh0yoQReC4reJav5DT,63,0.0429,0.542,272067,0.625,0.775,C,0.112,-7.366,Major,0.0329,120.064,4-Apr,0.204
+Dance,The Black Eyed Peas,Pump It,6btyEL6NwUa97Nex9cZFvo,67,0.0109,0.646,213067,0.923,0,A,0.746,-3.108,Major,0.169,153.659,4-Apr,0.74
+Dance,Major Lazer,Cold Water,7zsXy7vlHdItvUSH8EwQss,71,0.055,0.602,185360,0.797,0,F#,0.187,-5.084,Minor,0.0534,92.928,4-Apr,0.492
+Dance,Katy Perry,Last Friday Night (T.G.I.F.),455AfCsOhhLPRc68sE01D8,75,0.00125,0.649,230747,0.815,4.31E-05,D#,0.671,-3.796,Minor,0.0415,126.03,4-Apr,0.765
+Dance,Lauv,Chasing Fire,1xy4apMFecGGkgBeaHFZ2M,74,0.0449,0.709,205267,0.562,0,F,0.217,-4.864,Major,0.0724,125.965,4-Apr,0.386
+Dance,XO Cupid,True Colors (feat. Maya Avedis),4AMY0oGSt7vZwgxDnHCJBr,79,0.0796,0.636,184020,0.63,0,C,0.13,-6.396,Major,0.0346,104.845,4-Apr,0.454
+Dance,5 Seconds of Summer,Amnesia,1JCCdiru7fhstOIF4N7WJC,68,0.0283,0.572,237248,0.499,0,D,0.213,-5.237,Major,0.0311,101.593,4-Apr,0.108
+Dance,Ava Max,Sweet but Psycho - Morgan Page Remix,6bgLX4IY2Jc7qT60gxKY0f,0,0.0334,0.645,226875,0.795,1.05E-05,C#,0.089,-5.439,Major,0.0343,127.959,4-Apr,0.424
+Dance,Galantis,Runaway (U & I),46lFttIf5hnUZMGvjK0Wxo,75,0.00711,0.506,227074,0.805,0.00193,C#,0.0856,-4.119,Major,0.0469,126.008,4-Apr,0.383
+Dance,Bebe Rexha,Bad Bitch (feat. Ty Dolla $ign),4ZJPwET9Jrgpkqi4Vo3Yg8,70,0.0283,0.656,197253,0.615,0,F,0.234,-6.252,Major,0.0539,139.91,4-Apr,0.366
+Dance,B.o.B,Airplanes (feat. Hayley Williams),6lV2MSQmRIkycDScNtrBXO,74,0.11,0.66,180480,0.867,0,F#,0.0368,-4.285,Minor,0.116,93.033,4-Apr,0.377
+Dance,Louis Tomlinson,Back to You (feat. Bebe Rexha & Digital Farm Animals),7F9vK8hNFMml4GtHsaXui6,76,0.207,0.683,190428,0.53,0,F,0.394,-4.918,Minor,0.142,75.016,4-Apr,0.645
+Dance,Hot Chelle Rae,Tonight Tonight,2i0AUcEnsDm3dsqLrFWUCq,74,0.0764,0.686,200467,0.783,0,E,0.163,-4.977,Major,0.119,99.978,4-Apr,0.814
+Dance,Noah Cyrus,Make Me (Cry),2BrzlUj1u1CtvaJDGIKpsP,71,0.592,0.588,242081,0.471,0.00146,C,0.0733,-7.287,Major,0.0577,152.881,4-Apr,0.209
+Dance,Rihanna,We Found Love,6qn9YLKt13AGvpq9jfO8py,74,0.025,0.734,215227,0.766,0.00138,C#,0.108,-4.485,Major,0.0383,127.986,4-Apr,0.6
+Dance,Willow,Wait a Minute!,0y60itmpH0aPKsFiGxmtnh,70,0.0294,0.757,196520,0.707,2.55E-05,D#,0.0969,-5.53,Minor,0.0279,100.982,4-Apr,0.638
+Dance,Shakira,Chantaje (feat. Maluma),6mICuAdrwEjh6Y6lroV2Kg,78,0.187,0.852,195840,0.773,3.05E-05,G#,0.159,-2.921,Minor,0.0776,102.034,4-Apr,0.907
+Dance,Niall Horan,Seeing Blind,65wnZsZLKJimfK1cTFOfa1,72,0.0466,0.709,185281,0.571,0,A,0.106,-7.617,Major,0.0405,93.957,4-Apr,0.51
+Dance,Alec Benjamin,Outrunning Karma,2W0AJEbIC2vdZTV2nVSAsg,71,0.655,0.416,188851,0.649,2.82E-06,B,0.12,-5.271,Minor,0.0385,112.482,4-Mar,0.474
+Dance,The Wanted,Glad You Came,3AGOgQzp0YcPH41u9p7dOp,68,0.0643,0.755,198187,0.838,1.59E-05,G,0.118,-4.5,Minor,0.0687,126.877,4-Apr,0.473
+Dance,Major Lazer,Lean On,5wldXGLEOoRXxMWJ8rIUWE,72,0.00346,0.723,176561,0.809,0.00123,G,0.565,-3.081,Minor,0.0625,98.007,4-Apr,0.274
+Dance,Rihanna,Don't Stop The Music,0ByMNEPAPpOR5H69DVrTNy,78,0.0336,0.835,267080,0.669,6.92E-05,F#,0.0535,-5.582,Minor,0.0643,122.668,4-Apr,0.542
+Dance,Avicii,Lonely Together (feat. Rita Ora),75NhhYjHO43mvZgYtnXgti,79,0.176,0.65,181812,0.683,2.82E-05,F,0.0832,-5.284,Major,0.0704,102.968,4-Apr,0.228
+Dance,DNCE,Truthfully,2lBqyCeue1bCd6HCZtKXHu,73,0.266,0.718,182653,0.654,0,G#,0.336,-6.871,Major,0.0356,102.003,4-Apr,0.578
+Dance,ZAYN,fOoL fOr YoU,6lvsJDZ7336YmpBzcNGhbe,72,0.281,0.52,202213,0.513,0,G,0.0976,-7.208,Major,0.0256,77.903,4-Apr,0.17
+Dance,Jhene Aiko,Never Call Me (feat. YG) - Remix,2ZbvTTHaZIYu9XhnRO44mr,73,0.694,0.595,232240,0.419,0,D,0.12,-8.122,Minor,0.276,120.14,4-Apr,0.33
+Dance,Shakira,Clandestino,7DrluKkTviBwCc8AV3VGmf,81,0.39,0.766,231921,0.822,3.37E-05,C#,0.349,-4.126,Minor,0.16,165.842,4-Apr,0.881
+Dance,Miley Cyrus,Wrecking Ball,2vwlzO0Qp8kfEtzTsCXfyE,75,0.407,0.53,221360,0.422,0,F,0.107,-6.262,Major,0.0342,119.964,4-Apr,0.349
+Dance,Ashanti,Foolish,6zMUIb4uce1CzpbjR3vMdN,73,0.358,0.477,227387,0.728,0,C,0.11,-5.71,Major,0.0831,89.209,4-Apr,0.69
+Dance,JoJo,"Too Little, Too Late - Radio Version",7oUMJhQp5Bqu6HqxSZs02v,73,0.0183,0.446,221573,0.77,1.07E-06,F#,0.122,-6.121,Minor,0.0549,82.765,4-Apr,0.717
+Dance,Avril Lavigne,Dumb Blonde (feat. Nicki Minaj),1Spmq0UazGU6ovMIlGldZX,75,0.166,0.727,214652,0.852,0,C#,0.122,-4.682,Major,0.0803,110.017,4-Apr,0.922
+Dance,Gryffin,Just For A Moment (feat. Iselin),66U2Ud0RBGfQ0ZQrI2m8FC,73,0.0139,0.53,254556,0.777,1.69E-05,C#,0.27,-6.343,Minor,0.0515,144.016,4-Apr,0.413
+Dance,Madison Beer,Teenager in Love,2IRH2r95UDqvlrrMOgOXjU,72,0.301,0.673,214908,0.579,5.82E-06,C,0.0705,-5.398,Major,0.0278,109.976,4-Mar,0.578
+Dance,Meghan Trainor,Me Too,3KwwE4sgCzMaKWq6QBebmX,72,0.0962,0.934,181240,0.694,1.20E-06,B,0.478,-5.849,Minor,0.101,123.829,4-Apr,0.835
+Dance,Capital Cities,Safe And Sound,6Z8R6UsFuGXGtiIxiD8ISb,76,0.000194,0.656,192790,0.821,0.00232,C,0.101,-4.838,Major,0.0325,117.948,4-May,0.791
+Dance,Jonas Brothers,Year 3000,7BbyWKteSctTKe696qf7fw,66,0.0163,0.622,201813,0.919,6.87E-06,B,0.523,-4.088,Major,0.0651,107.06,4-Apr,0.81
+Dance,Chris Brown,Ayo,0k6DnZMLoEUH8NGD5zh2SE,75,0.0399,0.823,225227,0.563,0,F#,0.0851,-5.095,Major,0.0443,98.031,4-Apr,0.682
+Dance,Olivia O'Brien,Tequilawine,7hCr1IIEbIZGG3fR7Gaptc,71,0.505,0.705,206120,0.595,0,F#,0.0813,-7.489,Minor,0.313,140.06,4-Apr,0.326
+Dance,Troye Sivan,YOUTH,1cOyWWUr3oXJIxY0AjJEx9,68,0.0625,0.628,185194,0.737,0,G,0.0777,-4.437,Major,0.041,91.507,4-Apr,0.592
+Dance,Demi Lovato,Heart Attack,1V6gIisPpYqgFeWbMLI0bA,74,0.0738,0.504,210840,0.785,0,G#,0.239,-4.802,Major,0.104,173.968,4-Apr,0.502
+Dance,Lady Gaga,Paparazzi,16Me2jlMlTX4xsps2j71mC,64,0.0947,0.755,208307,0.688,0,G#,0.0852,-3.97,Major,0.0535,114.928,4-Apr,0.429
+Dance,Halsey,Colors,1TnUURhehaoMWKAqQtirm6,72,0.0534,0.512,249500,0.812,0,C#,0.092,-4.809,Major,0.0617,100.02,4-Apr,0.521
+Dance,Bruno Mars,Chunky,0mBKv9DkYfQHjdMcw2jdyI,73,0.0208,0.571,186973,0.539,0,F,0.125,-4.446,Minor,0.116,202.103,4-Apr,0.727
+Dance,Chris Brown,Look At Me Now,7EKTo6rVJ3XSS7QTd6ep2j,70,0.0439,0.764,223933,0.694,3.67E-06,B,0.18,-5.745,Minor,0.189,146.075,4-Apr,0.581
+Dance,Harry Styles,Kiwi,33SNO8AaciGbNaQFkxvPrW,72,0.00064,0.375,176387,0.93,0,D,0.318,-2.631,Major,0.0561,147.124,4-Apr,0.491
+Dance,Calvin Harris,Summer,6YUTL4dYpB9xZO5qExPf05,78,0.0211,0.596,222533,0.856,0.0178,E,0.141,-3.556,Minor,0.0346,127.949,4-Apr,0.743
+Dance,Alec Benjamin,Death Of A Hero,3gYK7eEFbp6KzmqYRMyQRm,68,0.634,0.653,191560,0.62,5.46E-06,B,0.512,-5.797,Major,0.28,179.8,4-Mar,0.584
+Dance,Camila Cabello,Crying in the Club,1SJtlNRJDeYHioymcvsqev,76,0.334,0.334,216391,0.617,0,F#,0.163,-5.834,Minor,0.383,85.227,4-Apr,0.603
+Dance,Britney Spears,Toxic,6I9VzXrHxO9rA9A5euc8Ak,79,0.0249,0.774,198800,0.838,0.025,F,0.242,-3.914,Minor,0.114,143.04,4-Apr,0.924
+Dance,Ariana Grande,borderline (feat. Missy Elliott),4b7mLZQWsy0rLnrMtPA9fQ,70,0.058,0.761,177533,0.818,0,F#,0.11,-5.238,Minor,0.0978,110.99,4-Apr,0.348
+Dance,Backstreet Boys,Don't Go Breaking My Heart,79Mjfhh393dZdAsTvUFDR6,69,0.0218,0.541,215724,0.703,0,C,0.0964,-5.573,Major,0.102,94.858,4-Apr,0.238
+Dance,Clean Bandit,Rockabye (feat. Sean Paul & Anne-Marie),5knuzwU65gJK7IF5yJsuaW,81,0.406,0.72,251088,0.763,0,A,0.18,-4.068,Minor,0.0523,101.965,4-Apr,0.742
+Dance,Taylor Swift,Our Song,15DeqWWQB4dcEWzJg15VrN,65,0.114,0.543,201107,0.686,0,D,0.335,-4.751,Major,0.0357,177.874,4-Apr,0.555
+Dance,Nelly Furtado,Promiscuous,47aQT2aV12TyilaoYi1NiD,67,0.05,0.813,242200,0.977,2.75E-05,A#,0.147,-6.078,Minor,0.0476,114.316,4-Apr,0.842
+Dance,Taylor Swift,Wildest Dreams,59HjlYCeBsxdI0fcm3zglw,65,0.0709,0.553,220440,0.664,0.0056,G#,0.106,-7.417,Major,0.0741,140.06,4-Apr,0.467
+Dance,Anne-Marie,Perfect to Me - Back N Fourth Remix,2EJkm2x6om5M00CwMduA9G,0,0.0293,0.713,211093,0.794,0.000838,F,0.164,-6.126,Minor,0.0581,123.979,4-Apr,0.585
+Dance,Anne-Marie,Rewrite the Stars - Wideboys Hands In the Air Remix,7w0T1wN1VSVFiEczxy96ID,0,0.0111,0.597,216960,0.937,2.96E-06,A#,0.144,-3.36,Major,0.0406,124.995,4-Apr,0.709
+Dance,Anne-Marie,FRIENDS,19dWqM0A9oZs2YqJOZKYoM,0,0.205,0.626,202621,0.88,0,A,0.128,-2.384,Minor,0.0504,95.079,4-Apr,0.534
+Dance,Zendaya,Replay,7d1CFwrBmH34gmS0Hkbfbt,69,0.0416,0.688,209187,0.723,0.0002,F#,0.302,-6.682,Minor,0.121,140.023,4-Apr,0.618
+Dance,Beyoncé,If I Were a Boy,26NX1wPt1TRCH536yocd6i,70,0.107,0.632,249147,0.518,0,F#,0.354,-6.126,Major,0.0313,90.007,4-Apr,0.427
+Dance,Luis Fonsi,Despacito,5AgTL2WmiCvoObA8fpncKs,69,0.216,0.665,228200,0.779,0,D,0.107,-5.153,Major,0.113,88.863,4-Apr,0.839
+Dance,Selena Gomez,The Heart Wants What It Wants,2dRvMEW4EwySxRUtEamSfG,73,0.053,0.616,227360,0.789,0,G,0.142,-4.874,Minor,0.0377,83.066,4-Apr,0.621
+Dance,Justin Bieber,Baby,6epn3r7S14KUqlReYr77hA,73,0.0544,0.656,214240,0.841,0,F,0.122,-5.183,Minor,0.232,65.024,4-Apr,0.522
+Dance,Ariana Grande,Moonlight,4TZdeM7zelZGz6JPrXSEZ1,72,0.417,0.626,202360,0.412,3.55E-06,A,0.048,-7.339,Major,0.0292,102.169,4-Mar,0.209
+Dance,Nicki Minaj,Barbie Dreams,6Poyf51k7W3NKnsGwAI90B,73,0.313,0.855,279867,0.787,0,G#,0.194,-4.134,Minor,0.334,88.003,4-Apr,0.702
+Dance,Taylor Swift,Getaway Car,0VE4kBnHJUgtMf0dy6DRmW,71,0.00465,0.562,233627,0.689,2.23E-06,D,0.0888,-6.745,Major,0.127,172.054,4-Apr,0.351
+Dance,Kacey Musgraves,Follow Your Arrow,4CLPNURPcKztF9RRdcWLGP,66,0.442,0.632,199640,0.649,0,F,0.0988,-5.933,Major,0.0267,98.03,4-Apr,0.614
+Dance,Kelly Clarkson,Because of You,3f3omU8n47Mqyab5nCaGyT,74,0.254,0.583,219493,0.584,0,F,0.123,-5.362,Minor,0.0314,140.039,4-Apr,0.136
+Dance,MGMT,Kids,1jJci4qxiYcOHhQR247rEU,76,0.00076,0.451,302840,0.931,0.0049,A,0.361,-3.871,Major,0.0719,122.961,4-Apr,0.172
+Dance,Gryffin,Bye Bye (feat. Ivy Adara),3SEupjP7CBdIoNPrFrMozG,72,0.00271,0.618,210928,0.754,0,E,0.213,-3.739,Major,0.0882,148.013,4-Apr,0.485
+Dance,Jeremih,Planez,08zJpaUQVi9FrKv2e32Bah,72,0.674,0.65,240320,0.557,0,C#,0.11,-7.762,Major,0.312,129.285,4-Apr,0.4
+Dance,Why Don't We,Cold In LA,2soCr3tI1sJ6lFrxBPQVzQ,74,0.133,0.676,206708,0.624,3.35E-06,G#,0.104,-5.731,Major,0.065,109.986,4-Apr,0.726
+Dance,Sara Bareilles,Love Song,4E6cwWJWZw2zWf7VFbH7wf,76,0.0208,0.583,258827,0.786,0,D,0.188,-3.142,Minor,0.0301,123.052,4-Apr,0.573
+Dance,George Michael,Careless Whisper,4jDmJ51x1o9NZB5Nxxc7gY,75,0.128,0.574,300107,0.629,0,D,0.271,-8.815,Minor,0.0363,153.119,4-Apr,0.786
+Dance,Selena Gomez,Same Old Love,1BZG99C7Co1r6QUC3zaS59,67,0.0223,0.672,229080,0.593,0,B,0.214,-4.01,Minor,0.0304,98.02,4-Apr,0.438
+Dance,Soft Cell,Tainted Love,58E1XVmZTODC67YNjneuXM,68,0.558,0.542,153840,0.45,6.43E-06,G,0.579,-9.931,Minor,0.0361,144.437,4-Apr,0.626
+Dance,Chris Brown,Pills & Automobiles,4YkwUfWSIxdKNLDXw0caFO,70,0.119,0.82,292910,0.696,0,G,0.231,-4.918,Minor,0.182,144.981,4-Apr,0.617
+Dance,The Vamps,All Night,0dXNQ8dckG4eYfEtq9zcva,77,0.00403,0.54,197640,0.803,0,G#,0.33,-5.194,Major,0.0358,144.997,4-Apr,0.501
+Dance,Jason Derulo,Trumpets,5KONnBIQ9LqCxyeSPin26k,68,0.555,0.635,217419,0.691,0,C,0.097,-4.862,Major,0.258,82.142,4-Apr,0.638
+Dance,Sasha Sloan,Faking It,75iZaRMctH8FamTOhokRVJ,66,0.32,0.647,167353,0.371,0,C#,0.205,-8.645,Minor,0.0575,81.094,4-Apr,0.243
+Dance,Jonas Brothers,Play My Music,5MTQbjkMmE6WsDQ8JlyEVo,67,0.000856,0.466,197507,0.877,0,D,0.23,-3.54,Major,0.13,177.708,4-Apr,0.765
+Dance,Chelsea Cutler,The Reason,5L40lPxGOtkpCYfaakKJbq,70,0.0996,0.404,184693,0.598,3.29E-05,D,0.303,-8.513,Major,0.167,89.949,4-Apr,0.348
+Dance,Hailee Steinfeld,"Flashlight (Sweet Life Mix) - From ""Pitch Perfect 2"" Soundtrack",6W5RmgWh46p9RQ4LDezHKE,72,0.327,0.52,178320,0.623,0,D#,0.127,-6.35,Major,0.0711,148.228,4-Apr,0.278
+Dance,Far East Movement,Like A G6,4DvhkX2ic4zWkQeWMwQ2qf,67,0.00676,0.435,216893,0.837,0,D#,0.117,-8.126,Major,0.449,124.913,4-Apr,0.778
+Dance,Bebe Rexha,Knees,7IOxauZfx5l18mYfX0GZm6,72,0.0781,0.777,206581,0.577,1.02E-06,B,0.0869,-6.872,Minor,0.0357,109.019,4-Apr,0.381
+Dance,Alec Benjamin,If I Killed Someone For You,0WHi11uzahqpEtPGYCW6oQ,68,0.774,0.514,185123,0.605,2.91E-06,G,0.121,-5.363,Major,0.0337,120.894,4-Apr,0.409
+Dance,ZAYN,Common,39s9tdp3VpUpPtDxnda0d5,71,0.201,0.633,232520,0.476,0,D,0.0913,-5.856,Minor,0.05,134.974,4-Apr,0.218
+Dance,OneRepublic,Secrets,1NhPKVLsHhFUHIOZ32QnS2,75,0.098,0.515,224693,0.767,0,D,0.121,-6.199,Major,0.0352,148.024,4-Apr,0.38
+Dance,PLVTINUM,Champagne & Sunshine (Ellusive Remix),1H47LILEj9nGb74EPcZKWw,71,0.174,0.568,184000,0.79,0,G#,0.269,-4.411,Major,0.0791,109.747,4-Apr,0.566
+Dance,Kid Ink,YUSO (feat. Lil Wayne & Saweetie),38Vjqr7xTeIzDpclKOkzli,72,0.00378,0.9,173640,0.649,2.06E-06,D,0.0873,-6.365,Major,0.197,93.99,4-Apr,0.658
+Dance,Niykee Heaton,Bad Intentions,5W3UniuRMkHHIpaiQo1hAW,72,0.248,0.743,245723,0.72,0,B,0.096,-5.175,Minor,0.0865,123.994,4-Apr,0.431
+Dance,Lady Gaga,You And I,6rkAY9rk1NTFB94QxG3LJR,64,0.075,0.518,307347,0.709,0,D,0.0935,-5.234,Major,0.0476,127.083,4-Apr,0.514
+Dance,5 Seconds of Summer,Want You Back,2vHfabj6nFebekTYODqntl,73,0.00699,0.618,173082,0.867,1.03E-06,C,0.202,-4.915,Major,0.0439,98.03,4-Apr,0.579
+Dance,Conan Gray,Greek God,7KJXiuMXQu723ODChoxENp,67,0.157,0.572,236747,0.82,7.21E-06,F#,0.109,-6.4,Minor,0.0764,139.003,4-Apr,0.144
+Dance,Camila Cabello,OMG,4xBjsLUSjcx2h7PcRikpQp,72,0.0295,0.655,228893,0.576,0.115,F,0.132,-6.735,Minor,0.0536,139.953,4-Apr,0.167
+Dance,Flume,Say It (feat. Tove Lo),5aOpzm8W8zysk4asB9hxJw,66,0.0668,0.598,262521,0.532,3.22E-06,D#,0.0617,-6.833,Minor,0.0295,74.963,4-Apr,0.261
+Dance,One Direction,Drag Me Down,2K87XMYnUMqLcX3zvtAF4G,75,0.109,0.73,192120,0.703,0,C,0.0657,-5.672,Minor,0.0369,138.113,4-Apr,0.595
+Dance,5 Seconds of Summer,Valentine,19hh7DkfRBrpRGYfKlw7jb,74,0.0601,0.746,196628,0.767,1.07E-05,C#,0.0859,-2.907,Minor,0.0374,94.007,4-Apr,0.773
+Dance,Céline Dion,"Because You Loved Me (Theme from ""Up Close and Personal"")",1NOeZ7ZIVKMebuza26rofd,74,0.314,0.614,273667,0.466,0,C#,0.099,-9.881,Major,0.0327,119.916,4-Apr,0.178
+Dance,PRETTYMUCH,Would You Mind,4vlL7HTI5eVGBYOb1w7Goi,71,0.00613,0.645,179689,0.753,0,F,0.0685,-4.929,Minor,0.122,115.792,4-Apr,0.498
+Dance,Cassie,Me & U,7k6IzwMGpxnRghE7YosnXT,72,0.352,0.803,192213,0.454,0,G#,0.0655,-4.802,Minor,0.0294,99.99,4-Apr,0.739
+Dance,Ne-Yo,Because Of You,6CFPFnS9EcLs2I0nWqtWci,73,0.529,0.808,266840,0.545,0,C,0.0967,-5.728,Minor,0.0346,109.96,4-Apr,0.822
+Dance,Katy Perry,Firework,4lCv7b86sLynZbXhfScfm2,74,0.139,0.638,227880,0.826,0,G#,0.0803,-4.968,Major,0.0479,124.072,4-Apr,0.649
+Dance,Cher,Believe,2goLsvvODILDzeeiT4dAoR,76,0.0082,0.652,239027,0.917,0,F#,0.0509,-6.72,Major,0.0548,132.975,4-Apr,0.459
+Dance,Jhene Aiko,While We're Young,4mL59LVbKgOpEACxraGYdr,71,0.107,0.454,236160,0.791,2.10E-06,D,0.108,-6.013,Major,0.335,127.638,4-Apr,0.791
+Dance,Shawn Mendes,Like To Be You (feat. Julia Michaels),2IssBpPtHcViZL5vYQNHhA,74,0.812,0.737,159400,0.451,0,D,0.108,-9.405,Major,0.229,153.766,4-Apr,0.664
+Dance,Noah Cyrus,Live or Die,0OiXVxQHUFxvYxQew4xyhD,71,0.234,0.71,194253,0.365,0,G#,0.244,-9.958,Major,0.0749,74.952,4-Apr,0.396
+Dance,Ariana Grande,Greedy,2tpIAmAq9orm1Owh5pja1w,72,0.0323,0.62,214907,0.705,0,C#,0.092,-5.335,Major,0.0989,109.974,4-Apr,0.844
+Dance,Loote,Your Side Of The Bed,3PWKPX3YJAHBL8JozsWTMC,73,0.0649,0.781,197147,0.742,0,G#,0.293,-4.978,Major,0.0296,109.915,4-Apr,0.91
+Dance,Ariana Grande,blazed (feat. Pharrell Williams),4mLkiFppf8Xvem6BSY34qw,70,0.0793,0.795,196360,0.759,0,F#,0.0805,-6.348,Major,0.0528,110.021,4-Apr,0.855
+Dance,MKTO,How Can I Forget,0ibG3XCJ32Qq9maUY4AViR,75,0.69,0.796,177141,0.53,0,G#,0.0646,-5.967,Major,0.0558,105.031,4-Apr,0.754
+Dance,Macklemore & Ryan Lewis,"Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",5pfJsMwoRYKampPay8amX0,70,0.0916,0.828,292593,0.609,1.21E-06,C#,0.291,-4.402,Major,0.0694,109.725,4-Apr,0.707
+Dance,Troye Sivan,Lucky Strike,4RoArPM0AsuW3h8hW8xtnr,74,0.579,0.612,208967,0.694,0,D,0.0914,-7.363,Major,0.0514,103.031,4-Apr,0.564
+Dance,Camila Cabello,She Loves Control,5HwnezK198pJCEj1l2Adjy,74,0.166,0.65,177160,0.758,0,D,0.0889,-4.02,Major,0.116,94.9,4-Apr,0.663
+Dance,Gryffin,Winnebago (feat. Quinn XCII & Daniel Wilson),2FVm4ADgYRIQWlpYKDPdl9,68,0.106,0.654,179937,0.886,9.17E-06,E,0.161,-2.808,Major,0.0417,147.959,4-Apr,0.704
+Dance,Taylor Swift,Bad Blood,273dCMFseLcVsoSWx59IoE,65,0.0871,0.652,211933,0.802,6.45E-06,G,0.148,-6.114,Major,0.181,170.157,4-Apr,0.295
+Dance,Taylor Swift,Call It What You Want,1GwMQaZz6Au3QLDbjbMdme,69,0.186,0.598,203507,0.504,0.000221,A,0.34,-9.874,Major,0.0731,163.954,4-Apr,0.252
+Dance,Nico & Vinz,Am I Wrong,1fidCEsYlaVE3pHwKCvpFZ,72,0.162,0.725,247520,0.68,2.13E-06,G#,0.158,-5.465,Major,0.0306,119.939,4-Apr,0.76
+Dance,Cashmere Cat,Quit (feat. Ariana Grande),4rwqrKdwlFWJ6LvPYaOtgn,72,0.105,0.44,258188,0.413,3.40E-05,C,0.0997,-7.365,Minor,0.0407,86.911,4-Mar,0.141
+Dance,James TW,Say Love,6r3JPmyGO3Gbpyx1FD5txL,78,0.118,0.752,219440,0.449,1.29E-06,C#,0.354,-7.541,Major,0.0594,84.029,4-Apr,0.549
+Dance,Pitbull,Give Me Everything,4QNpBfC0zvjKqPJcyqBy9W,76,0.192,0.671,252307,0.939,0,G#,0.298,-3.206,Major,0.161,129.023,4-Apr,0.529
+Dance,Ciara,Level Up,5ubwXXOsH9bUhZsQ0Cybha,76,0.0142,0.746,204150,0.825,0.0107,C#,0.121,-4.666,Major,0.169,152.914,4-Apr,0.584
+Dance,Nick Jonas,Close,3lSDIJ2abCrOdDJ6pshUap,72,0.253,0.653,234213,0.623,0,F#,0.144,-5.273,Minor,0.082,123.999,4-Apr,0.401
+Dance,Phoebe Ryan,Middle Finger,3o8bovLXjsxsFBTXajm1VA,69,0.141,0.704,241893,0.664,0,A,0.107,-3.209,Minor,0.0468,99.963,4-Apr,0.533
+Dance,Kehlani,Gangsta,1W7zkKgRv9mrLbfdQ8XyH3,71,0.111,0.439,177029,0.447,0,A#,0.303,-8.318,Minor,0.0436,121.48,4-Apr,0.11
+Dance,Cheat Codes,No Promises (feat. Demi Lovato),5lNuqFVMca4vPupY10cH0J,68,0.0572,0.739,222787,0.619,0,A#,0.105,-6.669,Major,0.162,112.961,4-Apr,0.58
+Dance,Justin Bieber,Friends (with BloodPop®),7iNIg7XDEaYECfWD5dJ9Va,78,0.00402,0.743,189467,0.733,0,G#,0.304,-5.337,Major,0.0375,104.977,4-Apr,0.622
+Dance,One Direction,What Makes You Beautiful,3SPDQfj2UfWq6A2NllZnzn,70,0.00761,0.729,198053,0.771,0,E,0.087,-2.451,Major,0.0725,125.011,4-Apr,0.873
+Dance,DJ Snake,You Know You Like It,57kR5SniQIbsbVoIjjOUDa,73,0.0113,0.426,247267,0.722,1.27E-06,F,0.262,-5.369,Minor,0.196,196.133,4-Apr,0.25
+Dance,ZAYN,Fingers,00wyFkzeyMt0qsiQvs9aUE,73,0.346,0.522,171240,0.434,9.01E-06,G,0.107,-9.237,Minor,0.179,106.672,4-May,0.559
+Dance,Beyoncé,Best Thing I Never Had,3lBRNqXjPp2j3JMTCXDTNO,72,0.143,0.545,253747,0.649,1.57E-05,F#,0.0894,-4.062,Major,0.0324,99.099,4-Apr,0.297
+Dance,Cash Cash,Finest Hour (feat. Abir),0p0ljM6RxgpGt7wthGqBZa,73,0.0789,0.656,215781,0.729,0,F,0.133,-4.223,Minor,0.0765,95.974,4-Apr,0.438
+Dance,Beyoncé,Partition,5hgnY0mVcVetszbb85qeDg,71,0.0296,0.412,319467,0.441,0.0726,B,0.306,-11.523,Minor,0.291,185.571,4-Apr,0.174
+Dance,Luis Fonsi,Sola,0BOm90PDLRJpTSqqd6z52E,79,0.506,0.569,205467,0.526,0,F#,0.0708,-6.67,Minor,0.359,124.969,4-May,0.474
+Dance,Nightcall,Let You Go,6JflMse23AqmddXJnGiEVJ,76,0.163,0.755,181102,0.769,0.00402,A#,0.36,-5.569,Major,0.0399,114.011,4-Apr,0.416
+Dance,Olivia O'Brien,Complicated,0jllH0usRFD4LJkJnGK9Lf,74,0.694,0.657,189000,0.355,0.000427,G,0.123,-12.044,Major,0.0714,74.99,4-Apr,0.0808
+Dance,Calvin Harris,Giant (with Rag'n'Bone Man) - Audien Remix,4x87Zzj1huHM5dELutib5E,45,0.0296,0.698,213333,0.792,3.90E-05,C#,0.0925,-3.583,Minor,0.0418,125.976,4-Apr,0.333
+Dance,Nick Jonas,Right Now,43wzy7JxMEfvCh8ZFeZKYk,79,0.0104,0.597,201680,0.751,0,F#,0.0912,-4.982,Minor,0.193,103.956,4-Apr,0.568
+Dance,Anne-Marie,Perfect To Me,0DC7Zs2qvAbNK1owWQ4mlL,80,0.0889,0.604,197853,0.546,0,G#,0.0734,-5.691,Major,0.151,179.847,4-Apr,0.402
+Dance,Halsey,Alone (Feat. Big Sean & Stefflon Don),3tbNT2X5tfMIVeUflYbZUZ,69,0.0164,0.445,207458,0.662,0,D,0.219,-4.802,Minor,0.181,200.04,4-Apr,0.479
+Dance,Miguel,Adorn,25cUhiAod71TIQSNicOaW3,66,0.0543,0.625,193147,0.576,4.07E-05,B,0.187,-5.693,Minor,0.175,179.063,4-Apr,0.235
+Dance,Melanie Martinez,Dollhouse,6wNeKPXF0RDKyvfKfri5hf,69,0.22,0.725,231853,0.708,0,F,0.777,-5.331,Minor,0.0756,130.029,4-Apr,0.555
+Dance,Melanie Martinez,Mad Hatter,5gWtkdgdyt5bZt9i6n3Kqd,69,0.0161,0.568,201520,0.692,0,G#,0.148,-4.513,Major,0.0589,92.023,4-Apr,0.577
+Dance,Calvin Harris,Giant (with Rag'n'Bone Man) - Robin Schulz Remix,7kLWq3Z9XSs8cHTLB9nl0w,0,0.0634,0.544,193297,0.88,0.0159,C#,0.453,-4.917,Minor,0.245,126.06,4-Apr,0.491
+Dance,Miley Cyrus,When I Look At You,7ywzEdEuVG1lsjsRCGJfLy,64,0.135,0.465,248587,0.569,0,F#,0.109,-4.934,Major,0.0276,137.87,4-Mar,0.198
+Dance,Calvin Harris,Giant (with Rag'n'Bone Man) - Michael Calfan Remix,0zmxucBmo7zk1Xm8xcu6PE,0,0.0243,0.771,201889,0.909,0.0281,C#,0.318,-6.341,Minor,0.0485,121.989,4-Apr,0.678
+Dance,Calvin Harris,Giant (with Rag'n'Bone Man) - Purple Disco Machine Remix,5BXjoLBmRSivBNCK2jmx8r,0,0.0374,0.771,208525,0.776,0.0343,A,0.0972,-6.161,Major,0.0347,122.007,4-Apr,0.687
+Dance,Calvin Harris,How Deep Is Your Love,22mek4IiqubGD9ctzxc69s,78,0.0389,0.738,212640,0.868,0.00171,B,0.388,-4.373,Minor,0.0731,122.003,4-Apr,0.336
+Dance,Calvin Harris,Giant (with Rag'n'Bone Man) - Weiss Remix,1mqsbtFZllAobc2YXagPqv,0,0.0111,0.817,234192,0.743,0.0468,C#,0.0986,-5.97,Minor,0.0401,122.018,4-Apr,0.139
+Dance,Julia Michaels,Worst In Me,1FY8gDAydm8CfGYp7Lv9ce,66,0.105,0.648,202347,0.616,0,F#,0.161,-7.82,Major,0.0606,105.985,4-Apr,0.275
+Dance,Calvin Harris,Giant (with Rag'n'Bone Man) - Laidback Luke Remix,1U86MZz6uZTheeATC2kayc,0,0.000378,0.485,153750,0.954,0.000942,C#,0.095,-2.496,Minor,0.0686,128.084,4-Apr,0.24
+Dance,One Direction,Steal My Girl,2Bs4jQEGMycglOfWPBqrVG,73,0.00433,0.536,228133,0.768,0,A#,0.114,-5.948,Minor,0.0347,77.217,4-Apr,0.545
+Dance,DNCE,Toothbrush,7ciLq0Cip0yxiz6KANrOUq,72,0.133,0.558,231813,0.801,0,G,0.392,-5.795,Major,0.131,105.006,4-Apr,0.831
+Dance,Shaggy,Angel,7xHsIaGEmiZunovi6oFtQz,65,0.143,0.802,235133,0.77,0,F#,0.0424,-2.998,Major,0.0925,85.286,4-Apr,0.778
+Dance,Taylor Swift,King Of My Heart,7HuBDWi18s4aJM8UFnNheH,69,0.00882,0.675,214320,0.703,2.21E-06,C,0.0391,-7.902,Major,0.0382,110.01,4-Apr,0.314
+Dance,Fergie,Big Girls Don't Cry (Personal),3Q4WeJmzxuDpzMu9QjQqbM,74,0.239,0.712,268120,0.647,0,G,0.0955,-4.277,Major,0.0336,113.116,4-Apr,0.292
+Dance,Andy Grammer,"Honey, I'm Good.",4MflGTO2ZTcSQ12bWcyRgI,70,0.0324,0.752,199263,0.775,0,A,0.351,-7.289,Major,0.0546,122.014,4-Apr,0.595
+Dance,Pia Mia,Do It Again,72Bz4ciRZPBcVSw0nrZDHi,75,0.0299,0.714,207746,0.559,0,G#,0.088,-6.543,Major,0.0515,95.979,4-Apr,0.411
+Dance,5 Seconds of Summer,Killer Queen,0SA903LGHxe4ExdRY2SqVH,72,0.00422,0.262,199357,0.789,0,A#,0.325,-4.548,Major,0.123,171.009,4-Mar,0.487
+Dance,Hayley Kiyoko,What I Need (feat. Kehlani),5nFyaoBWwwMJ9fv33tZ2MB,71,0.0537,0.633,219520,0.793,0,A#,0.16,-4.126,Major,0.055,103.97,4-Apr,0.414
+Dance,Jack & Jack,Day Dreaming,2JRLoT6z48Pfihyj1s1u77,71,0.071,0.752,211227,0.59,9.76E-06,A#,0.095,-5.688,Major,0.0259,101.241,4-Mar,0.353
+Dance,Nelly,Country Grammar (Hot Shit),2Lg4kvhOrPhpGEZmSe7VAN,70,0.00802,0.872,287000,0.673,0,D,0.155,-6.879,Major,0.108,162.781,4-Apr,0.527
+Dance,T-Pain,Bartender,5kxddRG1RZaZROadk7iC4D,71,0.0611,0.675,238800,0.394,0,G#,0.214,-8.539,Major,0.133,104.987,4-Apr,0.405
+Dance,ZAYN,Let Me,0aVsVsOYDSEEigiwTrIab9,75,0.239,0.46,185373,0.566,5.93E-06,A,0.0967,-5.637,Major,0.0516,168.419,4-Apr,0.19
+Dance,Jay Sean,Down,7LP4Es66zdY7CyjepqmvAg,70,0.0149,0.663,212107,0.693,0,B,0.0778,-4.505,Minor,0.0311,66.002,4-Apr,0.71
+Dance,Halsey,Control,3SKzTIl9mW0DadTys9SFo3,70,0.399,0.549,214762,0.675,0,E,0.181,-5.637,Minor,0.0332,119.898,4-Apr,0.206
+Dance,Rihanna,Disturbia,2VOomzT6VavJOGBeySqaMc,72,0.0863,0.707,238627,0.813,0,B,0.168,-4.515,Minor,0.0571,124.921,4-Apr,0.722
+Dance,Lost Kings,Don't Kill My High,09yhMTRqQ1I1dniu3PoIQi,73,0.0363,0.674,180333,0.932,0,G#,0.0576,-4.876,Major,0.0718,144.039,4-Apr,0.826
+Dance,Backstreet Boys,Everybody (Backstreet's Back) - Radio Edit,4rTeOSYqwXNz5qPR2DUTFZ,62,0.025,0.735,224960,0.873,3.27E-06,A#,0.265,-3.493,Minor,0.0402,108.021,4-Apr,0.586
+Dance,ZAYN,Too Much (feat. Timbaland),0rNww8PLCIrZLPz001SPI1,72,0.00441,0.469,187160,0.645,0.000473,C,0.0855,-4.443,Major,0.0515,96.094,4-Jan,0.305
+Dance,T.I.,Live Your Life (feat. Rihanna),3jlbL2OTD5YmIunYzgQTAN,75,0.071,0.375,338853,0.862,0,B,0.211,-3.363,Minor,0.255,159.841,4-Apr,0.478
+Dance,Bazzi,Soarin,4pabDIdwjv80lbsx7XcNwZ,67,0.0635,0.45,177105,0.674,0,C,0.381,-5.268,Major,0.0332,76.882,4-Apr,0.211
+Dance,Justin Timberlake,Suit & Tie,6vt0I1cw1YmAIKDJvHVIM5,67,0.103,0.795,326280,0.596,0,B,0.164,-3.799,Minor,0.219,101.985,4-Apr,0.357
+Dance,Lana Del Rey,Lust For Life (with The Weeknd),0mt02gJ425Xjm7c3jYkOBn,71,0.604,0.504,264066,0.655,0.00193,C,0.364,-8.644,Minor,0.0542,99.982,4-Apr,0.262
+Dance,Charlie Puth,Patient,2ZrHbO88rM6Ijeg0aJmSzl,75,0.752,0.675,190533,0.604,0,C#,0.111,-6.266,Major,0.193,168.034,4-Apr,0.456
+Dance,benny blanco,Better To Lie (with Jesse & Swae Lee),61sqsOPon94ecMskeEXwev,71,0.0376,0.758,176056,0.602,4.77E-06,A#,0.111,-7.909,Minor,0.094,155.038,4-Apr,0.519
+Dance,PRETTYMUCH,Jello,2jaaONYdaOUk8hhhIRIp4A,70,0.0655,0.704,177520,0.636,0,B,0.579,-6.652,Minor,0.059,121.96,4-Apr,0.55
+Dance,Usher,DJ Got Us Fallin' In Love (feat. Pitbull),4356Typ82hUiFAynbLYbPn,76,0.0338,0.663,220800,0.861,0,G,0.082,-3.398,Minor,0.109,119.963,4-Apr,0.654
+Dance,Lorde,Green Light,6ie2Bw3xLj2JcGowOlcMhb,74,0.0209,0.594,234653,0.721,8.55E-06,D,0.0879,-7.812,Major,0.0957,128.942,4-Apr,0.253
+Dance,Shania Twain,Man! I Feel Like A Woman!,0IF0vGwaJQ8ZCh0QxhW6OV,75,0.637,0.678,233000,0.899,0,A#,0.347,-2.937,Major,0.048,124.944,4-Apr,0.757
+Dance,Noah Cyrus,Team,6C56edNssJGjkPi3BnrGwP,69,0.501,0.663,215467,0.38,0,A#,0.169,-7.462,Major,0.0473,80.077,4-Apr,0.476
+Dance,JP Cooper,September Song,0zbzrhfVS9S2TszW3wLQZ7,77,0.054,0.614,220291,0.615,0,C,0.0921,-6.7,Minor,0.0444,95.941,4-Apr,0.374
+Dance,Camila Cabello,Something's Gotta Give,7IL3UOlcJ6nmcCMwpnlfcA,73,0.367,0.545,236360,0.458,0,F,0.118,-4.6,Minor,0.0279,79.943,4-Apr,0.164
+Dance,Enrique Iglesias,Bailando - Spanish Version,32lm3769IRfcnrQV11LO4E,68,0.0426,0.723,243413,0.777,3.68E-06,G,0.0451,-3.503,Major,0.108,91.017,4-Apr,0.961
+Dance,Taylor Swift,I Knew You Were Trouble.,72jCZdH0Lhg93z6Z4hBjgj,64,0.00563,0.596,217973,0.473,1.29E-06,F#,0.043,-6.745,Major,0.039,154.228,4-Apr,0.648
+Dance,Backstreet Boys,Shape of My Heart,35o9a4iAfLl5jRmqMX9c1D,75,0.252,0.575,230093,0.786,0,A,0.159,-4.353,Major,0.0296,96.102,4-Apr,0.518
+Dance,Rihanna,Rude Boy,60jzFy6Nn4M0iD1d94oteF,73,0.113,0.563,222920,0.75,0,B,0.0788,-4.496,Major,0.127,173.906,4-Apr,0.812
+Dance,Florence + The Machine,Shake It Out,4lY95OMGb9WxP6IYut64ir,64,0.0126,0.519,277720,0.808,0,A#,0.105,-4.097,Major,0.0383,107.505,4-Apr,0.251
+Dance,Olivia O'Brien,Fuck Feelings,3HzcPKuTJyMmkWDgzswarl,70,0.251,0.817,180693,0.36,0,G#,0.195,-6.45,Minor,0.0433,105.017,4-Apr,0.514
+Dance,Little Mix,Black Magic,5y6pj7OeBFF0CVgZKhRbOG,77,0.0348,0.777,211773,0.895,0,E,0.317,-4.464,Major,0.0618,111.987,4-Apr,0.826
+Dance,Halsey,Castle,16w8ZGVSjI4TlTLV8VimBY,70,0.25,0.626,277623,0.571,0,G,0.0946,-7.461,Minor,0.0327,129.959,4-Apr,0.164
+Dance,Jason Derulo,Goodbye (feat. Nicki Minaj & Willy William),5Xn4IyTtW6FUGIUyWjbUHG,82,0.0776,0.643,195419,0.904,0,C,0.189,-3.694,Major,0.0739,103.028,4-Apr,0.481
+Dance,Mandy Moore,"When Will My Life Begin? - From ""Tangled"" / Soundtrack Version",03xWMkKEbeO4SnylA53ipj,67,0.112,0.673,152333,0.42,0,E,0.0897,-7.581,Major,0.0317,108.066,4-Apr,0.385
+Dance,Hannah Montana,He Could Be the One,07HPV6hzecJmMJwsIX8YVU,65,0.00154,0.602,180800,0.894,0,E,0.433,-3.975,Major,0.032,125.988,4-Apr,0.643
+Dance,Jonas Blue,Fast Car,2mCF8L0brIs88eH6Kf2h9p,72,0.455,0.56,212424,0.592,0,A,0.297,-6.951,Major,0.0544,112.684,4-Apr,0.564
+Dance,Halsey,Walls Could Talk,5ln5yQdUywVbf8HhFsOcd6,69,0.128,0.626,101790,0.423,0,C#,0.18,-6.035,Major,0.0513,95.162,4-Apr,0.571
+Dance,Cher,If I Could Turn Back Time,6mYrhCAGWzTdF8QnKuchXM,73,0.244,0.654,239827,0.566,0,B,0.123,-10.313,Major,0.0268,108.293,4-Apr,0.527
+Dance,Ariana Grande,Thinking Bout You,6iOhd5wNnvvwGDEuNILvM5,70,0.0149,0.507,200400,0.697,0.000887,B,0.122,-6.021,Major,0.0616,102.983,4-Apr,0.401
+Dance,Justin Timberlake,What Goes Around.../...Comes Around (Interlude),4ZrEjG3Vef85NTve8ptC9Q,72,0.131,0.685,448533,0.723,0.000935,G,0.592,-4.791,Major,0.176,75.995,4-Apr,0.385
+Dance,Shawn Mendes,Use Somebody - Recorded at Spotify Studios NYC,5My4LtZW8JQJoKFDWodqIt,76,0.35,0.366,176587,0.519,0,F,0.145,-6.066,Major,0.0331,124.632,4-Apr,0.308
+Dance,La Roux,Bulletproof,6lUY6MoqGgPnA27PHYxem5,64,0.000698,0.686,205733,0.898,4.61E-05,D#,0.0721,-2.72,Minor,0.052,122.985,4-Apr,0.696
+Dance,Lady Gaga,Before I Cry,1JcjOWpaQr2crUaJj2kRYQ,71,0.157,0.48,258547,0.56,0,D,0.168,-5.196,Major,0.0373,146.41,4-Mar,0.167
+Dance,Taylor Swift,This Is Why We Can’t Have Nice Things,07NxDD1iKCHbAldceD7QLP,68,0.0156,0.567,207133,0.789,0,F,0.382,-5.986,Major,0.115,163.96,4-Apr,0.438
+Dance,Florence + The Machine,Moderation,6V0PPYLaQ5fCAPftwIgpuN,72,0.0171,0.64,188615,0.653,0.000215,F,0.119,-6.039,Major,0.0281,129.986,4-Apr,0.611
+Dance,Fergie,Glamorous,4KTtYhxFtFL7mBwnjkKfLm,68,0.32,0.81,246573,0.748,0,C,0.0951,-6.464,Major,0.211,130.983,4-Apr,0.669
+Dance,Cyndi Lauper,Time After Time,1Jj6MF0xDOMA3Ut2Z368Bx,72,0.576,0.724,243067,0.436,1.19E-06,C,0.0908,-9.321,Major,0.0282,130.439,4-Apr,0.324
+Dance,Taylor Swift,Dress,6oVxXO5oQ4pTpO8RSnkzvv,68,0.0329,0.719,230373,0.469,0,C,0.169,-8.792,Major,0.0533,120.085,4-Apr,0.0851
+Dance,Zara Larsson,Lush Life,1rIKgCH4H52lrvDcz50hS8,80,0.133,0.694,201122,0.712,0,G,0.211,-3.923,Minor,0.046,98.022,4-Apr,0.799
+Dance,Trey Songz,Nobody Else But You,1HOUzEsetdIPSpAgRPhZQt,70,0.0381,0.708,229013,0.612,0,F,0.277,-6.379,Minor,0.122,139.913,4-Apr,0.263
+Dance,Zedd,Clarity,60wwxj6Dd9NJlirf84wr2c,73,0.0398,0.509,271427,0.781,0,G#,0.0749,-3.48,Major,0.072,128,4-Apr,0.176
+Dance,Marc E. Bassy,Morning,54Yappwod1fELR5zb2gDBn,69,0.563,0.468,206080,0.438,0,A#,0.181,-8.227,Major,0.0697,108.367,4-Mar,0.344
+Dance,Demi Lovato,Cool for the Summer,2zFF6jG5hQArbzcXz3KUWk,73,0.00506,0.584,214740,0.614,9.70E-05,F,0.0802,-5.587,Minor,0.0363,114.075,4-Apr,0.28
+Dance,Why Don't We,Talk,6rsm9NTgl9kKPatf7S1yCS,71,0.0588,0.795,190347,0.7,0,F#,0.0977,-5.221,Minor,0.107,120.002,4-Apr,0.798
+Dance,Liam Payne,Familiar,0Y4hwUppbGc8aIBmiTz30A,78,0.0161,0.636,196552,0.805,0,A,0.0793,-4.594,Major,0.327,92.958,4-Apr,0.908
+Dance,5 Seconds of Summer,Lie To Me,3567eNX2L3RkkMkwspncMH,73,0.0115,0.633,150467,0.478,0,C,0.103,-5.571,Major,0.0359,159.951,4-Apr,0.692
+Dance,The Black Eyed Peas,My Humps,19JdbdEwQI7bCxefMokZO8,65,0.12,0.8,326960,0.688,4.05E-06,E,0.111,-5.987,Major,0.223,123.929,4-Apr,0.623
+Dance,Calvin Harris,My Way,1vvNmPOiUuyCbgWmtc6yfm,78,0.0935,0.819,219160,0.913,3.72E-05,E,0.161,-3.059,Minor,0.0427,119.989,4-Apr,0.536
+Dance,Destiny's Child,"Jumpin', Jumpin'",4pmc2AxSEq6g7hPVlJCPyP,71,0.00543,0.771,230200,0.685,0.00157,C#,0.0537,-4.639,Major,0.0567,88.997,4-Apr,0.683
+Dance,Lady Gaga,The Edge Of Glory,0JNdS1n0ifOP25XvhwAMgM,63,0.000343,0.581,320587,0.772,0.0191,A,0.11,-6.544,Major,0.0401,127.952,4-Apr,0.361
+Dance,Bag Raiders,Shooting Stars,0UeYCHOETPfai02uskjJ3x,72,0.0933,0.634,235813,0.711,0.0309,B,0.0823,-6.187,Major,0.0457,124.962,4-Apr,0.451
+Dance,One Direction,You & I,2afCBiru10AFckfOa49wIa,73,0.22,0.574,237933,0.329,0,C#,0.0986,-6.829,Major,0.0274,130.993,4-Apr,0.356
+Dance,Rihanna,S&M,2u02eLj96Atd6TBxkH9YvN,68,0.0156,0.764,243533,0.673,6.56E-05,C#,0.195,-4.946,Major,0.0437,127.941,4-Apr,0.8
+Dance,PRETTYMUCH,Open Arms,2jHDXNIbElEsxxPQ0EVspA,69,0.146,0.688,186042,0.425,0,B,0.447,-6.394,Minor,0.0851,139.794,4-Apr,0.211
+Dance,Selena Gomez & The Scene,Love You Like A Love Song,0laYHRpNTS6i8FXdupHkJ4,73,0.0761,0.858,188453,0.678,0,C#,0.0741,-3.87,Minor,0.0469,117.009,4-Apr,0.922
+Dance,Britney Spears,...Baby One More Time,3MjUtNVVq3C8Fn0MP3zhXa,77,0.202,0.759,211067,0.699,0.000131,C,0.443,-5.745,Minor,0.0307,92.96,4-Apr,0.907
+Dance,Major Lazer,Light It Up - Remix,0TQ1FvC8TJ09iibSfwRP81,70,0.0375,0.747,166138,0.877,0.000833,A,0.233,-3.782,Minor,0.0664,107.991,4-Apr,0.752
+Dance,No Doubt,Don't Speak,6urCAbunOQI4bLhmGpX7iS,68,0.224,0.515,263560,0.705,1.33E-05,C,0.17,-7.055,Minor,0.0333,76.078,4-Apr,0.532
+Dance,Selena Gomez & The Scene,Who Says,3TcL0dyCMyr0kyTTc4NLgI,71,0.0843,0.682,195613,0.927,0,E,0.149,-2.915,Major,0.0479,101.019,4-Apr,0.744
+Dance,Janelle Monáe,Make Me Feel,5gW5dSy3vXJxgzma4rQuzH,70,0.132,0.859,194230,0.413,0,C#,0.334,-7.399,Major,0.182,115.035,4-Apr,0.697
+Dance,Jason Derulo,Whatcha Say,67T6l4q3zVjC5nZZPXByU8,66,0.0444,0.615,221253,0.711,0,B,0.145,-5.507,Major,0.0779,144.036,4-Apr,0.711
+Dance,P!nk,"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",7K5dzhGda2vRTaAWYI3hrb,72,0.0114,0.632,215414,0.701,0,G,0.108,-5.921,Major,0.146,162.958,4-Apr,0.497
+Dance,David Guetta,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",5b2bu6yyATC1zMXDGScJ2d,61,0.24,0.596,192560,0.73,0,A,0.325,-4.091,Major,0.151,85.979,4-Apr,0.525
+Dance,Lorde,Team,3G6hD9B2ZHOsgf4WfNu7X1,72,0.151,0.696,193059,0.59,0,F#,0.247,-7.428,Major,0.0904,99.984,4-Apr,0.462
+Dance,Usher,U Got It Bad,7J41dYQolQJEtj3UmKLu5r,71,0.0227,0.816,247840,0.5,1.53E-06,C#,0.0733,-4.551,Major,0.03,124.037,4-Apr,0.649
+Dance,Chris Brown,New Flame,3nw9J97nUugT84SIJdjhAV,70,0.0649,0.709,244133,0.638,0,C#,0.0969,-4.3,Major,0.0405,141.994,4-Apr,0.468
+Dance,Haddaway,What Is Love,4v6jydWBTAIqnyPVNyOAdc,65,0.0207,0.69,269373,0.801,0.00399,G,0.277,-5.944,Minor,0.0327,123.864,4-Apr,0.726
+Dance,Snakehips,Don't Leave,0Zx8khUcEfCFK2AEoIhC92,71,0.222,0.657,214693,0.703,0,C#,0.256,-3.402,Major,0.0753,122.381,4-Apr,0.338
+Dance,*NSYNC,It's Gonna Be Me,2AW37v0bDyuOzGP3XnmFuA,66,0.0407,0.636,192427,0.873,1.27E-06,C,0.0372,-4.672,Minor,0.071,165.071,4-Apr,0.908
+Dance,Ivy Adara,Rebels,36qh3jgsWjKLDBTeBb3lWW,72,0.108,0.68,176272,0.629,0,F#,0.0829,-5.673,Major,0.0458,103.883,4-Apr,0.138
+Dance,P!nk,Beautiful Trauma,2DlIwu1iDTILEMXA7MUotn,73,0.0868,0.412,250053,0.619,2.55E-06,G,0.4,-6.39,Major,0.0725,95.977,4-Apr,0.234
+Dance,King Princess,Upper West Side,7vfaRUaFBDwENwa3tzJY64,65,0.277,0.635,211413,0.496,0.00634,A,0.081,-8.858,Major,0.0338,141.863,4-Apr,0.733
+Dance,Katy Perry,Hot N Cold,1y4eb6hmAvsqlDOl3fx9kk,64,7.95E-05,0.706,220227,0.841,0,G,0.0688,-3.956,Major,0.0418,132.032,4-Apr,0.861
+Dance,Lana Del Rey,Born To Die,487OPlneJNni3NWC8SYqhW,63,0.222,0.428,285400,0.626,8.22E-05,E,0.277,-6.639,Minor,0.0339,86.02,4-Apr,0.379
+Dance,Backstreet Boys,Chances,5J783SDlyitqvLFAzTm0jU,70,0.0178,0.551,172627,0.755,0,B,0.466,-6.255,Major,0.0678,109.835,4-Apr,0.296
+Dance,Lady Gaga,Alejandro,15pu8u4n3q4BKl4tF20c5v,62,0.00043,0.632,274213,0.789,0.00144,B,0.356,-6.61,Minor,0.0557,98.986,4-Apr,0.35
+Dance,Daya,New,4tERsdVCLtLtrGdFBf9DGC,72,0.052,0.715,230880,0.742,2.47E-05,C,0.364,-4.331,Major,0.0347,106.971,4-Apr,0.322
+Dance,Beyoncé,Single Ladies (Put a Ring on It),5R9a4t5t5O0IsznsrKPVro,72,0.0383,0.426,193213,0.584,0,C#,0.188,-5.293,Major,0.296,193.437,4-Apr,0.272
+Dance,Jeremy Zucker,Idk Love,2mSrVZsSKn2Ye5f0YuAbMh,65,0.787,0.579,140360,0.43,0,F,0.13,-10.021,Major,0.344,123.999,4-Apr,0.538
+Dance,Britney Spears,Womanizer,4fixebDZAVToLbUCuEloa2,75,0.073,0.724,224400,0.695,0,B,0.0889,-5.226,Major,0.0622,139,4-Apr,0.235
+Dance,Fat Joe,What's Luv? (feat. Ja-Rule & Ashanti),2mKouqwAIdQnMP43zxR89r,74,0.0219,0.835,267093,0.707,2.19E-05,G#,0.108,-5.074,Major,0.0598,93.955,4-Apr,0.919
+Dance,Lady Gaga,Hair Body Face,4gdfWGyzB9j4ZVc2JWdpv2,70,0.0103,0.863,202640,0.457,5.32E-05,E,0.109,-6.422,Minor,0.0526,115.009,4-Apr,0.401
+Dance,Prince Royce,El Clavo - Remix,6bI00brFpeprqCDqKouEJS,76,0.0576,0.789,171338,0.797,0,B,0.104,-2.726,Minor,0.114,162.079,4-Apr,0.73
+Dance,MARINA,How to Be a Heartbreaker,2Ow4Pmi0VOOLvbmJ8V70qo,67,0.0142,0.69,221493,0.897,0,B,0.108,-4.696,Minor,0.0506,140.05,4-Apr,0.849
+Dance,Sofia Reyes,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",4QtiVmuA88tPQiCOHZuQ5b,81,0.165,0.792,201526,0.895,0,C#,0.0501,-3.112,Minor,0.0589,94.968,4-Apr,0.794
+Dance,Harry Styles,Two Ghosts,4B1rpPmQXwj78wk6aIGwwU,72,0.234,0.386,229813,0.407,1.86E-06,F#,0.0999,-7.095,Minor,0.0268,69.387,4-Apr,0.456
+Dance,Timbaland,The Way I Are,2bLqfJjuC5syrsgDsZfGmn,65,0.189,0.734,179120,0.808,0.699,D#,0.315,-6.448,Minor,0.106,114.764,4-Apr,0.805
+Dance,Tove Lo,Habits (Stay High) - Hippie Sabotage Remix,62N2JSA0jHmSH7Va9t7hIf,66,0.00108,0.735,258933,0.686,0.871,E,0.0933,-7.562,Minor,0.0366,121.011,4-Apr,0.0656
+Dance,Melanie Martinez,Pity Party,3fo6DYGktjENCiagUeU9yH,68,0.058,0.716,204086,0.73,7.32E-06,F#,0.151,-4.126,Minor,0.0364,136.05,4-Apr,0.339
+Dance,Kelly Clarkson,Stronger (What Doesn't Kill You),6D60klaHqbCl9ySc8VcRss,66,0.046,0.562,221947,0.939,0,C,0.112,-4.282,Major,0.0475,116.044,4-Apr,0.684
+Dance,Troye Sivan,Bloom,0oTyoTKEKMdF3rXcOLyEfN,72,0.031,0.708,222097,0.701,0,C,0.392,-5.196,Major,0.0328,120.932,4-Apr,0.504
+Dance,Rick Astley,Never Gonna Give You Up,7GhIk7Il098yCjg4BQjzvb,67,0.135,0.727,212827,0.939,4.35E-05,G#,0.151,-11.855,Major,0.0369,113.33,4-Apr,0.916
+Dance,Usher,I Don't Mind (feat. Juicy J),7aXuop4Qambx5Oi3ynsKQr,71,0.205,0.87,251989,0.464,0,E,0.0902,-8.337,Major,0.178,112.974,4-Apr,0.457
+Dance,Iggy Azalea,Fancy,3oiMJQAWVaxSubJ7b2VUtX,68,0.0904,0.912,199938,0.716,0,A#,0.0491,-4.141,Minor,0.0697,94.981,4-Apr,0.377
+Dance,Lennon Stella,Bad,1ydOxBgLmEMfWffu6t4H5x,68,0.366,0.827,177973,0.613,1.25E-05,G#,0.093,-5.34,Major,0.0621,137.96,4-Apr,0.747
+Dance,The Black Eyed Peas,Boom Boom Pow,7xRNsqOQOgWbHV1nbXnfXN,63,0.15,0.869,251440,0.851,0.000873,A,0.136,-6.201,Major,0.0827,130.09,4-Apr,0.395
+Dance,Taylor Swift,Style,4lIxdJw6W3Fg4vUIYCB0S5,63,0.00256,0.598,231000,0.786,0.00143,D,0.117,-5.572,Major,0.0382,95.021,4-Apr,0.456
+Dance,Flo Rida,Wild Ones (feat. Sia),1NpW5kyvO4XrNJ3rnfcNy3,77,0.0991,0.608,232947,0.86,0,F,0.262,-5.324,Minor,0.0554,127.075,4-Apr,0.437
+Dance,Gryffin,Nobody Compares To You (feat. Katie Pearlman),2Un9MGFwpGdGU9yl9KOvXx,69,0.228,0.585,231383,0.744,0,D,0.195,-4.751,Major,0.0419,104.919,4-Apr,0.349
+Dance,PRETTYMUCH,Blind,5NeHvs8ClxMHtqv8DHEK1X,69,0.13,0.448,201600,0.761,0,D#,0.0823,-4.741,Major,0.221,149.687,4-Apr,0.333
+Dance,Jeremy Zucker,selfish,6D5zOotZNjLN98bXOfhAYm,65,0.505,0.763,198907,0.408,0,G,0.113,-8.929,Major,0.285,89.857,4-Apr,0.731
+Dance,Trey Songz,Solid,7pSn2j9BhIWMqmKDfhkbTQ,70,0.0665,0.574,219052,0.587,0,D,0.467,-6.565,Minor,0.066,132.091,4-Apr,0.353
+Dance,Rihanna,Sex With Me,6WAxKNbZoGNzQTIvdMqkFs,65,0.326,0.619,206400,0.539,0,C#,0.106,-5.688,Minor,0.0409,112.006,4-Apr,0.39
+Dance,Alec Benjamin,1994,5Ys68FZdQFcFw7IgkANVoM,68,0.281,0.772,184121,0.613,3.52E-06,G#,0.206,-6.185,Major,0.0692,87.022,4-Apr,0.862
+Dance,DJ Snake,Turn Down for What,67awxiNHNyjMXhVgsHuIrs,72,0.00107,0.818,213733,0.799,0.128,C#,0.057,-4.1,Minor,0.156,100.014,4-Apr,0.0815
+Dance,T-Pain,I'm N Luv (Wit a Stripper) (feat. Mike Jones),1lih9AUGlOI2qbAkptdBsr,69,0.00544,0.731,265333,0.368,0,G#,0.193,-10.38,Major,0.0688,145.171,4-Apr,0.512
+Dance,Katy Perry,Chained To The Rhythm,7qvxFz3JodM0A7xEM7k3YD,75,0.0814,0.446,237733,0.8,0,C,0.199,-5.404,Major,0.174,189.89,4-Apr,0.474
+Dance,Jeremih,Birthday Sex,4NpDZPwSXmL0cCTaJuVrCw,69,0.261,0.675,226507,0.545,0,G,0.162,-5.614,Minor,0.0443,60.048,4-Apr,0.445
+Dance,Thalía,No Me Acuerdo,1G586ld1gbaECg4Bc6w40O,81,0.175,0.837,217653,0.784,0,G,0.0897,-4.531,Minor,0.101,94.036,4-Apr,0.748
+Dance,Lost Kings,When We Were Young,4mEILaBM7bKZqKAun5tABu,74,0.00871,0.547,193911,0.789,0,G#,0.1,-5.619,Major,0.042,129.916,4-Apr,0.345
+Dance,Jeremih,Don't Tell 'Em,0Dc7J9VPV4eOInoxUiZrsL,73,0.421,0.851,266840,0.525,0,D,0.111,-5.221,Minor,0.0874,97.988,4-Apr,0.405
+Dance,Robin Schulz,Sugar (feat. Francesco Yates),5tf1VVWniHgryyumXyJM7w,78,0.0185,0.636,219043,0.815,0,F,0.163,-5.098,Minor,0.0581,123.063,4-Apr,0.636
+Dance,Avicii,Last Dance - Radio Edit,6waSTkNlNs3NYalnQuNT6y,0,0.000364,0.519,204375,0.822,0.286,C,0.14,-5.149,Major,0.0362,127.973,4-Apr,0.158
+Dance,Calvin Harris,Feel So Close - Radio Edit,1gihuPhrLraKYrJMAEONyc,74,0.000972,0.707,206413,0.924,0.00703,G,0.204,-2.842,Major,0.031,127.937,4-Apr,0.919
+Dance,Carly Rae Jepsen,Call Me Maybe,3TGRqZ0a2l1LRblBkJoaDx,68,0.0123,0.778,193400,0.585,0,G,0.108,-6.502,Major,0.0435,120.069,4-Apr,0.626
+Dance,LMFAO,Party Rock Anthem,0IkKz2J93C94Ei4BvDop7P,65,0.0189,0.75,262173,0.727,0,F,0.266,-4.21,Minor,0.142,129.993,4-Apr,0.359
+Dance,K-Ci & JoJo,All My Life,5GorFaKkP2mLREQvhSblIg,72,0.117,0.634,331240,0.528,2.26E-06,C#,0.0565,-8.834,Major,0.0309,128,4-Apr,0.18
+Dance,3OH!3,DONTTRUSTME,5jzX4dWVQeBTtfBaXnMRt5,66,0.0163,0.791,192573,0.713,0,F,0.189,-3.742,Minor,0.254,130.012,4-Apr,0.514
+Dance,Julia Michaels,Into You,1wkHhcUnVOMhLtA79dQaQx,70,0.254,0.692,192373,0.471,0,A,0.236,-7.124,Major,0.0487,158.004,4-Apr,0.827
+Dance,Years & Years,If You're Over Me,01k24g94i1JvkFLQmVEdCd,77,0.0615,0.647,189000,0.853,0,G#,0.062,-4.516,Major,0.0904,103.846,4-Apr,0.618
+Dance,Starship,We Built This City,6OnfBiiSc9RGKiBKKtZXgQ,74,0.052,0.661,296080,0.908,0,F,0.0708,-4.897,Major,0.039,144.091,4-Apr,0.656
+Dance,Charlotte Lawrence,Sleep Talking,0bOH2yZkaVSg2OdegIlp2J,73,0.452,0.661,224224,0.762,0,F,0.162,-4.307,Major,0.0402,101.99,4-Apr,0.583
+Dance,Bruno Mars,Perm,1I6pKIyaBp4OebTGLJpCCC,70,0.0145,0.853,210053,0.871,6.84E-05,G#,0.198,-3.715,Major,0.0851,124.021,4-Apr,0.863
+Dance,Pharrell Williams,"Happy - From ""Despicable Me 2""",5b88tNINg4Q4nrRbrCXUmg,73,0.219,0.647,232720,0.822,0,F,0.0908,-4.662,Minor,0.183,160.019,4-Apr,0.962
+Dance,Alessia Cara,Here,1wYZZtamWTQAoj8B812uKQ,67,0.0785,0.376,199453,0.821,0,C,0.0823,-3.974,Major,0.104,120.462,4-Apr,0.331
+Dance,Kiana Ledé,EX,47cQCF21TczFSmGfpd7c07,71,0.231,0.763,222387,0.537,0,A,0.109,-7.018,Minor,0.246,73.51,4-Apr,0.426
+Dance,Selena Gomez,Kill Em With Kindness,1QNoKVgA758HFLu3TW2q7R,66,0.00795,0.757,217907,0.884,5.87E-05,A#,0.0973,-5.488,Minor,0.0404,120.012,4-Apr,0.398
+Dance,Jess Glynne,All I Am,6X6SdJzxyw7GzxwP2fr9WV,77,0.0445,0.74,218868,0.669,0,C,0.184,-5.199,Major,0.0373,122.007,4-Apr,0.536
+Dance,Chris Brown,Run It!,6SPD3JwwRejBhCDiQAQ4he,66,0.0246,0.85,229867,0.482,0,C#,0.387,-6.684,Minor,0.102,100.957,4-Apr,0.217
+Dance,The Chainsmokers,All We Know,2rizacJSyD9S1IQUxUxnsK,72,0.097,0.662,194080,0.586,0.00272,C,0.115,-8.821,Major,0.0307,90,4-Apr,0.296
+Dance,Ruel,Not Thinkin' Bout You,2awExtNBABpwOFC78XViJd,71,0.267,0.66,188387,0.357,0,A#,0.0857,-8.55,Minor,0.0594,119.835,4-Apr,0.518
+Dance,Cameron Dallas,Why Haven't I Met You?,5NACaWLnFkMDY5c4IUiqml,73,0.204,0.702,180480,0.473,0,D#,0.0848,-7.499,Minor,0.0421,104.974,4-Apr,0.528
+Dance,Robin Schulz,Speechless,55UzZcrrv7rS6HhehQ71Rc,0,0.0195,0.569,217133,0.715,1.46E-06,C#,0.077,-4.82,Major,0.0598,125.016,4-Apr,0.233
+Dance,Chris Brown,Forever,7tAXHZdp9UpcYrHn7MZqfo,69,0.0371,0.672,278036,0.819,0.000184,B,0.203,-4.457,Major,0.0463,120.013,4-Apr,0.446
+Dance,Jennifer Lopez,Te Guste,0ifLplTQxXkFZKMQpWCHii,74,0.119,0.877,222787,0.619,0,A,0.088,-6.692,Minor,0.233,138.109,4-Apr,0.222
+Dance,Apink,%%(Eung Eung),4SpQDJz1JiRT2mHxvyqN9K,69,0.294,0.647,208105,0.855,0,F,0.137,-2.944,Minor,0.037,144.867,4-Apr,0.683
+Dance,Lana Del Rey,Summertime Sadness,2dBwB667LHQkLhdYlwLUZK,63,0.0542,0.565,265427,0.654,1.80E-06,C#,0.122,-6.826,Minor,0.0335,111.968,4-Apr,0.235
+Dance,Fifth Harmony,Worth It,41Fflg7qHiVOD6dEPvsCzO,76,0.063,0.884,224573,0.765,7.04E-06,G#,0.118,-3.865,Major,0.0882,99.987,4-Apr,0.594
+Dance,Lorde,Homemade Dynamite - REMIX,5u64RlrnvvbtNh6R0EMh6o,70,0.229,0.781,214255,0.548,0,C,0.127,-4.997,Minor,0.0764,106.996,4-Apr,0.175
+Dance,Trey Songz,Bottoms Up - feat. Nicki Minaj,2IpGdrWvIZipmaxo1YRxw5,68,0.0205,0.845,242013,0.601,0,C#,0.385,-5.283,Major,0.161,74.008,4-Apr,0.329
+Dance,Shawn Mendes,Roses,4uzUuDjoufcBXYZ27CsLIF,72,0.4,0.611,232200,0.489,0,C,0.117,-6.771,Major,0.0343,78.145,4-Apr,0.267
+Dance,Lana Del Rey,Summer Bummer (feat. A$AP Rocky & Playboi Carti),5QqyRUZeBE04yJxsD1OC0I,67,0.0155,0.76,260672,0.574,2.02E-05,C#,0.199,-8.57,Major,0.126,134.981,4-Apr,0.137
+Dance,Jordin Sparks,No Air (feat. Chris Brown),1jUA4rb6ZCv4gby4YU53xq,73,0.0521,0.466,264373,0.759,0,G#,0.0587,-4.978,Minor,0.199,160.033,4-Apr,0.328
+Dance,The Cure,Friday I'm In Love,263aNAQCeFSWipk896byo6,67,0.000972,0.526,214400,0.762,0.000116,C,0.338,-12.437,Minor,0.0342,136.203,4-Apr,0.505
+Dance,The Chainsmokers,Everybody Hates Me,6ufrOaf4v6Qady6GiIpQ0s,72,0.00703,0.475,223467,0.752,0,B,0.406,-6.596,Minor,0.0467,154.957,4-Apr,0.515
+Dance,Cheat Codes,Only You,7IZ7S595rr4Q3E1Zga1Jev,67,0.0829,0.607,189401,0.74,0,E,0.105,-4.793,Minor,0.172,108.05,4-Apr,0.219
+Dance,Kehlani,Keep On,4MV4wa3Dke1GMBtk06GMR0,68,0.264,0.74,209122,0.453,7.13E-05,F,0.129,-7.58,Minor,0.151,98.057,4-Apr,0.514
+Dance,Halsey,Strangers,11EDhDAVDtGPoSar6ootYA,70,0.01,0.69,221206,0.784,4.08E-05,B,0.22,-4.724,Major,0.056,109.969,4-Apr,0.284
+Dance,Marc E. Bassy,You & Me,7yCqehT9dKACTFy7YugP0J,70,0.0459,0.696,218493,0.632,0,C#,0.193,-8.307,Major,0.154,85.091,4-Apr,0.634
+Dance,Shawn Mendes,Life Of The Party,14hJ5tc1VCFMWhVn9axRTC,65,0.0663,0.667,214533,0.614,0,A#,0.111,-4.995,Major,0.0314,113.979,4-Apr,0.161
+Dance,Mariah Carey,Fantasy,6xkryXuiZU360Lngd4sx13,67,0.139,0.671,243493,0.727,0,G,0.123,-7.585,Major,0.035,102.358,4-Apr,0.801
+Dance,Jhene Aiko,The Worst,2wBCrtJS3E3TimRZ5MElTI,70,0.237,0.524,254493,0.417,1.19E-06,C#,0.139,-9.283,Minor,0.0578,93.59,4-Apr,0.109
+Dance,Camila Cabello,I Have Questions,3NgCzSW98SsqBdpYcnm4kv,71,0.405,0.393,221881,0.555,0,A#,0.105,-6.096,Minor,0.276,167.999,4-Apr,0.22
+Dance,Halsey,Alone (Calvin Harris Remix) (Feat. Stefflon Don),5K09638EBQjVMrZYXA89aC,71,0.137,0.829,199199,0.819,0.00792,D,0.282,-3.43,Minor,0.131,123.944,4-Apr,0.35
+Dance,Chris Brown,With You,1j3H54xdahpAkNI0q6S89q,68,0.143,0.659,252160,0.696,0,D#,0.13,-4.291,Major,0.071,86.001,4-Apr,0.665
+Dance,PRETTYMUCH,"10,000 Hours",1mklEaSnZ6Vl4cHZ6AnnNC,68,0.0512,0.616,193096,0.803,0,F#,0.115,-4.794,Major,0.231,137.924,4-Apr,0.51
+Dance,Shawn Mendes,A Little Too Much,1T7AiFL9ruKKwlONN35Vh0,65,0.473,0.553,187027,0.507,0,B,0.108,-6.24,Major,0.0304,83.093,4-Apr,0.57
+Dance,Train,Play That Song,77hjM9bMmgfTGJXv14UFmi,68,0.0231,0.392,243253,0.825,2.25E-06,C,0.0972,-2.068,Minor,0.0535,98.959,4-Apr,0.482
+Dance,JP Cooper,All This Love,10unIjOu5Jurco3SDbV4HZ,74,0.168,0.621,193598,0.524,0,F,0.0925,-7.056,Major,0.0248,97.456,4-Mar,0.434
+Dance,Ariana Grande,Touch It,7MGRcJy1saXKiphwqJBnRb,69,0.0305,0.536,260000,0.694,0,G,0.183,-4.369,Minor,0.0331,100.899,4-Apr,0.293
+Dance,Halsey,Eyes Closed,2WQn7Yvs728KZmmY6tgWqH,68,0.0179,0.581,202439,0.684,1.93E-05,C#,0.0849,-4.962,Minor,0.0429,129.966,4-Apr,0.0397
+Dance,B.o.B,Nothin' on You (feat. Bruno Mars),59dLtGBS26x7kc0rHbaPrq,71,0.386,0.688,268320,0.853,0,A#,0.0862,-5.814,Major,0.0493,103.993,4-Apr,0.743
+Dance,Selena Gomez,Good For You,578Eooad7oUyn4stovZiPg,64,0.181,0.607,221280,0.673,0,F,0.069,-6.484,Minor,0.0611,88.952,4-Apr,0.215
+Dance,Jesse McCartney,Beautiful Soul,1HwpWwa6bnqqRhK8agG4RS,71,0.0759,0.66,214227,0.666,0,A,0.0268,-4.342,Major,0.0472,89.975,4-Apr,0.933
+Dance,Backstreet Boys,As Long as You Love Me,00WvmRXTkPBZNhhRK3xfdy,60,0.164,0.775,214333,0.816,0,C,0.126,-5.534,Major,0.0281,98.219,4-Apr,0.753
+Dance,Peter Bjorn and John,Young Folks,6M6UoxIPn4NOWW0x7JPRfv,65,0.0172,0.701,279027,0.815,0.000627,C,0.0969,-5.995,Major,0.038,138.142,4-Apr,0.67
+Dance,Carly Rae Jepsen,Now That I Found You,5cE201rNvIkryS8N1dJ5nR,70,0.0145,0.611,200318,0.737,0,C,0.107,-5.154,Minor,0.0476,124.169,4-Apr,0.574
+Opera,Giacomo Puccini,Un bel dì from Madama Butterfly,2SyWl948aIaBhssGaCddGC,15,0.985,0.144,269400,0.0572,6.65E-05,C#,0.0842,-20.002,Major,0.0533,70.352,4-Mar,0.0605
+Opera,Giuseppe Verdi,"La traviata / Act 1: ""Dell'invito trascorsa è già l'ora""",32yaVAwFW2X1K2fmzQbupy,8,0.941,0.381,281053,0.237,3.39E-05,A,0.174,-19.145,Major,0.0898,82.516,4-Apr,0.364
+Opera,Giuseppe Verdi,Requiem: I. Introit - Kyrie,33cyOgLG2jz90KO1y4p2yA,15,0.959,0.0611,461333,0.0611,0.114,A,0.246,-24.148,Minor,0.0448,55.646,4-Apr,0.0398
+Opera,Georges Bizet,"Act I: Près des ramparts de Seville (""Seguidilla"")",3Ebx0u11tj5uIZVyxEIh3a,15,0.99,0.337,122773,0.161,0.000138,G,0.11,-16.309,Major,0.127,187.261,4-Mar,0.183
+Opera,Giuseppe Verdi,"Rigoletto, Act IV: Lassù in cielo",3H3MN0fvC8jJxGLTqIqer9,17,0.978,0.2,179493,0.0855,0.0225,F#,0.104,-24.471,Minor,0.0595,171.425,4-Mar,0.101
+Opera,Richard Wagner,Götterdämmerung - Siegfried's Funeral March - 2002 Remastered Version,3S7nhBTKi1wDixuQ6RsB6l,15,0.972,0.0843,469133,0.109,0.872,F,0.0922,-15.485,Minor,0.0375,169.836,4-Mar,0.0344
+Opera,Giacomo Puccini,Madama Butterfly / Act 1: Gran ventura,43Llbtfa4VdiU3SucRkAbt,16,0.96,0.302,232850,0.0288,9.13E-05,C#,0.367,-28.75,Major,0.0541,138.94,4-Jan,0.0524
+Opera,Giuseppe Verdi,Offertorio,4GALB5CSja3lpGk3phl5Yv,14,0.966,0.125,277747,0.12,0.0732,G#,0.243,-22.227,Major,0.0481,63.427,4-Mar,0.0687
+Opera,Giacomo Puccini,"Tosca / Act 1: ""E sempre lava!"" - ""Angelus Domini nuntiavit Mariae"" - ""Che fai?""",4GF01kGqWX5txG7sEMwlgh,8,0.972,0.364,205267,0.148,0.0131,F,0.243,-22.564,Major,0.0476,118.886,4-May,0.289
+Opera,Giacomo Puccini,Puccini: Turandot: Popoli di Pekino! La legge e questa - Act One,4hCAdVbO9hKK0O8xy3tIyD,10,0.985,0.336,332040,0.455,0.0067,G,0.169,-8.936,Minor,0.0498,100.055,4-Mar,0.0965
+Opera,Richard Wagner,"Das Rheingold, Scene 4: Entry of the Gods into Valhalla",4liKtpgfPUe9AJE1w70Mhh,13,0.982,0.173,434000,0.0854,0.855,C#,0.0678,-19.928,Major,0.0353,80.956,4-Apr,0.0517
+Opera,Giacomo Puccini,"Madama Butterfly - Opera in two acts (1986 Digital Remaster), Act II: Humming Chorus",6BKuIcO86c1Xt3HxWGhdWL,16,0.98,0.161,204533,0.00782,0.867,A#,0.0889,-39.141,Major,0.0432,73.783,4-Apr,0.0561
+Opera,Giacomo Puccini,"La Bohème / Act 2: ""Arranci, datteri!"" - Live",6HxstTjTGvODOpV8IGRJf1,8,0.961,0.482,164627,0.329,0.137,F,0.166,-17,Major,0.107,108.812,4-Apr,0.555
+Opera,Giacomo Puccini,"Madama Butterfly, Atto III: ""Addio, fiorito asil""",6SNIVD0BdBOAlBiR7zzWHW,17,0.983,0.167,107200,0.255,0.323,C#,0.0657,-15.81,Major,0.0389,81.901,4-Apr,0.14
+Opera,Giuseppe Verdi,Celeste Aida from Aida - Vocal,6bWJeRoWJki9SNtgguMr9K,13,0.967,0.257,251667,0.144,0.000577,A#,0.123,-20.401,Major,0.0436,82.431,4-Apr,0.0845
+Opera,Richard Wagner,"Wagner: Rienzi, WWV 49: Overture, 2. Allegro energico",6cerLFDPo7zXoJosPiAcI3,18,0.898,0.312,398533,0.367,0.935,A,0.125,-10.896,Major,0.0307,98.476,4-Apr,0.244
+Opera,Richard Wagner,"Götterdämmerung, WWV 86D, Prologue (Highlights): Siegfrieds Rheinfahrt",6zOP8cwJRukiS71ziRtq0n,17,0.951,0.167,311947,0.181,0.877,D#,0.116,-19.404,Major,0.0363,91.193,4-Apr,0.0595
+Opera,Giuseppe Verdi,"I vespri siciliani: O tu, Palermo, terra adorata (Live)",7rjtdmHRqH35D9o8uOyepG,0,0.994,0.216,361093,0.241,0.00312,F#,0.141,-20.567,Major,0.0885,81.26,4-Apr,0.116
+Opera,Giacomo Puccini,Tosca: Tårnarien,6HyJk86JHuH768VJDVtoRn,13,0.99,0.198,147000,0.0384,0.861,B,0.0764,-22.652,Minor,0.0445,75.875,4-May,0.0601
+Opera,Giuseppe Verdi,"La traviata, Act I: Libiamo ne'lieti calici, ""Brindisi""",0FcjcBEhTvVP1N2Qgo3BFF,14,0.959,0.426,183000,0.108,0,A#,0.15,-23.206,Major,0.0652,106.516,4-Apr,0.221
+Opera,Niccolò Piccinni,La Buona Figliuola : Furia di donna,0GGZ8VOqGGinpG3ZfK6UpL,12,0.941,0.397,184933,0.25,2.06E-06,A#,0.149,-12.281,Major,0.0417,146.014,4-Apr,0.301
+Opera,Giuseppe Verdi,Aida: Scena e duetto: Fu la sorte,0Z78zcefBzGhj4fRXbF547,13,0.974,0.296,334467,0.0966,3.79E-06,F,0.0896,-22.639,Major,0.0514,89.233,4-Apr,0.0454
+Opera,Giuseppe Verdi,"La traviata, Act I: Ah fors'è lui",0ioJtrTIlCCwg40CuQxH3D,17,0.974,0.189,313667,0.0195,0.00032,F,0.129,-27.192,Minor,0.0572,73.729,4-Mar,0.0384
+Opera,Giacomo Puccini,Turandot / Act 3: So il tuo nome!,0v52fj290YX1nvl5ufFvcU,9,0.944,0.321,130056,0.398,0.0776,E,0.432,-6.979,Major,0.0287,84.546,4-Apr,0.0372
+Opera,Georges Bizet,"Carmen, Act I: Entr'acte",1JaLPeArVWcFc2oaUgrQSR,16,0.976,0.391,104333,0.00586,0.0158,G,0.115,-40.869,Major,0.0367,113.168,4-Apr,0.328
+Opera,Giuseppe Verdi,"Verdi : La battaglia di Legnano : Act 3 ""Giuriam d'Italia"" [Choir]",1Q9Kv6jR1mkzvIAeEFeQ0v,12,0.95,0.188,252893,0.128,0.765,A,0.126,-19.265,Major,0.0421,93.019,4-Mar,0.0381
+Opera,Richard Wagner,Das Rheingold / Vierte Szene: Entry Of The Gods Into Valhalla,1gsnc480zaznkNqOD0RfUi,15,0.942,0.164,318373,0.144,0.92,C#,0.0845,-15.355,Major,0.0366,109.75,4-Mar,0.0455
+Opera,Richard Wagner,"Das Rheingold, WWV 86A, Scene 1: ""Garstig glatter glitsch‘riger Glimmer!""",2SE51CatAhkUPafb4Zh7sV,15,0.965,0.338,408867,0.0717,2.61E-05,C,0.527,-24.24,Minor,0.0576,75.26,4-Apr,0.154
+Opera,Georges Bizet,"Bizet: Carmen: Voyons, que j'essaie a mon tour - Act Three",3A2D9WCbDWGTW16Qy6cPzO,14,0.989,0.262,308240,0.214,0.417,C,0.154,-21.379,Major,0.114,87.839,4-Mar,0.0878
+Opera,Charles Gounod,"Faust / Act 3: ""Ah! Je ris de me voir""",3IKlOeowW7sMoL9xMoQPKy,12,0.968,0.29,288733,0.137,0.00183,E,0.175,-18.897,Major,0.0751,169.398,4-Mar,0.131
+Opera,Giuseppe Verdi,"Rigoletto, Act I: Caro nome che il mio cor",3JzmcEMs3PsEmh1XGeIrrd,13,0.952,0.291,351293,0.0239,3.46E-06,E,0.0953,-26.31,Major,0.0625,83.833,4-Mar,0.0579
+Opera,Georges Bizet,"Carmen, Act II: No.12 bis Récit : Messieurs Pastia me dit... (Frasquita/Zuniga/Carmen/Mercédès)",3WG9hi4tQdob4Vf92qYb4S,15,0.973,0.572,69560,0.0618,0,D,0.139,-23.058,Major,0.101,107.93,4-Mar,0.174
+Opera,Ian Bostridge,"Nachtstück, D. 672",4NGBY9QKN1DPakxC4KWkhh,8,0.985,0.273,328453,0.0413,5.89E-05,C,0.0865,-23.291,Minor,0.0587,84.532,4-Apr,0.0377
+Opera,Giacomo Puccini,"La Fanciulla del West, Atto III: ""Risparmiate lo scherno... Ch'ella mi creda libero""",57xpARA61ryPMo1doh3R3j,17,0.961,0.224,275787,0.219,0.582,F,0.231,-17.584,Minor,0.0419,87.973,4-Mar,0.0859
+Opera,Giuseppe Verdi,"La traviata, Act I: Ebben? Che diavol fate?",5V8K32qrJaTZwlg5j3S1Qy,16,0.94,0.486,71387,0.082,0.00524,G#,0.343,-23.509,Major,0.137,127.325,4-Apr,0.36
+Opera,Jules Massenet,"Massenet: Werther, Act 3: ""Pourquoi me réveiller"" (Werther, Charlotte)",5zQc69SAXOzsbp8aLRv6mk,19,0.976,0.233,143600,0.189,0.0429,F#,0.494,-14.369,Minor,0.0394,67.272,4-Apr,0.0515
+Opera,Giuseppe Verdi,"Aida: Act II, Scene 2: Gloria all'Egitto ad Iside",6PWj8Htda2KvX6arBiiZxz,15,0.959,0.359,196173,0.198,0.163,A#,0.63,-17.392,Major,0.0412,118.999,4-Apr,0.197
+Opera,Giuseppe Verdi,Requiem: XII. Hostias,6tVheor5gIlXQSoUqTpHB3,16,0.961,0.13,329920,0.0286,0.000393,F,0.0762,-30.453,Major,0.0454,85.107,4-Apr,0.0393
+Opera,Giacomo Puccini,"Manon Lescaut, Atto II: ""Oh, sarò la più bella!... Tu, tu, amore? Tu?""",7K1gzQT4x2K4ISaBZozDVk,17,0.974,0.236,461520,0.227,0.66,C#,0.0971,-16.516,Major,0.0471,75.389,4-Mar,0.109
+Opera,Richard Wagner,"Das Rheingold / Zweite Szene: ""Auf, Loge, hinab zu mir!...Hehe! Hehe!""",7w31z1qMdE0zQetxxKn3Uz,8,0.851,0.355,271733,0.271,0.138,A#,0.147,-18.188,Minor,0.0632,107.003,4-Apr,0.0654
+Opera,Léo Delibes,Coppélia / Tableau 1: No. 4 Scène,043cfi7SrTRdEoIcFs1i3e,15,0.979,0.379,114427,0.0523,0.743,G,0.136,-30.336,Major,0.0766,173.625,4-Apr,0.311
+Opera,Giuseppe Verdi,"Nabucco / Act 3: Va', pensiero (Chorus Of The Hebrew Slave)",0DiweapjOH9MJ8a1SRPimf,19,0.986,0.217,280120,0.0431,0.798,C#,0.0961,-22.82,Major,0.0423,131.769,4-Mar,0.0829
+Opera,Georges Bizet,"Carmen, WD 31, Act I: C'est bien là (Live)",0cGlaxjIftmEIMVuVPtZOH,17,0.935,0.368,78373,0.0774,0,A,0.266,-30.869,Major,0.0995,136.784,4-Apr,0.298
+Opera,Georges Bizet,"Carmen Suite No. 1: II. Aragonaise, Interlude (Entr'acte) before Act IV",0fSvI0WAerf7IgoyH2Ab2w,13,0.692,0.327,135267,0.0501,0.0583,D,0.177,-24.989,Minor,0.0392,119.465,4-Apr,0.373
+Opera,Jules Massenet,Elégie,12kicq97WnIr8tkp6tSM4s,17,0.99,0.119,132818,0.04,0.853,G,0.0924,-25.11,Minor,0.0528,86.537,4-Jan,0.0386
+Opera,Giacomo Puccini,Madama Butterfly - Act I: E soffito… e pareti…,14Cw02oboj1ZFcFNLqcdYV,15,0.881,0.38,139560,0.199,0.0127,D#,0.435,-17.891,Major,0.0484,116.957,4-Apr,0.407
+Opera,Giuseppe Verdi,"Verdi: Nabucco, Act 3: ""Va pensiero"", 'Chorus of the Hebrew slaves' (Chorus)",1OOFbCYALA1gOGgdml5PF8,13,0.981,0.192,273000,0.0409,0.479,C#,0.108,-21.045,Major,0.0417,73.651,4-Apr,0.0865
+Opera,Richard Wagner,"Götterdämmerung, WWV 86D, Prologue (Highlights): Orchesterzwischenspiel ""Tagesgrauen""",1SZaBxdftdgHQanHP2O2pl,18,0.938,0.159,242147,0.00621,0.898,A#,0.0803,-23.17,Minor,0.0456,131.443,4-Apr,0.0429
+Opera,Georges Bizet,"Carmen, WD. 31, Act I: L'amour est un oiseau rebelle (Habanera)",1TFpHyRlsDEhj6FWtnPZCq,12,0.903,0.384,277733,0.116,0,G,0.436,-22.517,Major,0.0846,134.734,4-Apr,0.392
+Opera,Richard Wagner,Prelude to Act I,1Wfrvn5cCpjhKuIqRreZ1V,15,0.873,0.181,698813,0.33,0.872,C,0.0825,-13.051,Major,0.0307,83.462,4-Apr,0.251
+Opera,Giuseppe Verdi,Sanctus,1d4HLVSqQ6T7LpfIjRMBUe,14,0.984,0.33,163107,0.317,0.659,F,0.0492,-14.015,Major,0.0388,113.735,4-Apr,0.214
+Opera,Georges Bizet,Scènes bohémiennes: IV. Danse bohémienne (Live),1sctpb39vbP7sL3iJeVF08,18,0.822,0.358,205467,0.255,0.774,G,0.697,-26.36,Major,0.578,117.836,4-Apr,0.145
+Opera,Richard Wagner,Götterdämmerung / Dritter Aufzug: Trauermarsch,21P0QNQvfyBdVjak3tAmCk,9,0.909,0.169,394333,0.0665,0.85,C,0.103,-16.052,Minor,0.0386,127.327,4-Jan,0.0386
+Opera,Giuseppe Verdi,"I Lombardi / Act 2: ""La mia letizia infondere""",2BqBuC4B1EhBzeiLy1bnOr,20,0.988,0.336,131400,0.248,0.159,A,0.0996,-13.176,Major,0.041,77.717,4-Apr,0.192
+Opera,Richard Wagner,"Siegfried, WWV 86C, Act II (Highlights): Aber wie sah meine Mutter wohl aus?",2RNeGMw481422GqeZMfb3t,19,0.819,0.162,318907,0.0325,0.000165,A,0.0979,-28.307,Major,0.046,76.022,4-Jan,0.0729
+Opera,Giacomo Puccini,C'è Mimì...c'e Mimì che mi seque (Musetta/Rodolfo/Schaunard/Mimì/Marcello) - 1997 Remastered Version,2W2d9bHqWPkx49209M47DC,17,0.973,0.183,328800,0.0767,0.00148,E,0.177,-19.073,Minor,0.0492,70.809,4-Mar,0.0395
+Opera,Georges Bizet,"L'Arlésienne Suite No. 1, GB. 121: I. Prélude",2tFEsOANn8Hn0Xv7ddoYEe,13,0.983,0.236,396600,0.0292,0.882,C,0.0588,-23.868,Minor,0.0411,122.615,4-Apr,0.0392
+Opera,Giacomo Puccini,"La Bohème / Act 1: Pensier profondo"" - Live",2ysYOoAfAfkO5keaymNo8d,8,0.982,0.409,78360,0.125,0.00465,B,0.28,-20.973,Major,0.0671,97.599,4-Mar,0.223
+Opera,Richard Wagner,"Lohengrin, Act III: Wedding March (Elsa's Procession to the Cathedral) (arr. J.R. Bourgeois)",31TOtOOC4ztQTntmWFytZa,9,0.936,0.065,472053,0.0284,0.854,D#,0.0712,-22.801,Major,0.0391,70.224,4-Apr,0.0337
+Opera,Giacomo Puccini,La Bohème / Act 2: Ch'io beva del tossico! - Live,3F4vb2IlY7gkB5fbFQ9C9E,8,0.966,0.494,196920,0.208,0.000107,D#,0.153,-19.675,Major,0.232,123.865,4-May,0.465
+Opera,Giuseppe Verdi,"La traviata / Act 1: ""Libiamo ne'lieti calici"" (Brindisi) - Live",3FSOFEWGHrfsEJlspMLqSU,17,0.955,0.444,208373,0.274,8.06E-06,A#,0.586,-13.411,Major,0.0629,107.583,4-Apr,0.465
+Opera,Richard Wagner,"Das Rheingold / Zweite Szene: ""Endlich, Loge!""",3a8BShdA0HOjgIHSFclubm,8,0.925,0.414,224933,0.158,1.61E-05,C#,0.115,-22.168,Major,0.0691,91.916,4-Apr,0.136
+Opera,Giuseppe Verdi,Aida: Danza Sacre delle Sacerdotesse,3u02B57scqZyXHuy7bfFjl,14,0.944,0.151,123333,0.00219,0.00503,D#,0.0847,-42.958,Major,0.0394,182.149,4-Apr,0.421
+Opera,Giuseppe Verdi,Il Corsaro / Act 3: Eccomi prigionero!,3z81QpyWtFifYk9UFL8ZZi,10,0.915,0.181,223827,0.0705,0.00339,E,0.0998,-21.87,Minor,0.046,165.852,4-Jan,0.037
+Opera,Georges Bizet,"Bizet: Carmen: quant au douanier, c'est notre affaire! - Act Three",3z87xDPc6Yc57Npcw2sOHM,15,0.991,0.408,215253,0.23,0.5,F#,0.167,-19.067,Major,0.0455,111.378,4-Apr,0.378
+Opera,Léo Delibes,Coppelia: Act I - Scene,5RdT6jwS1bOZuXJARtHl7T,14,0.909,0.292,207800,0.0167,0.0497,F,0.151,-30.889,Major,0.0435,136.832,4-Apr,0.0716
+Opera,Giuseppe Verdi,"Rigoletto, Act III: ""La donna è mobile""",66ypklIEZJXv4IOnKstC8d,16,0.985,0.348,124293,0.141,0.000655,B,0.0743,-16.267,Major,0.0525,76.011,4-Apr,0.4
+Opera,Vincenzo Bellini,"La Sonnambula / Act 2: Ah! non credea mirarti si presto estinto, o fiore",6mGrLps06LxyXqcIDrK0Dp,9,0.99,0.204,303507,0.0453,0.408,C,0.141,-23.897,Major,0.069,82.781,4-Apr,0.0364
+Opera,Vincenzo Bellini,Bellini: Norma / Act 1 - Meco all'altar di Venere,6r8xgeYFGY3beeUPU4FFK5,11,0.973,0.3,245960,0.328,0.000839,D#,0.119,-15.64,Major,0.0543,140.675,4-Mar,0.214
+Opera,Giuseppe Verdi,"La traviata, Act I: Prelude",7jzvivKTu97WCt5kpRnJnz,19,0.911,0.267,228000,0.0337,0.777,B,0.393,-32.952,Major,0.0411,113.474,4-Apr,0.109
+Opera,Giuseppe Verdi,"Aida: Mortal, diletto ai Numi",7kdzC7aC2y5sBy1x25hVct,14,0.982,0.318,67640,0.301,0.00154,G#,0.105,-20.875,Minor,0.067,84.477,4-Apr,0.111
+Opera,Giacomo Puccini,Madama Butterfly / Act 1: Ier l'altro il Consolato,7rAGZEDw3LeiiB8S65l3Ip,16,0.978,0.294,128499,0.269,0.335,A#,0.654,-15.06,Major,0.0372,66.664,4-Mar,0.322
+Opera,Jean-Philippe Rameau,"Suite in D Major, RCT3: I. Les Niais de Sologne",10X1W5Qlr8Yl9eqSWeEYBI,17,0.99,0.361,359347,0.105,0.839,D,0.0937,-25.279,Major,0.0394,112.292,4-Apr,0.503
+Opera,Jean-Baptiste Lully,Trios pour le coucher du Roi: Sarabande,5Zp8dLQFJ2hb0XDHlrATWX,13,0.736,0.161,88427,0.179,8.41E-05,B,0.308,-14.523,Major,0.0419,78.715,4-Mar,0.312
+Opera,Jean-Philippe Rameau,"Six Concerts transcrits en Sextuor, Sixième concert: La poule",5eUmAF4WXGuFYcrI4vbxqK,20,0.96,0.559,356560,0.326,0.765,F#,0.108,-13.548,Minor,0.0394,115.822,4-Apr,0.368
+Opera,Jean-Philippe Rameau,"Castor et Pollux, RCT 32, Acte I, Scène III: Prélude - Air accompagné ""Tristes apprêts""",5qzHbRSMvjufGp8oyMBWmi,20,0.976,0.0933,453200,0.0142,0.753,D,0.114,-28.985,Major,0.0459,86.471,4-Apr,0.0389
+Opera,Jean-Philippe Rameau,"Les Indes galantes, RCT 44, Première entrée, Le turc généreux, Scène VI: Air pour les esclaves africains",0yBLQ4hGFGJhbRJubc0RJr,18,0.859,0.582,107373,0.178,0.0267,F#,0.174,-18.252,Minor,0.0325,82.735,4-Apr,0.596
+Opera,Alessandro Scarlatti,Sonata (Concerto No. 9) in A Minor: II. Largo,3mHIwK7FNLV3e1fcZ9y1PC,12,0.87,0.218,91933,0.0373,0.00078,C#,0.119,-21.075,Minor,0.0437,128.625,4-Apr,0.0977
+Opera,Jean-Philippe Rameau,Nouvelles suites de pièces de clavecin / Suite In G Major: Gavotte avec 6 doubles,0II6CRKLHUwLmzXIhtFUm4,11,0.903,0.283,537773,0.366,0.00175,G#,0.149,-15.792,Minor,0.0351,100.571,4-Apr,0.487
+Opera,Anne Sofie von Otter,Rope,1aqVep8jj3t7510kMSAOvn,20,0.936,0.501,235867,0.238,3.47E-06,E,0.0527,-13.389,Minor,0.0329,120.424,4-Apr,0.129
+Opera,Jean-Baptiste Lully,"Trios pour le coucher du roi, LWV 35: Chaconne",0u8wdMZVCBsWUJZA6GLQON,15,0.881,0.201,215387,0.115,0.000183,A#,0.152,-19.805,Major,0.0503,78.51,4-Apr,0.453
+Opera,Tomaso Albinoni,"Sonata In G Minor For Violin And Continuo, So 33: Sarabanda: Allegretto",7HkA2ZE7u2IIp8LPvr1i1o,13,0.917,0.486,62360,0.102,2.28E-06,G,0.137,-18.722,Minor,0.0544,100.532,4-Apr,0.591
+Opera,Alessandro Scarlatti,Sonata (Concerto No. 9) in A Minor: V. Allegro,1nmfu2AKn0x3sRuAJpc6Bn,11,0.852,0.5,115640,0.124,0,G#,0.112,-19.962,Minor,0.0421,76.474,4-Apr,0.603
+Opera,Alessandro Scarlatti,Sonata (Concerto No. 9) in A Minor: IV. Largo,4dqpRGYkARWksBx7JnjK0K,12,0.988,0.216,104667,0.027,0.000347,G#,0.0718,-25.031,Minor,0.0488,128.866,4-Mar,0.24
+Opera,Pietro Mascagni,"Cavalleria rusticana: ""Intanto, amici, qua...Viva il vino spumeggiante""",4pzA4CLcbciNkBRNr7YCC1,11,0.94,0.34,173467,0.356,0.000962,G,0.261,-10.311,Major,0.042,82.293,4-May,0.595
+Opera,Tomaso Albinoni,"Concerto a 5 in C Major, Op. 9, No. 9: II. Adagio (non troppo)",5JwOZHEF2eQ0KjlnsUaglv,19,0.949,0.249,181293,0.164,0.831,A,0.107,-17.1,Minor,0.0399,69.407,4-Mar,0.0672
+Opera,Jean-Baptiste Lully,Trios pour le coucher du Roi: Symphonie,1k9Xkhcy1tj13BVBl3XeUh,13,0.835,0.28,106907,0.279,0.00671,B,0.147,-14.677,Major,0.0506,68.298,4-Apr,0.335
+Opera,Gaetano Donizetti,Lucia di Lammermoor: Act III: Ohimè! Sorge il tremendo fantasma... Ardon gli incensi,0pi5pzpV2y3rAc6p202yVj,13,0.985,0.247,523373,0.0917,0.0243,C,0.114,-21.196,Minor,0.0564,174.758,4-Apr,0.04
+Opera,Alfredo Catalani,"Catalani: La Wally, Act 1: ""Ebben, ne andrò lontana"" (Wally)",0sXuC1OYFvjyQKqsA7RhSN,20,0.986,0.276,223386,0.139,0.0436,E,0.0865,-17.968,Major,0.051,83.589,4-Mar,0.037
+Opera,Christian Gerhaher,Lieder eines fahrenden Gesellen: II. Ging heut morgen über's Feld,2B4VMMtYMbbUyelIi1lwI2,16,0.985,0.333,264653,0.0452,0.0139,F#,0.0759,-27.348,Major,0.0427,70.714,4-Apr,0.101
+Opera,Adolphe Adam,Giselle / Act 1: No. 5a Exit of the Court,2Php4BN6UZADruAIvmxICp,13,0.972,0.581,44146,0.197,0.896,A,0.11,-16.972,Major,0.0667,112.507,4-Apr,0.73
+Opera,Mario del Monaco,"Turandot: ""Nessun dorma""",2i7mVhdw7tZJqpeRGWOS0x,19,0.993,0.184,178347,0.324,0.0106,D,0.453,-9.657,Major,0.0384,80.623,4-May,0.129
+Opera,Plácido Domingo,Como Ayer,50uifQ97eHBesjZaiLVYwC,19,0.867,0.325,215413,0.439,0,C,0.0921,-9.31,Minor,0.0347,79.357,4-Apr,0.268
+Opera,Jessye Norman,"5 Wesendonk Lieder: ""Im Treibhaus""",1OmMuX3JQYhBZXalXZmAKR,15,0.995,0.272,359907,0.0493,0.0651,G,0.164,-21.806,Minor,0.0699,76.763,4-Mar,0.0356
+Opera,Renée Fleming,River,2kPvW3QUA8j4EX7NkLng77,12,0.985,0.465,259920,0.173,0.000252,A,0.0822,-13.18,Major,0.0336,75.115,4-Apr,0.118
+Opera,Adolphe Adam,Giselle: Act II: Pas des premieres Wilis (The Wilis Appear),2ymsZ22mEYy9dzJNtvIN5P,12,0.809,0.279,473533,0.0175,0.0409,D#,0.0814,-26.55,Major,0.0388,95.434,4-Apr,0.111
+Opera,Adolphe Adam,Giselle: Act I: Allegretto,3a7OBh7r81f34hZktRzpzl,12,0.843,0.306,37493,0.0306,0.316,G,0.152,-37.346,Major,0.0559,174.823,4-Apr,0.418
+Opera,Adolphe Adam,Giselle: No. 1 - Allegro,4LelAtrpApGyPFEhR2Y9r0,13,0.925,0.206,86267,0.00399,0.103,G,0.0791,-37.461,Major,0.0376,136.324,4-Apr,0.0987
+Opera,Adolphe Adam,Giselle / Act 2: No. 19 Variation d'Albrecht,6wJl2kiSncaDPebMlwe0h0,14,0.952,0.622,58559,0.138,0.941,D#,0.133,-20.359,Major,0.0409,88.811,4-Jan,0.548
+Opera,Gaetano Donizetti,"La fille du régiment / Act 2: ""C'en est donc fait, en mon sort va changer""",2aV97T7J3k4wU49bDtcQv9,13,0.97,0.288,613000,0.131,0.000512,G#,0.739,-18.777,Major,0.0715,90.803,4-Apr,0.0384
+Opera,Adolphe Adam,Giselle: Act I: Valse - Pas de vendanges,3sh9l2rtgoDIBBiNQ8g5XQ,12,0.808,0.384,91133,0.0671,0.677,A,0.152,-23.955,Major,0.0585,157.291,4-Mar,0.364
+Opera,Adolphe Adam,Giselle: Act II: Ensemble des Wilis,7zdGnxieApTs8G91zQv9zb,12,0.759,0.319,119693,0.0388,0.000318,G#,0.174,-24.384,Major,0.033,88.87,4-May,0.24
+Opera,Accademia Bizantina,Concerto No. 8 In A Minor RV 522: I. Allegro,0mbv5rsmlv8Av79qHYHAZ1,14,0.83,0.453,199533,0.234,0.499,G#,0.123,-17.479,Minor,0.0374,117.31,4-Apr,0.503
+Opera,Gaetano Donizetti,"Donizetti : Don Pasquale, Act 2: ""Povero Ernesto"" (Ernesto) [Arr. for Trumpet & Orchestra]",1piIqVzu57oH6PEhr5gu1e,18,0.984,0.185,367507,0.0935,0.198,G#,0.0795,-19.678,Major,0.0415,161.107,4-Mar,0.0764
+Opera,Adolphe Adam,Giselle: Act I: Allegretto pesante,2zrkUuMs1zKhVcdhfh6Yrg,13,0.907,0.454,47840,0.0742,0.775,B,0.146,-22.067,Major,0.0597,205.065,4-Mar,0.718
+Opera,Plácido Domingo,"Alfonsina Y El Mar, Gracias A La Vida - Medley",4Ct81PJ1gUeNkrsITQljL4,20,0.966,0.285,293720,0.331,0.000264,F,0.102,-12.105,Minor,0.0371,128.332,4-Apr,0.0702
+Opera,Alfredo Kraus,Quiéreme Mucho,5z4Hsdoglw9NwmS0T9C9xv,20,0.978,0.221,246440,0.272,0.000114,G,0.273,-8.645,Minor,0.0336,89.545,4-Mar,0.19
+Opera,Adolphe Adam,Giselle: No. 4 - Allegro Loure,6hNixv5YtPJRoEQqvb3BTa,12,0.932,0.34,62400,0.102,0.817,D,0.0796,-22.311,Major,0.042,127.366,4-Mar,0.225
+Opera,Gaetano Donizetti,"La fille du régiment / Act 2: La romance perdue, on la retrouvée",718l4bfp9rDmsw2XeORG8V,13,0.974,0.442,99907,0.113,0,F,0.183,-21.638,Major,0.359,71.388,4-Mar,0.235
+Opera,Gaetano Donizetti,L'elisir d'amore: Overture (Preludio),00FclZvcEiHbWdn9kAiQwL,11,0.969,0.251,161200,0.0188,0.828,D,0.108,-24.597,Major,0.0458,141.442,4-Mar,0.0995
+Opera,Adolphe Adam,"O, Holy Night",0IPZV1xZ66u9tZpHs5rqrP,7,0.93,0.162,154227,0.247,0.399,D#,0.107,-15.706,Major,0.0331,77.116,4-Apr,0.0766
+Opera,Umberto Giordano,"Andrea Chénier / Act 4: ""Come un bel dì di maggio"" - Remastered",2JDBCBhpz0ebZDSwpWbRIQ,13,0.896,0.189,198333,0.246,2.27E-06,F#,0.112,-14.602,Minor,0.0393,77.855,4-May,0.155
+Opera,Francesco Cilea,"Cilea: Adriana Lecouvreur, Act 4: ""Poveri fiori"" (Adriana Lecouvreur)",6iyK1rqPg6I8Wkc9byYoNC,9,0.99,0.158,192107,0.093,0.0307,D,0.117,-15.169,Minor,0.0446,57.661,4-May,0.0654
+Opera,Anna Netrebko,"Ciganské melodie, Op.55, B. 104 - Arr. by Jiri Teml: 4. Kdyz mne stara matka",7rtoBjKmANfE5lEd8J64uq,18,0.965,0.194,190480,0.101,0.0235,C#,0.106,-19.646,Major,0.0385,85.104,4-Mar,0.0647
+Opera,Adolphe Adam,O Holy Night (Cantique de Noel) - Orchestral Version,0WaJ21mqQwv9vI2xiM0YLm,11,0.965,0.103,278613,0.148,0.871,D#,0.113,-17.912,Major,0.0412,86.024,4-Mar,0.0377
+Opera,Alfredo Catalani,Ebben? Ne andrò lontana,1XVGmOJFBL6oRtTRJaR1bJ,10,0.985,0.254,301187,0.187,0.44,E,0.094,-17.054,Minor,0.0425,132.646,4-Apr,0.0389
+Opera,Umberto Giordano,"Andrea Chénier, Act 3: ""La mamma morta""",1cZc3NGK4qEMyiIU4e9vBm,15,0.976,0.177,338480,0.0647,2.32E-05,B,0.134,-17.002,Minor,0.0449,172.952,4-Mar,0.0348
+Opera,Gaetano Donizetti,"Lucia di Lammermoor / Act 3: ""Il dolce suono""",3ahaZhBHIVG9gfBwuDQKQX,15,0.977,0.242,408400,0.0336,0.00106,D,0.125,-22.382,Minor,0.0747,68.058,4-Apr,0.04
+Opera,Francesco Cavalli,"La Calisto, ACT I, Scene 14: Ballo de Orsi",4U0RgRS6zKIINeiNJLcLYe,13,0.764,0.26,185600,0.0901,0.225,C,0.0864,-26.471,Major,0.0342,83.859,4-Mar,0.445
+Opera,Adolphe Adam,Giselle: No. 5 - Allegro,4fEq269S3mLmVCDBUZilfz,12,0.952,0.461,177693,0.107,0.704,D,0.0797,-21.525,Major,0.0424,113.12,4-Apr,0.23
+Opera,Adolphe Adam,O helga natt (Adams julsång),5QtZJm6SgqyzJMWvaTa62T,21,0.754,0.133,304467,0.265,0.653,E,0.127,-14.595,Major,0.0363,91.596,4-Apr,0.188
+Opera,Mirella Freni,La Bohème: Donde lieta uscì,5weEKs3DfdvkUL398vrRTC,16,0.987,0.276,202933,0.0524,4.62E-05,F#,0.0737,-17.676,Minor,0.0411,88.241,4-Apr,0.037
+Opera,Adolphe Adam,Giselle: Act I: Andante,79rkpLbFROZuuXFI56FyNB,11,0.906,0.19,108240,0.0108,0.544,G,0.113,-30.555,Major,0.0433,128.858,4-Mar,0.0392
+Opera,Adolphe Adam,Giselle / Act 2: No. 22 Scène Finale,7oadh5eOa5vwIvQOZJZFCc,13,0.95,0.111,305399,0.0126,0.925,F,0.121,-32.755,Major,0.041,71.211,4-Apr,0.0325
+Opera,Adolphe Adam,Giselle: Act I: Entree de Loys,2JmL7GBTVaWMo8kCpECxmp,12,0.936,0.344,93000,0.0379,0.908,C,0.28,-24.739,Major,0.0454,117.288,4-Apr,0.195
+Opera,Plácido Domingo,"Delirio, Alma Llanera - Medley",2snR09Ruc0P5mcUvuQXHfu,20,0.694,0.218,295880,0.471,1.24E-05,D,0.164,-8.587,Major,0.0358,79.222,4-Apr,0.226
+Opera,Adolphe Adam,Giselle: Act I: Allegro un peu loure,3Ni790Wketqnn1GnIh2IRA,11,0.91,0.358,153133,0.0118,0.137,G#,0.096,-28.36,Major,0.0386,168.61,4-Apr,0.133
+Opera,Franco Corelli,Serse: Act 1. Ombra Mai Fu: Largo,3v3gYzjvwbhlMS9t6gGNxw,15,0.987,0.134,243996,0.0273,0.0601,G,0.101,-24.317,Major,0.0381,174.129,4-Apr,0.0681
+Opera,Gaetano Donizetti,"La fille du régiment / Act 2: Ecoutez-moi, de grâce",4KJwQDANVawUt4axdNJXfu,12,0.954,0.432,416800,0.118,0,A,0.665,-21.012,Major,0.162,87.26,4-Apr,0.142
+Opera,Adolphe Adam,No. 21 Myrtha Commands Albrecht To Dance Till He Dies,5h20OsFx3fV0NM2N0DGSyx,15,0.916,0.326,124026,0.0685,0.911,G#,0.133,-24.467,Major,0.0338,114.889,4-Jan,0.506
+Opera,Accademia Bizantina,"Concerto Per Violoncello, Archi E Basso Continuo, In Re Minore RV 405: I. Allegro",77YYwtqKw6Rme6DlPWrNTc,14,0.926,0.381,183360,0.274,0.538,C#,0.24,-16.201,Minor,0.0399,140.985,4-Mar,0.343
+Opera,Renée Fleming,New York Tendaberry,0HQbFwXydY3uLo5QSjXOo0,10,0.966,0.204,439680,0.279,0.082,F,0.0984,-11.786,Major,0.0323,82.27,4-Apr,0.0762
+Opera,Renée Fleming,Hallelujah,38giflmf6xvUrYDu0YEL3R,10,0.843,0.263,206547,0.0826,0.00291,D#,0.0823,-21.85,Minor,0.0361,186.713,4-Mar,0.167
+Opera,Gaetano Donizetti,"L'elisir d'amore / Act 1: ""Benedette queste carte!"" - ""Della crudele Isotta""",3bZGuQs4KrvNaSGErOZODq,17,0.98,0.396,304181,0.151,2.45E-06,E,0.07,-16.239,Major,0.0841,114.795,4-May,0.113
+Opera,Plácido Domingo,"Thaïs: Méditation from ""Thaïs""",3zL4UHeDP7eLWExo4skLzl,12,0.775,0.0886,331667,0.0879,0.521,E,0.113,-22.055,Minor,0.0491,62.662,4-Mar,0.0352
+Opera,Gaetano Donizetti,L'elisir d'amore: Act II: Una furtiva lagrima,4EpbeSnJ6VqYHPyd6oZJ9M,10,0.993,0.19,299365,0.0736,0.0137,A#,0.104,-21.405,Minor,0.0402,93.014,4-Apr,0.0387
+Opera,Alfredo Kraus,Princesita,4f0si3dDDkBP8PQpDtJQZ2,22,0.985,0.374,179879,0.247,0,B,0.182,-9.352,Major,0.0401,124.273,4-Apr,0.318
+Opera,Jonas Kaufmann,"La traviata / Act 2: ""Lunge da lei...De miei bollenti spiriti...O mio rimorso""",6P1BHoHQDDdMxczbFsysnp,18,0.976,0.315,445147,0.303,0.0146,C,0.0666,-11.367,Major,0.0617,75.66,4-Apr,0.153
+Opera,Gaetano Donizetti,"La fille du régiment / Act 2: ""Oui! Quand le destin, au milieu de la guerre, enfant, me jeta dans leurs bras""",7c05ZUlXxh83poeZb5atlQ,12,0.98,0.27,249000,0.152,0.00106,F,0.0881,-16.988,Major,0.0678,76.432,4-Mar,0.067
+Opera,Friedrich von Flotow,"Flotow: Martha, Act 3: ""Ach so fromm"" (Lionel)",7qb8z1ejpUVPxf0Ru3VBU5,19,0.982,0.206,211066,0.195,0.000184,F,0.12,-14.574,Major,0.0383,86.453,4-Apr,0.101
+Opera,Plácido Domingo,"Hosanna - From ""Requiem""",1VZ9JRr3AghpnQ0y9RPNzu,16,0.706,0.266,221907,0.39,3.45E-05,F#,0.367,-9.529,Major,0.0445,149.029,4-Apr,0.113
+Opera,Adolphe Adam,Giselle: Act I: Marche des vignerons (Grape-Pickers' March),1ly3JpAkBnr8PjoZbHzED3,12,0.743,0.417,196000,0.248,0.89,D,0.0992,-19.748,Major,0.0843,82.056,4-Mar,0.569
+Opera,Nicolai Ghiaurov,Mozart: Don Giovanni: La ci darem la mano,236FbV55sF5WJ0IIv8VYgW,16,0.987,0.351,193160,0.216,0.000495,A#,0.383,-15.896,Major,0.0768,91.411,4-Apr,0.173
+Opera,Adolphe Adam,Giselle: Andante,2Vs1B0E5uibrCq5ERdurT0,14,0.953,0.297,249400,0.0119,0.249,D,0.158,-29.03,Major,0.0431,121.582,4-Apr,0.075
+Opera,Renée Fleming,My Cherie Amour (feat. Fred Hersch & Bill Frisell),2md2XvsWvyDCFcjnFJ2sLC,19,0.989,0.503,201813,0.149,4.72E-05,G#,0.325,-16.827,Major,0.0362,116.701,4-Apr,0.19
+Opera,Adolphe Adam,Giselle / Act 1: No.7 Marche des vignerons,2uJ6Z3KmDcqH2uxtMJaEHz,14,0.943,0.399,164039,0.302,0.869,D,0.0742,-17.86,Major,0.0586,165.27,4-Mar,0.565
+Opera,Philharmonia Orchestra,Brideshead Revisited - Main Theme,5EdckLfqVciMRBuyU2P9ZD,7,0.859,0.239,123160,0.203,0.858,C,0.102,-13.505,Major,0.0335,110.097,4-Apr,0.0469
+Opera,Gaetano Donizetti,"L'elisir d'amore / Act 1: ""Come Paride vezzoso""",5ErATdG3kpkc4Ucu0Q95Z2,10,0.957,0.34,477907,0.232,1.10E-05,F,0.0598,-18.753,Major,0.269,74.012,4-Apr,0.307
+Opera,Gaetano Donizetti,Quintetto Per Archi Con Chitarra In Do Maggiore: Largo-Allegro,5a6r0ROiLUZVe5ItmneI3F,10,0.988,0.278,298133,0.026,0.549,D#,0.0929,-28.017,Major,0.0641,71.597,4-Apr,0.204
+Opera,Adolphe Adam,Giselle / Act 1: No.6 Scène d'Hilarion,6y8ea9hF9CRsqr0fKd1wW0,13,0.981,0.422,42626,0.00499,0.0617,G,0.0819,-38.13,Major,0.0495,120.933,4-Apr,0.042
+Opera,Adolphe Adam,Giselle: Act I: Galop general,787HfqNTWdWT1duKIdSCox,11,0.844,0.57,190733,0.13,0.874,A,0.247,-21.531,Major,0.0771,120.317,4-Apr,0.212
+Opera,Adolphe Adam,Giselle: Act I: Entree joyeuse des vendangeurs et vendangeuses (Entry of the Grape-Pickers),0wcXCA8IODNRfCT5YVzKMr,12,0.86,0.257,96000,0.00364,0.254,G,0.0889,-38.117,Major,0.0401,117.479,4-Apr,0.211
+Opera,Adolphe Adam,Giselle / Act 1: No. 5a Pas de Deux: Boy’s Second Variation,2ITbZdkgs0Nv5iG1Xpcish,14,0.877,0.49,54986,0.0862,0.991,B,0.0913,-19.779,Major,0.045,171.613,4-Mar,0.717
+Opera,Lesley Garrett,Lakme: Sous le dome Epais (The Flower Duet),3Tjk15276ezmJTZMi94W5C,9,0.965,0.26,229333,0.224,0.11,B,0.0801,-15.939,Major,0.0368,107.669,4-May,0.0923
+Opera,Adolphe Adam,Giselle: Act II: Adagio,3XKnvblvjC8fzH9nBAwqlK,14,0.802,0.136,336573,0.01,0.014,G#,0.0488,-33.973,Major,0.0478,74.003,4-Apr,0.0784
+Opera,Adolphe Adam,Giselle: Act I: Finale du 1er Acte et Scene de folie (Finale of Act 1 and Mad Scene),4n58HSjyoJUCcLQOVq8ocM,12,0.751,0.271,581600,0.00636,0.101,E,0.144,-24.797,Minor,0.0422,137.41,4-Apr,0.0428
+Opera,Gaetano Donizetti,"La fille du régiment / Act 2: ""Tous les trois réunis, quel plaisir mes amis!""",7BvSQALub9FUQW9qeNTmkS,13,0.986,0.412,180400,0.25,0.0123,G,0.798,-19.332,Major,0.19,90.419,4-Apr,0.328
+Opera,Alban Berg,"Berg: Violin Concerto, ""To the Memory of an Angel"": II. Allegro (Cadenza) - Adagio (Variations on the Chorale ""Es ist genug, so nimm, Herr"")",3LlncrSfcAQzQfcVjrPn0Q,14,0.922,0.0686,960572,0.0496,0.25,F,0.112,-26.192,Major,0.0435,63.717,4-Mar,0.0347
+Opera,Florilegium,Trio Sonata in G Major BWV 1038: Adagio,6jkoS3rnKC1Qt1rBwbjZoV,16,0.863,0.178,121227,0.0945,0.0699,D#,0.13,-18.166,Minor,0.0397,141.809,4-Apr,0.152
+Opera,Florilegium,Trio Sonata in G Major BWV 1038: Largo,1JcWts23pA7pJ5Lv878VrC,17,0.81,0.0828,208360,0.16,0,F#,0.103,-14.393,Major,0.0422,81.8,4-Apr,0.112
+Opera,Engelbert Humperdinck,"Hänsel und Gretel, Act II: Abends, will ich schlafen gehn (Hänsel/Gretel)",2EuOpkLuYsf0aEIBfORTfP,10,0.955,0.181,150933,0.0271,0.00749,D,0.172,-26.954,Major,0.0407,62.277,4-Mar,0.0362
+Opera,Georges Bizet,Carmen Suite No. 1: I. Prelude - Aragonaise,5csWBPxgklVet7ytdTguFb,8,0.476,0.305,141000,0.0639,0.00156,A#,0.293,-24.306,Major,0.0341,112.184,4-Jan,0.619
